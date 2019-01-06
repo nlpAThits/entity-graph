@@ -1,0 +1,75 @@
+1	Unbekannte	Unbekannter|Unbekannte|Unbekanntes	NN	_	_	2	SUBJ	_	_
+2	haben	haben%aux	VAFIN	_	_	0	ROOT	_	_
+3	in	in	APPR	_	_	17	PP	_	_
+4	der	die	ART	_	_	5	DET	_	_
+5	Nacht	Nacht	NN	_	_	3	PN	_	_
+6	zum	zu	APPRART	_	_	5	PP	_	_
+7	Sonnabend	Sonnabend	NN	_	_	6	PN	_	_
+8	auf	auf	APPR	_	_	17	PP	_	_
+9	der	die	ART	_	_	10	DET	_	(0
+10	Bahnstrecke	Bahnstrecke	NN	_	_	8	PN	_	_
+11	Hamburg-Uelzen	Hamburg-Uelzen	NN	_	_	10	APP	_	0)
+12	bei	bei	APPR	_	_	17	PP	_	_
+13	Bad	Bad	NE	_	_	12	PN	_	_
+14	Bevensen	Bevensen	NE	_	_	13	APP	_	_
+15	die	die	ART	_	_	16	DET	_	_
+16	Geschwindigkeitsüberwachung	Geschwindigkeitsüberwachung	NN	_	_	17	OBJA	_	_
+17	lahmgelegt	lahm#legen	VVPP	_	_	2	AUX	_	_
+18	.	.	$.	_	_	17	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	2	DET	_	_
+2	Bundesbahn	Bundesbahn	NE	_	_	3	SUBJ	_	_
+3	vermutet	vermuten	VVFIN	_	_	0	ROOT	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	daß	daß	KOUS	_	_	13	KONJ	_	_
+6	militante	militant	ADJA	_	_	7	ATTR	_	_
+7	Kernkraftgegner	Kernkraftgegner	NN	_	_	13	SUBJ	_	_
+8	den	der	ART	_	_	9	DET	_	_
+9	Verteilerkasten	Verteilerkasten	NN	_	_	12	OBJA	_	_
+10	in	in	APPR	_	_	12	OBJP	_	_
+11	Brand	Brand	NN	_	_	10	PN	_	_
+12	gesteckt	stecken	VVPP	_	_	13	AUX	_	_
+13	haben	haben%aux	VAFIN	_	_	3	OBJC	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+
+1	Bei	bei	APPR	_	_	4	PP	_	_
+2	den	das	ART	_	_	3	DET	_	_
+3	Gleisen	Gleis	NN	_	_	1	PN	_	_
+4	sei	sein%aux	VAFIN	_	_	0	ROOT	_	_
+5	ein	ein	ART	_	_	11	DET	_	_
+6	"	"	$(	_	_	7	-PUNCT-	_	_
+7	Stoppt	stoppen	VVIMP	_	_	11	-UNKNOWN-	_	_
+8	Castor	Castor	NN	_	_	7	OBJA	_	_
+9	"	"	$(	_	_	8	-PUNCT-	_	_
+10	-	-	$(	_	_	8	-PUNCT-	_	_
+11	Flugblatt	Flugblatt	NN	_	_	4	SUBJ	_	_
+12	gefunden	finden	VVPP	_	_	13	AUX	_	_
+13	worden	werden%passiv	VAPP	_	_	4	AUX	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	2	DET	_	_
+2	Kriminalpolizei	Kriminalpolizei	NN	_	_	3	SUBJ	_	_
+3	ermittelt	ermitteln	VVFIN	_	_	0	ROOT	_	_
+4	.	.	$.	_	_	3	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	2	DET	_	_
+2	Flammen	Flamme	NN	_	_	3	SUBJ	_	_
+3	wurden	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+4	schnell	schnell	ADJD	_	_	5	ADV	_	_
+5	gelöscht	löschen	VVPP	_	_	3	AUX	_	_
+6	,	,	$,	_	_	5	-PUNCT-	_	_
+7	Beeinträchtigungen	Beeinträchtigung	NN	_	_	11	OBJA	_	_
+8	habe	haben%aux	VAFIN	_	_	3	KON	_	_
+9	es	es	PPER	_	_	8	SUBJ	_	_
+10	keine	keine	PIAT	_	_	7	DET	_	_
+11	gegeben	geben	VVPP	_	_	8	AUX	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	_
+2	Sachschaden	Sachschaden	NN	_	_	3	SUBJ	_	_
+3	betrage	betragen	VVFIN	_	_	0	ROOT	_	_
+4	rund	rund	ADV	_	_	6	ADV	_	_
+5	70.000	70.000	CARD	_	_	6	ATTR	_	_
+6	Mark	Mark	NN	_	_	3	OBJA	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+

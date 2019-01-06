@@ -1,0 +1,27 @@
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	3	det	_	-
+2	neue	neu	ADJA	ADJA	Pos|Neut|Nom|Sg|Wk|	3	attr	_	-
+3	Betriebssystem	Betriebssystem	N	NN	Neut|Nom|Sg	4	subj	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	noch	noch	ADV	ADV	_	6	adv	_	-
+6	nicht	nicht	PTKNEG	PTKNEG	_	8	adv	_	-
+7	ganz	ganz	ADV	ADV	_	8	adv	_	-
+8	ausgelotet	ausgelotet	V	VVPP	_	4	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	So	so	ADV	ADV	_	2	adv	_	-
+2	blieb	bleiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	-
+4	Name	Name	N	NN	Masc|Nom|Sg	2	subj	_	-
+5	von	von	PREP	APPR	_	4	pp	_	-
+6	Petra	Petra	N	NE	_|_|_	5	pn	_	-
+7	Kohse	Kohse	N	NE	_|_|_	6	app	_	-
+8	am	an	PREP	APPRART	Dat	2	pp	_	-
+9	Ende	Ende	N	NN	Neut|Dat|Sg	8	pn	_	-
+10	des	die	ART	ART	Def|Neut|Gen|Sg	11	det	_	-
+11	Interviews	Interview	N	NN	Neut|Gen|Sg	9	gmod	_	-
+12	mit	mit	PREP	APPR	Dat	11	pp	_	-
+13	Carl	Carl	N	NE	_|Dat|Sg	12	pn	_	-
+14	Hegemann	Hegemann	N	NE	_|Dat|Sg	13	app	_	-
+15	ungefettet	ungefettet	ADV	ADJD	Pos|	2	pred	_	-
+16	.	.	$.	$.	_	0	root	_	-
+

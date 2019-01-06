@@ -1,0 +1,46 @@
+1	Bücher	Buch	NN	_	_	0	ROOT	_	_
+2	,	,	$,	_	_	1	-PUNCT-	_	_
+3	Zeitschriften	Zeitschrift	NN	_	_	1	KON	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	Videos	Video	NN	_	_	3	KON	_	_
+6	:	:	$.	_	_	5	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	4	DET	_	(0
+2	Hamburger	Hamburger	ADJA	_	_	4	ATTR	_	_
+3	Öffentlichen	öffentlich	ADJA	_	_	4	ATTR	_	_
+4	Bücherhallen	Bücherhalle	NN	_	_	5	SUBJ	_	0)
+5	erhöhen	erhöhen	VVFIN	_	_	0	ROOT	_	_
+6	ihre	ihre	PPOSAT	_	_	7	DET	_	(0)
+7	Gebühren	Gebühr	NN	_	_	5	OBJA	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Erwachsene	Erwachsener|Erwachsene|Erwachsenes	NN	_	_	2	SUBJ	_	_
+2	zahlen	zahlen	VVFIN	_	_	0	ROOT	_	_
+3	jetzt	jetzt	ADV	_	_	2	ADV	_	_
+4	70	70	CARD	_	_	2	OBJA	_	_
+5	statt	statt	APPR	_	_	4	PP	_	_
+6	60	60	CARD	_	_	7	ATTR	_	_
+7	Mark	Mark	NN	_	_	5	PN	_	_
+8	im	in	APPRART	_	_	2	PP	_	_
+9	Jahr	Jahr	NN	_	_	8	PN	_	_
+10	,	,	$,	_	_	9	-PUNCT-	_	_
+11	und	und	KON	_	_	2	KON	_	_
+12	auch	auch	ADV	_	_	13	ADV	_	_
+13	Kinder	Kind	NN	_	_	14	SUBJ	_	_
+14	werden	werden%aux	VAFIN	_	_	11	CJ	_	_
+15	in	in	APPR	_	_	22	PP	_	_
+16	Zukunft	Zukunft	NN	_	_	15	PN	_	_
+17	einen	ein	ART	_	_	18	DET	_	_
+18	Beitrag	Beitrag	NN	_	_	22	OBJA	_	_
+19	von	von	APPR	_	_	18	PP	_	_
+20	fünf	fünf	CARD	_	_	21	ATTR	_	_
+21	Mark	Mark	NN	_	_	19	PN	_	_
+22	löhnen	löhnen	VVINF	_	_	23	AUX	_	_
+23	müssen	müssen%aux	VMINF	_	_	14	AUX	_	_
+24	.	.	$.	_	_	23	-PUNCT-	_	_
+
+1	Sprecherin	Sprecherin	NN	_	_	0	ROOT	_	_
+2	Constanze	Constanze	NE	_	_	1	APP	_	_
+3	Baier	Baier	NE	_	_	2	APP	_	_
+4	:	:	$.	_	_	3	-PUNCT-	_	_
+

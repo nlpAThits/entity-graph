@@ -1,0 +1,24 @@
+1	24	24	CARD	_	_	2	ATTR	_	_
+2	Jahre	Jahr	NN	_	_	0	ROOT	_	_
+3	,	,	$,	_	_	2	-PUNCT-	_	_
+4	geboren	gebären	VVPP	_	_	2	KON	_	_
+5	in	in	APPR	_	_	4	PP	_	_
+6	Ludwigslust	Ludwigslust	NE	_	_	5	PN	_	_
+7	,	,	$,	_	_	6	-PUNCT-	_	_
+8	aufgewachsen	auf#wachsen	VVPP	_	_	4	KON	_	_
+9	in	in	APPR	_	_	8	PP	_	_
+10	Greifswald	Greifswald	NE	_	_	9	PN	_	_
+11	,	,	$,	_	_	10	-PUNCT-	_	_
+12	lebt	leben	VVFIN	_	_	8	KON	_	_
+13	in	in	APPR	_	_	12	PP	_	_
+14	Berlin	Berlin	NE	_	_	13	PN	_	_
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+
+1	Sie	sie	PPER	_	_	2	SUBJ	_	(0)
+2	studiert	studieren	VVFIN	_	_	0	ROOT	_	_
+3	an	an	APPR	_	_	2	PP	_	_
+4	der	die	ART	_	_	5	DET	_	_
+5	FU	FU	NE	_	_	3	PN	_	_
+6	Politikwissenschaften	Politikwissenschaft	NN	_	_	2	OBJA	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+

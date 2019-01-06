@@ -1,0 +1,33 @@
+1	Indiens	Indien	N	NE	Neut|Gen|Sg	3	gmod	_	-
+2	bengalische	bengalisch	ADJA	ADJA	Pos|Masc|Nom|Pl|St|	3	attr	_	-
+3	Tiger	Tiger	N	NN	Masc|Nom|Pl	4	subj	_	-
+4	fallen	fallen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	zunehmend	zunehmen	ADV	ADJD	_|<PPRES	4	adv	_	-
+6	Wilderern	Wilderer	N	NN	Masc|Dat|_	4	objd	_	-
+7	zum	zu	PREP	APPRART	Dat	4	pp	_	-
+8	Opfer	Opfer	N	NN	Neut|Dat|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Im	in	PREP	APPRART	Dat	4	pp	_	-
+2	Naturpark	Naturpark	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	Ranthambhor	Ranthambhor	N	NE	Masc|Dat|Sg	2	app	_	-
+4	wurden	werden	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+5	bei	bei	PREP	APPR	Dat	13	pp	_	-
+6	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+7	letzten	letzte	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	8	attr	_	-
+8	Zählung	Zählung	N	NN	Fem|Dat|Sg	5	pn	_	-
+9	nur	nur	ADV	ADV	_	13	adv	_	-
+10	noch	noch	ADV	ADV	_	13	adv	_	-
+11	15	15	CARD	CARD	_	12	attr	_	-
+12	Tiger	Tiger	N	NN	Masc|Nom|Pl	4	subj	_	-
+13	gefunden	finden	V	VVPP	_	4	aux	_	-
+14	-	-	$(	$(	_	0	root	_	-
+15	44	44	CARD	CARD	_	16	subj	_	-
+16	waren	sein	V	VAFIN	3|Pl|Past|Ind	4	kon	_	-
+17	es	es	PRO	PPER	3|Sg|Neut|Nom	16	pred	_	-
+18	noch	noch	ADV	ADV	_	17	adv	_	-
+19	vor	vor	PREP	APPR	Dat	16	pp	_	-
+20	drei	drei	CARD	CARD	_	21	attr	_	-
+21	Jahren	Jahr	N	NN	Neut|Dat|Pl	19	pn	_	-
+22	.	.	$.	$.	_	0	root	_	-
+

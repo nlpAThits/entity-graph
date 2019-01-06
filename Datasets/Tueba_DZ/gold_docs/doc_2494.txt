@@ -1,0 +1,36 @@
+1	Die	die	ART	_	_	3	DET	_	(0
+2	traditionelle	traditionell	ADJA	_	_	3	ATTR	_	_
+3	Bootsmesse	Bootsmesse	NN	_	_	7	SUBJ	_	_
+4	"	"	$(	_	_	5	-PUNCT-	_	_
+5	Hanseboot	Hanseboot	NE	_	_	3	APP	_	0)
+6	"	"	$(	_	_	5	-PUNCT-	_	_
+7	gilt	gelten	VVFIN	_	_	0	ROOT	_	_
+8	insbesondere	insbesondere	ADV	_	_	7	ADV	_	_
+9	unter	unter	APPR	_	_	7	PP	_	_
+10	dem	das	ART	_	_	11	DET	_	_
+11	Segelvolk	Segelvolk	NN	_	_	9	PN	_	_
+12	als	als	KOKOM	_	_	7	KOM	_	_
+13	gesellschaftliches	gesellschaftlich	ADJA	_	_	14	ATTR	_	_
+14	Ereignis	Ereignis	NN	_	_	12	CJ	_	_
+15	und	und	KON	_	_	7	KON	_	_
+16	ist	sein	VAFIN	_	_	15	CJ	_	_
+17	immer	immer	ADV	_	_	16	ADV	_	_
+18	gut	gut	ADJD	_	_	16	PRED	_	_
+19	für	für	APPR	_	_	16	PP	_	_
+20	einen	ein	ART	_	_	21	DET	_	_
+21	Schnäppchenkauf	Schnäppchenkauf	NN	_	_	19	PN	_	_
+22	.	.	$.	_	_	21	-PUNCT-	_	_
+
+1	Von	von	APPR	_	_	9	PP	_	_
+2	Surfschuhen	Surfschuh	NN	_	_	1	PN	_	_
+3	bis	bis	APPR	_	_	1	KON	_	_
+4	zu	zu	APPR	_	_	3	PP	_	_
+5	einer	eine	ART	_	_	6	DET	_	_
+6	Jacht	Jacht	NN	_	_	4	PN	_	_
+7	ist	sein%aux	VAFIN	_	_	0	ROOT	_	_
+8	dort	dort	ADV	_	_	11	ADV	_	_
+9	alles	alles	PIS	_	_	7	SUBJ	_	_
+10	zu	zu	PTKZU	_	_	11	PART	_	_
+11	haben	haben	VAINF	_	_	7	AUX	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+

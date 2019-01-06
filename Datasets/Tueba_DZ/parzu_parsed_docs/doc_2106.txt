@@ -1,0 +1,33 @@
+1	Kopfschmerz	Kopfschmerz	N	NN	Masc|_|Sg	0	root	_	-
+2	und	und	KON	KON	_	1	kon	_	-
+3	Migräne	Migräne	N	NN	Fem|_|Sg	2	cj	_	-
+4	-	-	$(	$(	_	0	root	_	-
+5	wie	wie	KOKOM	KOKOM	_	8	kom	_	-
+6	Frau	Frau	N	NN	Fem|_|Sg	5	cj	_	-
+7	die	die	ART	ART	Def|Fem|_|Pl	8	det	_	-
+8	Spannungen	Spannung	N	NN	Fem|_|Pl	11	obja	_	-
+9	im	in	PREP	APPRART	Dat	8	pp	_	-
+10	Kopf	Kopf	N	NN	Masc|Dat|Sg	9	pn	_	-
+11	verhindert	verhindern	V	VVFIN	_|_|Pres|_	0	root	_	-
+12	,	,	$,	$,	_	0	root	_	-
+13	verrät	verraten	V	VVFIN	3|Sg|Pres|Ind	11	kon	_	-
+14	Heilpraktikerin	Heilpraktikerin	N	NN	Fem|_|Sg	13	obja	_	-
+15	Barbara	Barbara	N	NE	Fem|_|Sg	14	app	_	-
+16	Krekeler	Krekeler	N	NE	Fem|_|Sg	15	app	_	-
+17	am	an	PREP	APPRART	Dat	13	pp	_	-
+18	Donnerstag	Donnerstag	N	NN	_|Dat|Sg	17	pn	_	-
+19	,	,	$,	$,	_	0	root	_	-
+20	26.	26.	ADJA	ADJA	_|Masc|Dat|Sg|_|	21	attr	_	-
+21	Oktober	Oktober	N	NN	Masc|Dat|Sg	18	kon	_	-
+22	,	,	$,	$,	_	0	root	_	-
+23	20	20	CARD	CARD	_	24	attr	_	-
+24	Uhr	Uhr	N	NN	Fem|Dat|Sg	18	app	_	-
+25	im	in	PREP	APPRART	Dat	24	pp	_	-
+26	Frauengesundheitszentrum	Frauengesundheitszentrum	N	NN	_|Dat|Sg	25	pn	_	-
+27	.	.	$.	$.	_	0	root	_	-
+
+1	Nur	nur	ADV	ADV	_	2	adv	_	-
+2	für	für	PREP	APPR	Acc	0	root	_	-
+3	Frauen	Frau	N	NN	Fem|Acc|Pl	2	pn	_	-
+4	.	.	$.	$.	_	0	root	_	-
+

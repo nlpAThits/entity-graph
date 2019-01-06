@@ -1,0 +1,36 @@
+1	Morgen	morgen	ADV	_	_	2	ADV	_	_
+2	zieht	ziehen	VVFIN	_	_	0	ROOT	_	_
+3	ab	ab	APPR	_	_	2	PP	_	_
+4	11.30	11.30	CARD	_	_	3	PN	_	_
+5	der	der	ART	_	_	6	DET	_	(0
+6	Freimarktsumzug	Freimarktsumzug	NN	_	_	2	SUBJ	_	0)
+7	über	über	APPR	_	_	2	PP	_	_
+8	die	die	ART	_	_	9	DET	_	_
+9	Bürgermeister-Smidt-Brücke	Bürgermeister-Smidt-Brücke	NN	_	_	7	PN	_	_
+10	zum	zu	APPRART	_	_	2	OBJP	_	_
+11	Brill	Brill	NN	_	_	10	PN	_	_
+12	,	,	$,	_	_	11	-PUNCT-	_	_
+13	trifft	treffen	VVFIN	_	_	2	KON	_	_
+14	dort	dort	ADV	_	_	13	ADV	_	_
+15	den	der	ART	_	_	16	DET	_	_
+16	Zug	Zug	NN	_	_	13	OBJA	_	_
+17	aus	aus	APPR	_	_	16	PP	_	_
+18	der	die	ART	_	_	19	DET	_	_
+19	Faulenstraße	Faulenstraße	NN	_	_	17	PN	_	_
+20	und	und	KON	_	_	13	KON	_	_
+21	endet	enden	VVFIN	_	_	20	CJ	_	_
+22	auf	auf	APPR	_	_	21	PP	_	_
+23	der	die	ART	_	_	24	DET	_	_
+24	Bürgerweide	Bürgerweide	NN	_	_	22	PN	_	_
+25	.	.	$.	_	_	24	-PUNCT-	_	_
+
+1	Autos	Auto	NN	_	_	2	SUBJ	_	_
+2	möchten	mögen%aux	VMFIN	_	_	6	S	_	_
+3	woanders	woanders	ADV	_	_	4	ADV	_	_
+4	fahren	fahren	VVINF	_	_	2	AUX	_	_
+5	,	,	$,	_	_	4	-PUNCT-	_	_
+6	bittet	bitten	VVFIN	_	_	0	ROOT	_	_
+7	die	die	ART	_	_	8	DET	_	_
+8	Polizei	Polizei	NN	_	_	6	SUBJ	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+

@@ -1,0 +1,47 @@
+1	Gestern	gestern	ADV	_	_	3	ADV	_	_
+2	vormittag	vormittag	ADV	_	_	1	ADV	_	_
+3	starb	sterben	VVFIN	_	_	0	ROOT	_	_
+4	ein	ein	ART	_	_	8	DET	_	(0
+5	16	16	CARD	_	_	6	ATTR	_	_
+6	Monate	Monat	NN	_	_	7	GRAD	_	_
+7	alter	alt	ADJA	_	_	8	ATTR	_	_
+8	Säugling	Säugling	NN	_	_	3	SUBJ	_	0)
+9	in	in	APPR	_	_	3	PP	_	_
+10	seinem	sein	PPOSAT	_	_	11	DET	_	(0)
+11	Gitterbett	Gitterbett	NN	_	_	9	PN	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Das	das	ART	_	_	2	DET	_	(0
+2	Mädchen	Mädchen	NN	_	_	3	SUBJ	_	0)
+3	war	sein%aux	VAFIN	_	_	0	ROOT	_	_
+4	von	von	APPR	_	_	11	PP	_	_
+5	der	die	ART	_	_	6	DET	_	_
+6	Mutter	Mutter	NN	_	_	4	PN	_	_
+7	allein	allein	ADV	_	_	11	PRED	_	_
+8	in	in	APPR	_	_	11	PP	_	_
+9	der	die	ART	_	_	10	DET	_	_
+10	Wohnung	Wohnung	NN	_	_	8	PN	_	_
+11	gelassen	lassen	VVPP	_	_	12	AUX	_	_
+12	worden	werden%passiv	VAPP	_	_	3	AUX	_	_
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	(0
+2	Säugling	Säugling	NN	_	_	3	SUBJ	_	0)
+3	versuchte	versuchen	VVFIN	_	_	0	ROOT	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	aus	aus	APPR	_	_	9	PP	_	_
+6	dem	das	ART	_	_	7	DET	_	_
+7	Bett	Bett	NN	_	_	5	PN	_	_
+8	zu	zu	PTKZU	_	_	9	PART	_	_
+9	krabbeln	krabbeln	VVINF	_	_	3	OBJI	_	_
+10	,	,	$,	_	_	9	-PUNCT-	_	_
+11	steckte	stecken	VVFIN	_	_	3	KON	_	_
+12	den	der	ART	_	_	13	DET	_	_
+13	Kopf	Kopf	NN	_	_	11	OBJA	_	_
+14	zwischen	zwischen	APPR	_	_	11	OBJP	_	_
+15	die	die	ART	_	_	16	DET	_	_
+16	Querstreben	Querstrebe	NN	_	_	14	PN	_	_
+17	und	und	KON	_	_	11	KON	_	_
+18	erstickte	ersticken	VVFIN	_	_	17	CJ	_	_
+19	.	.	$.	_	_	18	-PUNCT-	_	_
+

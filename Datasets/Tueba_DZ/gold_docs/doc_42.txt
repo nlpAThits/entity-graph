@@ -1,0 +1,26 @@
+1	Nikolaus	Nikolaus	NE	_	_	4	SUBJ	_	(0
+2	W.	W.	NE	_	_	1	APP	_	_
+3	Schües	Schües	NE	_	_	2	APP	_	0)
+4	bleibt	bleiben	VVFIN	_	_	0	ROOT	_	_
+5	Präsident	Präsident	NN	_	_	4	PRED	_	_
+6	der	die	ART	_	_	8	DET	_	_
+7	Hamburger	Hamburger	ADJA	_	_	8	ATTR	_	_
+8	Handelskammer	Handelskammer	NN	_	_	5	GMOD	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	(0
+2	Geschäftsführer	Geschäftsführer	NN	_	_	9	SUBJ	_	_
+3	der	die	ART	_	_	4	DET	_	_
+4	Reederei	Reederei	NN	_	_	2	GMOD	_	_
+5	"	"	$(	_	_	6	-PUNCT-	_	_
+6	F.	F.	NE	_	_	2	APP	_	_
+7	Laeisz	Laeisz	NE	_	_	6	APP	_	0)
+8	"	"	$(	_	_	7	-PUNCT-	_	_
+9	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+10	gestern	gestern	ADV	_	_	14	ADV	_	_
+11	für	für	APPR	_	_	14	PP	_	_
+12	drei	drei	CARD	_	_	13	ATTR	_	_
+13	Jahre	Jahr	NN	_	_	11	PN	_	_
+14	wiedergewählt	wieder#wählen	VVPP	_	_	9	AUX	_	_
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+

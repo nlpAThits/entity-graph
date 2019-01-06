@@ -1,0 +1,34 @@
+1	Rechtsausleger	Rechtsausleger	N	NN	Masc|Nom|_	3	subj	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	geboren	gebären	V	VVPP	_	11	neb	_	-
+4	am	an	PREP	APPRART	Dat	3	pp	_	-
+5	29.	29.	ADJA	ADJA	_|Masc|Dat|Sg|_|	6	attr	_	-
+6	Dezember	Dezember	N	NN	Masc|Dat|Sg	4	pn	_	-
+7	1963	1963	CARD	CARD	_	6	app	_	-
+8	in	in	PREP	APPR	_	3	pp	_	-
+9	Rheinhausen	Rheinhausen	N	NN	_|_|Sg	8	pn	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	lebt	leben	V	VVFIN	_|_|Pres|Ind	0	root	_	-
+12	in	in	PREP	APPR	_	11	pp	_	-
+13	Berlin	Berlin	N	NE	_|_|Sg	12	pn	_	(0)
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Seine	seine	ART	PPOSAT	Fem|_|Sg	2	det	_	(0)
+2	Prognose	Prognose	N	NN	Fem|_|Sg	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	"	"	$(	$(	_	0	root	_	-
+5	Der	die	ART	ART	Def|Masc|Nom|Sg	6	det	_	(1
+6	Kampf	Kampf	N	NN	Masc|Nom|Sg	7	subj	_	1)
+7	dauert	dauern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+8	so	so	ADV	ADV	_	9	adv	_	-
+9	lange	lange	ADV	ADJD	_	7	adv	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	bis	bis	KOUS	KOUS	_	15	konj	_	-
+12	er	er	PRO	PPER	3|Sg|Masc|Nom	15	subj	_	(1)
+13	zu	zu	PREP	APPR	Dat	15	pp	_	-
+14	Ende	Ende	N	NN	Neut|Dat|Sg	13	pn	_	-
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	7	neb	_	-
+16	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+

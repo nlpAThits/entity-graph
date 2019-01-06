@@ -1,0 +1,55 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	-
+2	Meu	Meu	N	NN	Masc|Nom|Sg	3	subj	_	-
+3	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+5	alles	alle	PRO	PIS	_|_|Sg	3	obja	_	-
+6	neu	neu	ADV	ADJD	Pos|	3	pred	_	-
+7	!	!	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	zur	zu	PREP	APPRART	Dat	2	pp	_	-
+4	Zeit	Zeit	N	NN	Fem|Dat|Sg	3	pn	_	-
+5	eher	eher	ADV	ADV	_	2	adv	_	-
+6	ein	eine	ART	ART	Indef|_|Nom|Sg	7	det	_	-
+7	Seumeu	Seumeu	N	NN	_|Nom|Sg	2	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	6	det	_	-
+2	sonst	sonst	ADV	ADV	_	5	adv	_	-
+3	im	in	PREP	APPRART	Dat	5	pp	_	-
+4	Meu	Meu	N	NN	_|Dat|_	3	pn	_	-
+5	lachende	lachend	ADJA	ADJA	Pos|Fem|Nom|Sg|_|<PPRES	6	attr	_	-
+6	Sonne	Sonne	N	NN	Fem|Nom|Sg	7	subj	_	-
+7	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+8	sich	sie	PRO	PRF	3|_|_	11	obja	_	-
+9	hinter	hinter	PREP	APPR	_	11	pp	_	-
+10	Wolken	Wolke	N	NN	Fem|_|Pl	9	pn	_	-
+11	verzogen	verziehen	V	VVPP	_	7	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	zum	zu	PREP	APPRART	Dat	8	objp	_	-
+4	Wochenende	Wochenende	N	NN	_|Dat|Sg	3	pn	_	-
+5	sogar	sogar	ADV	ADV	_	7	adv	_	-
+6	teilweise	teilweise	ADV	ADV	_	7	adv	_	-
+7	Schauer	Schauer	N	NN	_|Dat|Sg	4	app	_	-
+8	geben	geben	V	VVINF	_	2	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Immerhin	immerhin	ADV	ADV	_	2	adv	_	-
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+4	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+5	noch	noch	ADV	ADV	_	2	adv	_	-
+6	obendrein	obendrein	ADV	ADV	_	2	adv	_	-
+7	kalt	kalt	ADV	ADJD	Pos|	2	adv	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	sondern	sondern	KON	KON	_	7	kon	_	-
+10	bei	bei	PREP	APPR	Dat	9	cj	_	-
+11	20	20	CARD	CARD	_	12	attr	_	-
+12	Grad	Grad	N	NN	_|Dat|Pl	10	pn	_	-
+13	erträglich	erträglich	ADV	ADJD	Pos|	2	pred	_	-
+14	.	.	$.	$.	_	0	root	_	-
+

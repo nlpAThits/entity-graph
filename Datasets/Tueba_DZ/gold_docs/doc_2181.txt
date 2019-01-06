@@ -1,0 +1,37 @@
+1	Washington	Washington	NE	_	_	0	ROOT	_	_
+2	(	(	$(	_	_	3	-PUNCT-	_	_
+3	AP	AP	NE	_	_	0	ROOT	_	_
+4	)	)	$(	_	_	3	-PUNCT-	_	_
+5	-	-	$(	_	_	3	-PUNCT-	_	_
+6	Der	der	ART	_	_	7	DET	_	(0
+7	Vorstoß	Vorstoß	NN	_	_	18	SUBJ	_	_
+8	der	der	ART	_	_	9	DET	_	(1
+9	Republikaner	Republikaner	NN	_	_	7	GMOD	_	1)
+10	im	in	APPRART	_	_	7	PP	_	_
+11	US-Senat	US-Senat	NN	_	_	10	PN	_	_
+12	zur	zu	APPRART	_	_	7	PP	_	_
+13	Verschärfung	Verschärfung	NN	_	_	12	PN	_	_
+14	der	die	ART	_	_	15	DET	_	_
+15	Sanktionen	Sanktion	NN	_	_	13	GMOD	_	_
+16	gegen	gegen	APPR	_	_	15	PP	_	_
+17	Kuba	Kuba	NE	_	_	16	PN	_	0)|(2)
+18	ist	sein%aux	VAFIN	_	_	0	ROOT	_	_
+19	erneut	erneut	ADV	_	_	20	ADV	_	_
+20	gescheitert	scheitern	VVPP	_	_	18	AUX	_	_
+21	.	.	$.	_	_	20	-PUNCT-	_	_
+
+1	Die	der	ART	_	_	2	DET	_	(1
+2	Unterstützer	Unterstützer	NN	_	_	6	SUBJ	_	_
+3	der	die	ART	_	_	5	DET	_	(0
+4	umstrittenen	umstritten	ADJA	_	_	5	ATTR	_	_
+5	Gesetzesvorlage	Gesetzesvorlage	NN	_	_	2	GMOD	_	0)|1)
+6	unterlagen	unterliegen	VVFIN	_	_	0	ROOT	_	_
+7	am	an	APPRART	_	_	6	PP	_	_
+8	Dienstag	Dienstag	NN	_	_	7	PN	_	_
+9	allerdings	allerdings	ADV	_	_	6	ADV	_	_
+10	mit	mit	APPR	_	_	6	PP	_	_
+11	nur	nur	ADV	_	_	13	ADV	_	_
+12	einer	eine	ART	_	_	13	DET	_	_
+13	Stimme	Stimme	NN	_	_	10	PN	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+

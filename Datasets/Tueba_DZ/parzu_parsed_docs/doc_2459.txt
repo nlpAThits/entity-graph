@@ -1,0 +1,36 @@
+1	Morgen	morgen	ADV	ADV	_	2	adv	_	-
+2	zieht	zeihen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ab	ab	PREP	APPR	Dat	2	pp	_	-
+4	11.30	11.30	CARD	CARD	_	3	pn	_	-
+5	der	die	ART	ART	Def|Masc|Nom|Sg	6	det	_	-
+6	Freimarktsumzug	Freimarktsumzug	N	NN	Masc|Nom|Sg	2	subj	_	-
+7	über	über	PREP	APPR	Acc	6	pp	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	-
+9	Bürgermeister-Smidt-Brücke	Bürgermeister-Smidt-Brücke	N	NN	Fem|Acc|Sg	7	pn	_	-
+10	zum	zu	PREP	APPRART	Dat	7	kon	_	-
+11	Brill	Brill	N	NN	_|Dat|_	10	pn	_	-
+12	,	,	$,	$,	_	0	root	_	-
+13	trifft	treffen	V	VVFIN	3|Sg|Pres|Ind	2	kon	_	-
+14	dort	dort	ADV	ADV	_	13	adv	_	-
+15	den	die	ART	ART	Def|Masc|Acc|Sg	16	det	_	-
+16	Zug	Zug	N	NN	Masc|Acc|Sg	13	obja	_	-
+17	aus	aus	PREP	APPR	Dat	13	pp	_	-
+18	der	die	ART	ART	Def|Fem|Dat|Sg	19	det	_	-
+19	Faulenstraße	Faulenstraß	N	NN	Fem|Dat|Sg	17	pn	_	-
+20	und	und	KON	KON	_	13	kon	_	-
+21	endet	enden	V	VVFIN	_|_|Pres|_	20	cj	_	-
+22	auf	auf	PREP	APPR	Dat	21	pp	_	-
+23	der	die	ART	ART	Def|Fem|Dat|Sg	24	det	_	-
+24	Bürgerweide	Bürgerweide	N	NN	Fem|Dat|Sg	22	pn	_	-
+25	.	.	$.	$.	_	0	root	_	-
+
+1	Autos	Auto	N	NN	Neut|Nom|Pl	2	subj	_	-
+2	möchten	mögen	V	VMFIN	3|Pl|Past|Subj	0	root	_	-
+3	woanders	woanders	ADV	ADV	_	4	adv	_	-
+4	fahren	fahren	V	VVINF	_	2	aux	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	bittet	bitten	V	VVFIN	_|_|Pres|_	2	kon	_	-
+7	die	die	ART	ART	Def|Fem|_|Sg	8	det	_	-
+8	Polizei	Polizei	N	NN	Fem|_|Sg	6	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,50 @@
+1	Gestern	gestern	ADV	ADV	_	2	adv	_	-
+2	brannte	brennen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|_|Nom|Sg	4	det	_	-
+4	Jugendzentrum	Jugendzentrum	N	NN	_|Nom|Sg	2	subj	_	-
+5	in	in	PREP	APPR	_	2	pp	_	-
+6	Hannover	Hannover	N	NE	Neut|_|Sg	5	pn	_	-
+7	bis	bis	PREP	APPR	Acc	2	pp	_	-
+8	auf	auf	PREP	APPR	Acc	7	pp	_	-
+9	die	die	ART	ART	Def|_|Acc|Pl	10	det	_	-
+10	Grundmauern	Grundmauer	N	NN	_|Acc|Pl	8	pn	_	-
+11	ab	ab	PTKVZ	PTKVZ	_	2	avz	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Verletzt	verletzen	V	VVPP	_	2	aux	_	-
+2	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+3	jedoch	jedoch	ADV	ADV	_	1	adv	_	-
+4	niemand	niemand	PRO	PIS	_|Nom|Sg	2	subj	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	Brandursache	Brandursache	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	nach	nach	PREP	APPR	Dat	3	pp	_	-
+5	Angaben	Angabe	N	NN	Fem|Dat|Pl	4	pn	_	-
+6	der	die	ART	ART	Def|Fem|Gen|Sg	7	det	_	-
+7	Polizei	Polizei	N	NN	Fem|Gen|Sg	5	gmod	_	-
+8	noch	noch	ADV	ADV	_	3	adv	_	-
+9	unklar	unklar	ADV	ADJD	Pos|	3	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Rund	rund	ADV	ADV	_	3	adv	_	-
+2	50	50	CARD	CARD	_	3	attr	_	-
+3	Feuerwehrleute	Feuerwehrleute	N	NN	_|Nom|Pl	4	subj	_	-
+4	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+5	bei	bei	PREP	APPR	Dat	4	pp	_	-
+6	den	die	ART	ART	Def|Fem|Dat|Pl	7	det	_	-
+7	Löscharbeiten	Löscharbeit	N	NN	Fem|Dat|Pl	5	pn	_	-
+8	im	in	PREP	APPRART	Dat	4	pp	_	-
+9	Einsatz	Einsatz	N	NN	Masc|Dat|Sg	8	pn	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Pl	2	det	_	-
+2	Nachlöscharbeiten	Nachlöscharbeit	N	NN	Fem|Nom|Pl	3	subj	_	-
+3	dauerten	dauern	V	VVFIN	3|Pl|Past|_	0	root	_	-
+4	gestern	gestern	ADV	ADV	_	3	adv	_	-
+5	nachmittag	nachmittag	ADV	ADV	_	3	adv	_	-
+6	noch	noch	ADV	ADV	_	3	adv	_	-
+7	an	an	PTKVZ	PTKVZ	_	3	avz	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

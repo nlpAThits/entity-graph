@@ -1,0 +1,57 @@
+1	Hannover	Hannover	N	NE	_	0	root	_	(1
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	1)
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Die	die	ART	ART	Def|Fem|Nom|Pl	7	det	_	(0
+7	Versicherungsgruppen	Versicherungsgruppe	N	NN	Fem|Nom|Pl	11	subj	_	-
+8	HDI	HDI	N	NE	_|Nom|Sg	7	app	_	0)
+9	und	und	KON	KON	_	8	kon	_	-
+10	HUK-Coburg	HUK-Coburg	N	NE	_|Nom|Sg	9	cj	_	(2)
+11	schließen	schließen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+12	sich	sie	PRO	PRF	3|_|_	11	obja	_	-
+13	zum	zu	PREP	APPRART	Dat	11	pp	_	-
+14	drittgrößten	drittgroß	ADJA	ADJA	Sup|Masc|Dat|_|_|	15	attr	_	-
+15	Versicherungskonzern	Versicherungskonzern	N	NN	Masc|Dat|_	13	pn	_	-
+16	in	in	PREP	APPR	_	11	pp	_	-
+17	Deutschland	Deutschland	N	NE	Neut|_|Sg	16	pn	_	-
+18	zusammen	zusammen	PTKVZ	PTKVZ	_	11	avz	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|_|Sg	2	obja	_	-
+2	kündigten	kündigen	V	VVFIN	3|Pl|Past|_	0	root	_	-
+3	die	die	ART	ART	Def|_|Nom|Pl	4	det	_	-
+4	Vorstandsvorsitzenden	Vorstandsvorsitzende	N	NN	_|Nom|Pl	2	subj	_	-
+5	des	die	ART	ART	Def|Masc|Gen|Sg	6	det	_	-
+6	Haftpflichtverbandes	Haftpflichtverband	N	NN	Masc|Gen|Sg	4	gmod	_	-
+7	der	die	ART	ART	Def|Fem|Gen|Sg	9	det	_	-
+8	Deutschen	deutsch	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	9	attr	_	-
+9	Industrie	Industrie	N	NN	Fem|Gen|Sg	6	gmod	_	-
+10	V.a.G.	V.a.G.	N	NE	Fem|Gen|Sg	9	app	_	-
+
+1	(	(	$(	$(	_	0	root	_	-
+2	HDI	HDI	N	NE	Fem|_|Sg	0	root	_	(0
+3	/	/	$(	$(	_	0	root	_	-
+4	Hannover	Hannover	N	NE	Neut|Dat|Sg	2	kon	_	0)|(1)
+5	)	)	$(	$(	_	0	root	_	-
+6	und	und	KON	KON	_	2	kon	_	-
+7	der	die	ART	ART	Def|Fem|_|Sg	8	det	_	(2
+8	HUK-Coburg	HUK-Coburg	N	NE	Fem|_|Sg	6	cj	_	-
+9	gestern	gestern	ADV	ADV	_	8	adv	_	2)
+10	an	an	PTKVZ	PTKVZ	_	0	root	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Beide	beide	ART	PIDAT	Masc|Nom|Pl	2	det	_	-
+2	Aufsichtsräte	Aufsichtsrat	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+4	die	die	ART	ART	Def|Masc|_|Pl	5	det	_	-
+5	Pläne	Plan	N	NN	Masc|_|Pl	6	obja	_	-
+6	gebilligt	billigen	V	VVPP	_	3	aux	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	die	die	ART	ART	Def|Fem|Nom|Pl	9	det	_	-
+9	Hauptversammlungen	Hauptversammlung	N	NN	Fem|Nom|Pl	10	subj	_	-
+10	müssen	müssen	V	VMFIN	3|Pl|Pres|_	3	kon	_	-
+11	noch	noch	ADV	ADV	_	12	adv	_	-
+12	zustimmen	zustimmen	V	VVINF	_	10	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+

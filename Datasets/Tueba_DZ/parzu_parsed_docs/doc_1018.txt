@@ -1,0 +1,76 @@
+1	Gestrandete	Gestrandete	N	NN	_|_|_	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Brit	Brit	N	NE	Neut|_|Sg	0	root	_	-
+4	Junghans	Junghans	N	NE	Neut|_|Sg	3	app	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Schmölln	Schmölln	N	NE	Neut|_|Sg	4	app	_	-
+7	;	;	$.	$.	_	0	root	_	-
+8	Friederike	Friederike	N	NE	_|_|Sg	0	root	_	-
+9	Schweizer	Schweizer	N	NN	_|_|Sg	8	app	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	Berlin	Berlin	N	NE	_|_|Sg	9	app	_	-
+12	;	;	$.	$.	_	0	root	_	-
+13	Tim	Tim	N	NE	Neut|_|Sg	0	root	_	-
+14	Bönig	Bönig	N	NE	Neut|_|Sg	13	app	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	Denzlingen	Denzlingen	N	NE	Neut|_|Sg	14	app	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Gewinnen	Gewinn	N	NN	_|_|_	2	obja	_	(0)
+2	könnt	können	V	VMFIN	2|Pl|Pres|Ind	0	root	_	-
+3	Ihr	ihre	ART	PPOSAT	_|_|Sg	6	det	_	(0)
+4	drei	drei	CARD	CARD	_	6	attr	_	-
+5	'	'	$(	$(	_	0	root	_	-
+6	Auferstanden	Auferstanden	N	NN	_|_|Sg	7	grad	_	-
+7	aus	aus	PREP	APPR	Dat	2	pp	_	-
+8	Ruinen	Ruine	N	NN	Fem|Dat|Pl	7	pn	_	-
+9	...	...	$.	$.	_	0	root	_	-
+10	'	'	$(	$(	_	0	root	_	-
+11	Bücher	Buch	N	NN	_|_|_	0	root	_	-
+12	von	von	PREP	APPR	_	11	pp	_	-
+13	Bernd	Bernd	N	NE	_|_|_	12	pn	_	-
+14	Siegler	Siegler	N	NE	_|_|_	13	app	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|_|Sg	2	det	_	-
+2	Lösungswort	Lösungswort	N	NN	Neut|_|Sg	3	obja	_	-
+3	findet	finden	V	VVFIN	2|Pl|Pres|_	0	root	_	-
+4	Ihr	ihr	PRO	PPER	2|Pl|_|Nom	3	subj	_	(1)
+5	,	,	$,	$,	_	0	root	_	-
+6	wenn	wenn	KOUS	KOUS	_	13	konj	_	-
+7	Ihr	ihr	PRO	PPER	2|Pl|_|Nom	13	subj	_	(1)
+8	die	die	ART	ART	Def|Masc|_|Pl	9	det	_	-
+9	Buchstaben	Buchstabe	N	NN	Masc|_|Pl	13	obja	_	-
+10	unter	unter	PREP	APPR	Dat	13	pp	_	-
+11	den	die	ART	ART	Def|Fem|Dat|Pl	12	det	_	-
+12	Ziffern	Ziffer	N	NN	Fem|Dat|Pl	10	pn	_	-
+13	notiert	notieren	V	VVFIN	2|Pl|Pres|Ind	3	neb	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Schickt	schicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+2	es	es	PRO	PPER	3|Sg|Neut|Nom	1	subj	_	-
+3	bis	bis	PREP	APPR	Acc	1	pp	_	-
+4	zum	zu	PREP	APPRART	Dat	3	pp	_	-
+5	17.	17.	ADJA	ADJA	_|_|Dat|_|_|	4	pn	_	-
+
+1	7.	7.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	92	92	CARD	CARD	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	Datum	Datum	N	NN	Neut|_|Sg	0	root	_	-
+4	des	die	ART	ART	Def|Masc|Gen|Sg	5	det	_	-
+5	Poststempels	Poststempel	N	NN	Masc|Gen|Sg	3	gmod	_	-
+6	)	)	$(	$(	_	0	root	_	-
+7	an	an	PREP	APPR	Acc	3	pp	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	-
+9	taz-Wahrheit	taz-Wahrheit	N	NN	Fem|Acc|Sg	7	pn	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	Kochstr	Kochstr	N	NE	Fem|Acc|Sg	9	app	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	18	18	CARD	CARD	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	1000	1000	CARD	CARD	_	0	root	_	-
+4	Berlin	Berlin	N	NE	_|_|Sg	0	root	_	-
+5	61.	61.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+

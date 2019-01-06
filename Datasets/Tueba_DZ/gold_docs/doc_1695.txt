@@ -1,0 +1,32 @@
+1	Wien	Wien	NE	_	_	0	ROOT	_	_
+2	(	(	$(	_	_	3	-PUNCT-	_	_
+3	AFP	AFP	NE	_	_	0	ROOT	_	_
+4	)	)	$(	_	_	3	-PUNCT-	_	_
+5	-	-	$(	_	_	3	-PUNCT-	_	_
+6	Die	der|die|das	ART	_	_	8	DET	_	(2
+7	rechten	rechts	ADJA	_	_	8	ATTR	_	_
+8	Freiheitlichen	Freiheitlicher|Freiheitliche|Freiheitliches	NN	_	_	12	SUBJ	_	_
+9	von	von	APPR	_	_	8	PP	_	_
+10	Jörg	Jörg	NE	_	_	9	PN	_	(0
+11	Haider	Haider	NE	_	_	10	APP	_	0)|2)
+12	könnten	können%aux	VMFIN	_	_	0	ROOT	_	_
+13	bei	bei	APPR	_	_	21	PP	_	_
+14	den	die	ART	_	_	15	DET	_	_
+15	Neuwahlen	Neuwahl	NN	_	_	13	PN	_	_
+16	in	in	APPR	_	_	21	PP	_	_
+17	Österreich	Österreich	NE	_	_	16	PN	_	(1)
+18	zur	zu	APPRART	_	_	21	PRED	_	_
+19	zweitstärksten	zweitstärkst	ADJA	_	_	20	ATTR	_	_
+20	Partei	Partei	NN	_	_	18	PN	_	_
+21	werden	werden	VAINF	_	_	12	AUX	_	_
+22	.	.	$.	_	_	21	-PUNCT-	_	_
+
+1	Dies	dieses	PDS	_	_	2	OBJA	_	_
+2	ergab	ergeben	VVFIN	_	_	0	ROOT	_	_
+3	eine	eine	ART	_	_	4	DET	_	_
+4	Umfrage	Umfrage	NN	_	_	2	SUBJ	_	_
+5	für	für	APPR	_	_	4	PP	_	_
+6	den	der	ART	_	_	7	DET	_	_
+7	Kurier	Kurier	NN	_	_	5	PN	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+

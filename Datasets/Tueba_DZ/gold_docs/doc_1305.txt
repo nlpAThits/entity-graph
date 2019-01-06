@@ -1,0 +1,34 @@
+1	Einen	ein	ART	_	_	3	DET	_	_
+2	einträglichen	einträglich	ADJA	_	_	3	ATTR	_	_
+3	Ferienjob	Ferienjob	NN	_	_	10	OBJA	_	_
+4	haben	haben%aux	VAFIN	_	_	0	ROOT	_	_
+5	zwei	zwei	CARD	_	_	6	ATTR	_	(0
+6	Jugendliche	Jugendlicher	NN	_	_	4	SUBJ	_	0)
+7	im	in	APPRART	_	_	10	PP	_	_
+8	kanadischen	kanadisch	ADJA	_	_	9	ATTR	_	_
+9	Winnipeg	Winnipeg	NE	_	_	7	PN	_	_
+10	entdeckt	entdecken	VVPP	_	_	4	AUX	_	_
+11	.	.	$.	_	_	10	-PUNCT-	_	_
+
+1	Von	von	APPR	_	_	8	PP	_	_
+2	sechs	sechs	CARD	_	_	3	ATTR	_	_
+3	Uhr	Uhr	NN	_	_	1	PN	_	_
+4	abends	abends	ADV	_	_	3	ADV	_	_
+5	bis	bis	APPR	_	_	1	KON	_	_
+6	zum	zu	APPRART	_	_	5	PP	_	_
+7	Morgengrauen	Morgengrauen	NN	_	_	6	PN	_	_
+8	liefern	liefern	VVFIN	_	_	0	ROOT	_	_
+9	der	der	ART	_	_	11	DET	_	(0|(1
+10	16jährige	16jährig	ADJA	_	_	11	ATTR	_	_
+11	Tibi	Tibi	NE	_	_	8	SUBJ	_	_
+12	Fofor	Fofor	NE	_	_	11	APP	_	1)
+13	und	und	KON	_	_	12	KON	_	_
+14	seine	seine	PPOSAT	_	_	16	DET	_	(1)
+15	17jährige	17jährig	ADJA	_	_	16	ATTR	_	_
+16	Schwester	Schwester	NN	_	_	13	CJ	_	_
+17	Susan	Susan	NE	_	_	16	APP	_	0)
+18	Kondome	Kondom	NN	_	_	8	OBJA	_	_
+19	frei	frei	ADJD	_	_	20	ATTR	_	_
+20	Haus	Haus	NN	_	_	8	ZEIT	_	_
+21	.	.	$.	_	_	20	-PUNCT-	_	_
+

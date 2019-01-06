@@ -1,0 +1,52 @@
+1	Allein	Allein	ADV	ADV	_	3	adv	_	-
+2	der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+3	Berichterstatter	Berichterstatter	N	NN	Masc|Nom|Sg	12	subj	_	-
+4	über	über	PREP	APPR	Acc	3	pp	_	-
+5	den	die	ART	ART	Def|_|_|_	6	det	_	-
+6	Kongress	Kongress	N	NN	Fem|Acc|Pl	4	pn	_	-
+7	"	"	$(	$(	_	0	root	_	-
+8	Visionen	Vision	N	NN	Fem|Acc|Pl	6	app	_	-
+9	der	die	ART	ART	Def|Fem|Gen|Sg	10	det	_	-
+10	Zukunft	Zukunft	N	NN	Fem|Gen|Sg	8	gmod	_	-
+11	"	"	$(	$(	_	0	root	_	-
+12	trieb	treiben	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+13	sich	sie	PRO	PRF	3|_|_	12	obja	_	-
+14	unter	unter	PREP	APPR	Dat	12	pp	_	-
+15	der	die	ART	ART	Def|Fem|Dat|Sg	16	det	_	-
+16	Überschrift	Überschrift	N	NN	_|Dat|Sg	14	pn	_	-
+17	"	"	$(	$(	_	0	root	_	-
+18	Wissenschaft	Wissenschaft	N	NN	_|Dat|Sg	16	app	_	-
+19	oder	oder	KON	KON	_	18	kon	_	-
+20	Scharlatanerie	Scharlatanerie	N	NN	Fem|Dat|Sg	19	cj	_	-
+21	"	"	$(	$(	_	0	root	_	-
+22	zwischen	zwischen	PREP	APPR	Dat	12	pp	_	-
+23	Verkaufsständen	Verkaufsstand	N	NN	Masc|Dat|Pl	22	pn	_	-
+24	herum	herum	PTKVZ	PTKVZ	_	12	avz	_	-
+25	.	.	$.	$.	_	0	root	_	-
+
+1	Information	Information	N	NN	_|_|Sg	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Null	Null	N	NN	_|_|Sg	0	root	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Wie	Wie	PWAV	PWAV	_	0	root	_	-
+2	das	die	PRO	PDS	Neut|_|Sg	0	root	_	-
+3	?	?	$.	$.	_	0	root	_	-
+
+1	Bremer	Bremer	ADJA	ADJA	_|Fem|_|Sg|_	2	attr	_	-
+2	Selektion	Selektion	N	NN	Fem|_|Sg	0	root	_	-
+3	?	?	$.	$.	_	0	root	_	-
+
+1	Cliquen	Clique	N	NN	Fem|_|Pl	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	Klüngel	Klüngel	N	NN	Masc|_|_	1	kon	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Temperamente	Temperamente	N	NE	Masc|_|_	3	kon	_	-
+6	?	?	$.	$.	_	0	root	_	-
+
+1	Auch	auch	ADV	ADV	_	2	adv	_	-
+2	bei	bei	PREP	APPR	Dat	0	root	_	-
+3	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	-
+4	taz	taz	N	NE	Fem|Dat|Sg	2	pn	_	-
+5	?	?	$.	$.	_	0	root	_	-
+

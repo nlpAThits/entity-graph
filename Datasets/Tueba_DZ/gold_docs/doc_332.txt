@@ -1,0 +1,67 @@
+1	A	A	NE	_	_	0	ROOT	_	_
+2	1998	1998	CARD	_	_	0	ROOT	_	_
+3	,	,	$,	_	_	2	-PUNCT-	_	_
+4	Regie	Regie	NN	_	_	0	ROOT	_	_
+5	:	:	$.	_	_	4	-PUNCT-	_	_
+6	Niki	Niki	NE	_	_	0	ROOT	_	_
+7	List	List	NE	_	_	6	APP	_	_
+8	;	;	$.	_	_	7	-PUNCT-	_	_
+9	mit	mit	APPR	_	_	0	ROOT	_	_
+10	Christian	Christian	NE	_	_	9	PN	_	_
+11	Schmidt	Schmidt	NE	_	_	10	APP	_	_
+12	,	,	$,	_	_	11	-PUNCT-	_	_
+13	Elke	Elke	NE	_	_	11	KON	_	_
+14	Winkens	Winkens	NE	_	_	13	APP	_	_
+15	u.a.	u.a.	KON	_	_	14	KON	_	_
+16	;	;	$.	_	_	15	-PUNCT-	_	_
+17	108	108	CARD	_	_	18	ATTR	_	_
+18	Min.	Min.	NN	_	_	0	ROOT	_	_
+
+1	Helden	Helden	NE	_	_	2	SUBJ	_	(0)
+2	ist	sein	VAFIN	_	_	0	ROOT	_	_
+3	ein	ein	ART	_	_	5	DET	_	_
+4	kleines	klein	ADJA	_	_	5	ATTR	_	_
+5	Dorf	Dorf	NN	_	_	2	PRED	_	_
+6	in	in	APPR	_	_	5	PP	_	_
+7	Tirol	Tirol	NE	_	_	6	PN	_	(1)
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	3	DET	_	_
+2	überehrgeizige	überehrgeizig	ADJA	_	_	3	ATTR	_	_
+3	Bürgermeister	Bürgermeister	NN	_	_	4	SUBJ	_	_
+4	will	wollen%aux	VMFIN	_	_	0	ROOT	_	_
+5	die	die	ART	_	_	6	DET	_	_
+6	Bergidylle	Bergidylle	NN	_	_	12	OBJA	_	_
+7	in	in	APPR	_	_	12	PP	_	_
+8	ein	ein	ART	_	_	9	DET	_	_
+9	Mekka	Mekka	NN	_	_	7	PN	_	_
+10	des	der	ART	_	_	11	DET	_	_
+11	Massentourismus	Massentourismus	NN	_	_	9	GMOD	_	_
+12	verwandeln	verwandeln	VVINF	_	_	4	AUX	_	_
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+
+1	Nur	nur	ADV	_	_	2	ADV	_	_
+2	Max	Max	NE	_	_	4	SUBJ	_	_
+3	Adler	Adler	NE	_	_	2	APP	_	_
+4	kann	können%aux	VMFIN	_	_	0	ROOT	_	_
+5	die	die	ART	_	_	7	DET	_	_
+6	kaltblütige	kaltblütig	ADJA	_	_	7	ATTR	_	_
+7	Vermarktung	Vermarktung	NN	_	_	8	OBJA	_	_
+8	abwenden	ab#wenden	VVINF	_	_	4	AUX	_	_
+9	und	und	KON	_	_	4	KON	_	_
+10	dabei	dabei	PROP	_	_	19	PP	_	_
+11	auf	auf	APPR	_	_	19	OBJP	_	_
+12	die	die	ART	_	_	14	DET	_	_
+13	tatkräftige	tatkräftig	ADJA	_	_	14	ATTR	_	_
+14	Unterstützung	Unterstützung	NN	_	_	11	PN	_	_
+15	zahlreicher	zahlreich	ADJA	_	_	16	ATTR	_	_
+16	Helden	Held	NN	_	_	14	GMOD	_	_
+17	und	und	KON	_	_	16	KON	_	_
+18	Heldinnen	Heldin	NN	_	_	17	CJ	_	_
+19	zählen	zählen	VVINF	_	_	9	CJ	_	_
+20	...	...	$(	_	_	19	-PUNCT-	_	_
+
+1	Schräges	schräg	ADJA	_	_	2	ATTR	_	_
+2	Alpenrock-Musical	Alpenrock-Musical	NN	_	_	0	ROOT	_	_
+3	.	.	$.	_	_	2	-PUNCT-	_	_
+

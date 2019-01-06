@@ -1,0 +1,206 @@
+1	Nürnberg	Nürnberg	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Der	die	ART	ART	Def|Masc|Nom|Sg	8	det	_	(0
+7	Nürnberger	Nürnberger	ADJA	ADJA	Pos|Masc|Nom|Sg|_|	8	attr	_	-
+8	Völkerkundler	Völkerkundler	N	NN	Masc|Nom|Sg	11	subj	_	-
+9	Matthias	Matthias	N	NE	Masc|Nom|Sg	8	app	_	-
+10	Henkel	Henkel	N	NE	Masc|Nom|Sg	9	app	_	0)
+11	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+12	für	für	PREP	APPR	Acc	25	pp	_	-
+13	seine	seine	ART	PPOSAT	Fem|Acc|Sg	14	det	_	(0)
+14	Studie	Studie	N	NN	Fem|Acc|Sg	12	pn	_	-
+15	"	"	$(	$(	_	0	root	_	-
+16	Trinkkultur	Trinkkultur	N	NN	Fem|Acc|Sg	14	app	_	-
+17	am	an	PREP	APPRART	Dat	16	pp	_	-
+18	Arbeitsplatz	Arbeitsplatz	N	NN	Masc|Dat|Sg	17	pn	_	-
+19	"	"	$(	$(	_	0	root	_	-
+20	2.500	2.500	CARD	CARD	_	21	attr	_	-
+21	Fragebögen	Fragebogen	N	NN	Fem|_|Pl	25	obja	_	-
+22	zum	zu	PREP	APPRART	Dat	21	pp	_	-
+23	Thema	Thema	N	NN	Neut|Dat|Sg	22	pn	_	-
+24	Bürotassen	Bürotasse	N	NN	Fem|_|Pl	21	app	_	-
+25	ausgewertet	auswerten	V	VVPP	_	11	aux	_	-
+26	.	.	$.	$.	_	0	root	_	-
+
+1	Einige	einige	PRO	PIS	_|_|_	0	root	_	-
+2	seiner	seine	ART	PPOSAT	_|Gen|_	3	det	_	(0)
+3	Ergebnisse	Ergebnis	N	NN	_|Gen|_	1	gmod	_	-
+4	:	\:	$.	$.	_	0	root	_	-
+5	1.	1.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Mit	mit	PREP	APPR	Dat	7	pp	_	-
+3	zunehmendem	zunehmend	ADJA	ADJA	Pos|_|Dat|Sg|St|<PPRES	4	attr	_	-
+4	Alter	Alter	N	NN	_|Dat|Sg	2	pn	_	-
+5	und	und	KON	KON	_	4	kon	_	-
+6	Betriebsgröße	Betriebsgröße	N	NN	Fem|Dat|Sg	5	cj	_	-
+7	steigt	steigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+8	die	die	ART	ART	Def|Fem|Nom|Sg	9	det	_	-
+9	Zahl	Zahl	N	NN	Fem|Nom|Sg	7	subj	_	-
+10	der	die	ART	ART	Def|Fem|Gen|Pl	11	det	_	-
+11	Privattassen	Privattasse	N	NN	Fem|Gen|Pl	9	gmod	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	2.	2.	ADV	ADJD	_	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Wenn	wenn	KOUS	KOUS	_	11	konj	_	-
+3	auf	auf	PREP	APPR	Dat	11	objp	_	-
+4	einer	eine	ART	ART	Indef|Fem|Dat|Sg	5	det	_	-
+5	Tasse	Tasse	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	Husky-Rennen	Husky-Rennen	N	NN	Neut|Nom|Sg	11	subj	_	-
+8	Alaska	Alaska	N	NE	Neut|Nom|Sg	7	app	_	-
+9	1997	1997	CARD	CARD	_	8	app	_	-
+10	"	"	$(	$(	_	0	root	_	-
+11	steht	stehen	V	VVFIN	3|Sg|Pres|Ind	13	neb	_	-
+12	,	,	$,	$,	_	0	root	_	-
+13	signalisiert	signalisieren	V	VVFIN	_|_|Pres|Ind	0	root	_	-
+14	das	die	ART	ART	Def|Neut|_|Sg	0	root	_	-
+15	"	"	$(	$(	_	0	root	_	-
+16	Sprich	sprechen	V	VVIMP	Sg	0	root	_	-
+17	mich	ich	PRO	PPER	1|Sg|_|Acc	16	obja	_	(1)
+18	auf	auf	PREP	APPR	_	16	pp	_	-
+19	meinen	meine	ART	PPOSAT	_|_|Sg	20	det	_	(1)
+20	Urlaub	Urlaub	N	NN	_|_|Sg	18	pn	_	-
+21	an	an	PTKVZ	PTKVZ	_	16	avz	_	-
+22	"	"	$(	$(	_	0	root	_	-
+23	.	.	$.	$.	_	0	root	_	-
+
+1	3.	3.	ADV	ADJD	_	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+3	Trend	Trend	N	NN	Masc|Nom|Sg	4	subj	_	-
+4	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	zu	zu	PREP	APPR	Dat	4	objp	_	-
+6	schlanken	schlank	ADJA	ADJA	Pos|_|Dat|_|_|	7	attr	_	-
+7	Bechern	Becher	N	NN	_|Dat|_	5	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	4.	4.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	-
+3	Tasse	Tasse	N	NN	Fem|Nom|Sg	6	subj	_	-
+4	mit	mit	PREP	APPR	Dat	3	pp	_	-
+5	Untertasse	Untertasse	N	NN	Fem|Dat|Sg	4	pn	_	-
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	Chefsache	Chefsache	N	NN	Fem|Nom|Sg	6	pred	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	5.	5.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|_|Nom|Pl	4	det	_	(2
+3	meisten	meiste	ART	PIDAT	_|Nom|Pl	4	attr	_	-
+4	Benutzer	Benutzer	N	NN	_|Nom|Pl	5	subj	_	2)
+5	kaufen	kaufen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+6	sich	sie	PRO	PRF	3|_|Dat	5	objd	_	-
+7	ihre	ihre	ART	PPOSAT	Fem|_|Sg	8	det	_	(2)
+8	Tasse	Tasse	N	NN	Fem|_|Sg	5	obja	_	-
+9	selbst	selbst	ADV	ADV	_	5	adv	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	6.	6.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Geklaute	geklaut	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	3	attr	_	-
+3	Tassen	Tasse	N	NN	Fem|Nom|Pl	4	subj	_	-
+4	geben	geben	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	auch	auch	ADV	ADV	_	4	adv	_	-
+6	nachträglich	nachträglich	ADV	ADJD	Pos|	4	adv	_	-
+7	noch	noch	ADV	ADV	_	4	adv	_	-
+8	einen	eine	ART	ART	Indef|Masc|Acc|Sg	9	det	_	-
+9	Adrenalinschub	Adrenalinschub	N	NN	Masc|Acc|Sg	4	obja	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	7.	7.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Tassen	Tasse	N	NN	Fem|Nom|Pl	3	subj	_	-
+3	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+4	vererbt	vererben	V	VVPP	_	3	aux	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	8.	8.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Im	in	PREP	APPRART	Dat	4	pp	_	-
+3	Durchschnitt	Durchschnitt	N	NN	Masc|Dat|Sg	2	pn	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	eine	eine	ART	ART	Indef|Fem|Nom|Sg	6	det	_	-
+6	Bürotasse	Bürotasse	N	NN	Fem|Nom|Sg	4	subj	_	-
+7	3,7	3,7	CARD	CARD	_	8	attr	_	-
+8	Jahre	Jahr	N	NN	Neut|Nom|Pl	6	app	_	-
+9	alt	alt	ADV	ADJD	Pos|	4	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	9.	9.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	In	in	PREP	APPR	Dat	7	pp	_	-
+3	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	-
+4	Tasse	Tasse	N	NN	Fem|Dat|Sg	2	pn	_	-
+5	gerinnt	gerinnt	N	NE	Fem|Dat|Sg	4	app	_	-
+6	eine	eine	ART	ART	Indef|Fem|_|Sg	7	det	_	-
+7	Biographie	Biographie	N	NN	Fem|_|Sg	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	10.	10.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|Fem|Nom|Sg	4	det	_	-
+3	eigene	eigen	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	4	attr	_	-
+4	Tasse	Tasse	N	NN	Fem|Nom|Sg	5	subj	_	-
+5	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	für	für	PREP	APPR	Acc	5	pp	_	-
+7	Kollegen	Kollege	N	NN	Masc|Acc|_	6	pn	_	-
+8	absolut	absolut	ADV	ADJD	Pos|	9	adv	_	-
+9	tabu	tabu	ADV	ADJD	Pos|	5	pred	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	11.	11.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Tassen-Terrorismus	Tassen-Terrorismus	N	NN	Masc|Nom|Sg	12	subj	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	also	also	ADV	ADV	_	10	adv	_	-
+5	aus	aus	PREP	APPR	Dat	10	pp	_	-
+6	einer	eine	ART	ART	Indef|Fem|Dat|Sg	8	det	_	-
+7	fremden	fremd	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	8	attr	_	-
+8	Tasse	Tasse	N	NN	Fem|Dat|Sg	5	pn	_	-
+9	zu	zu	PTKZU	PTKZU	_	10	part	_	-
+10	trinken	trinken	V	VVINF	_	2	obji	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+13	selten	selten	ADV	ADJD	Pos|	12	pred	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	12.	12.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	52	52	CARD	CARD	_	3	attr	_	(3
+3	Prozent	Prozent	N	NN	Neut|Nom|Pl	4	subj	_	3)
+4	spülen	spülen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+5	ihre	ihre	ART	PPOSAT	Fem|_|Sg	6	det	_	(3)
+6	Tasse	Tasse	N	NN	Fem|_|Sg	4	obja	_	-
+7	täglich	täglich	ADV	ADJD	Pos|	4	adv	_	-
+8	mit	mit	PREP	APPR	Dat	4	pp	_	-
+9	Salz	Salz	N	NN	Neut|Dat|Sg	8	pn	_	-
+10	oder	oder	KON	KON	_	9	kon	_	-
+11	Gebißreiniger	Gebißreiniger	N	NN	_|Dat|Sg	10	cj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	13.	13.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	)	)	$(	$(	_	0	root	_	-
+2	Spülmuffel	Spülmuffel	N	NN	Masc|Nom|Pl	3	subj	_	-
+3	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+4	gesellschaftlich	gesellschaftlich	ADV	ADJD	Pos|	5	adv	_	-
+5	geächtet	ächten	V	VVPP	_	3	aux	_	-
+6	.	.	$.	$.	_	0	root	_	-
+

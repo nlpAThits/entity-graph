@@ -1,0 +1,51 @@
+1	Lebensgefährliche	lebensgefährlich	ADJA	_	_	2	ATTR	_	_
+2	Verbrennungen	Verbrennung	NN	_	_	17	OBJA	_	_
+3	hat	haben%aux	VAFIN	_	_	0	ROOT	_	_
+4	ein	ein	ART	_	_	5	DET	_	(0
+5	Bauarbeiter	Bauarbeiter	NN	_	_	3	SUBJ	_	0)
+6	bei	bei	APPR	_	_	17	PP	_	_
+7	einem	ein	ART	_	_	8	DET	_	(1
+8	Kurzschluß	Kurzschluß	NN	_	_	6	PN	_	_
+9	auf	auf	APPR	_	_	8	PP	_	_
+10	einer	eine	ART	_	_	11	DET	_	_
+11	Baustelle	Baustelle	NN	_	_	9	PN	_	_
+12	in	in	APPR	_	_	11	PP	_	_
+13	der	die	ART	_	_	14	DET	_	_
+14	Mauerstraße	Mauerstraße	NN	_	_	12	PN	_	_
+15	in	in	APPR	_	_	14	PP	_	_
+16	Mitte	Mitte	NE	_	_	15	PN	_	1)
+17	erlitten	erleiden	VVPP	_	_	3	AUX	_	_
+18	.	.	$.	_	_	17	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	(0
+2	Verletzte	Verletzter	NN	_	_	3	SUBJ	_	0)
+3	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+4	mit	mit	APPR	_	_	11	PP	_	_
+5	40prozentiger	40prozentig	ADJA	_	_	6	ATTR	_	_
+6	Verbrennung	Verbrennung	NN	_	_	4	PN	_	_
+7	der	die	ART	_	_	8	DET	_	_
+8	Haut	Haut	NN	_	_	6	GMOD	_	_
+9	ins	in	APPRART	_	_	11	OBJP	_	_
+10	Urban-Krankenhaus	Urban-Krankenhaus	NN	_	_	9	PN	_	_
+11	gebracht	bringen	VVPP	_	_	3	AUX	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Zu	zu	APPR	_	_	9	OBJP	_	_
+2	dem	der	ART	_	_	3	DET	_	(1
+3	Kurzschluß	Kurzschluß	NN	_	_	1	PN	_	1)
+4	war	sein%aux	VAFIN	_	_	0	ROOT	_	_
+5	es	es	PPER	_	_	4	SUBJ	_	_
+6	bei	bei	APPR	_	_	9	PP	_	_
+7	den	die	ART	_	_	8	DET	_	_
+8	Bauarbeiten	Bauarbeit	NN	_	_	6	PN	_	_
+9	gekommen	kommen	VVPP	_	_	4	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Eine	eine	ART	_	_	2	DET	_	_
+2	Stichflamme	Stichflamme	NN	_	_	3	SUBJ	_	_
+3	löste	aus#lösen	VVFIN	_	_	0	ROOT	_	_
+4	einen	ein	ART	_	_	5	DET	_	_
+5	Brand	Brand	NN	_	_	3	OBJA	_	_
+6	aus	_	PTKVZ	_	_	3	AVZ	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+

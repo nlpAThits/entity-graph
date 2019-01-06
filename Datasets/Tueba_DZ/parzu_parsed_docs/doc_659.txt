@@ -1,0 +1,62 @@
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	-
+2	Seniorenbüro	Seniorenbüro	N	NN	Neut|Nom|Sg	4	subj	_	-
+3	Bremen	Bremen	N	NE	Neut|Nom|Sg	2	app	_	-
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	als	als	KOKOM	KOKOM	_	4	kom	_	-
+6	neues	neu	ADJA	ADJA	Pos|Neut|_|Sg|St|	7	attr	_	-
+7	Reiseziel	Reiseziel	N	NN	Neut|_|Sg	5	cj	_	-
+8	das	die	ART	ART	Def|Neut|_|Sg	9	det	_	-
+9	Staatsbad	Staatsbad	N	NN	Neut|_|Sg	4	obja	_	-
+10	Horn	Horn	N	NE	_|_|Sg	9	app	_	-
+11	-	-	$(	$(	_	0	root	_	-
+12	Bad	Bad	N	NE	_|_|Sg	0	root	_	-
+13	Meinberg	Meinberg	N	NE	_|_|Sg	12	app	_	-
+14	im	in	PREP	APPRART	Dat	13	pp	_	-
+15	Teutoburger	Teutoburger	N	NN	Masc|Dat|Sg	14	pn	_	-
+16	Wald	Wald	N	NN	Masc|Dat|Sg	15	app	_	-
+17	im	in	PREP	APPRART	Dat	16	pp	_	-
+18	aktuellen	aktuell	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	19	attr	_	-
+19	Programm	Programm	N	NN	Neut|Dat|Sg	17	pn	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	Reise	Reis	N	NN	Fem|Nom|Sg	3	subj	_	-
+3	findet	finden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	vom	von	PREP	APPRART	Dat	3	pp	_	-
+5	7.	7.	ADJA	ADJA	_|_|Dat|_|_|	4	pn	_	-
+6	bis	bis	PREP	APPR	Acc	4	kon	_	-
+7	zum	zu	PREP	APPRART	Dat	6	pp	_	-
+8	21.	21.	ADJA	ADJA	_|Masc|Dat|Sg|_|	9	attr	_	-
+9	Juni	Juni	N	NN	Masc|Dat|Sg	7	pn	_	-
+10	statt	statt	PTKVZ	PTKVZ	_	3	avz	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Neut|Nom|Pl	2	det	_	-
+2	Zimmer	Zimmer	N	NN	Neut|Nom|Pl	3	subj	_	-
+3	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+4	mit	mit	PREP	APPR	Dat	12	pp	_	-
+5	Dusche	Dusche	N	NN	Fem|Dat|Sg	4	pn	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	WC	WC	N	NE	_|Dat|_	5	kon	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	Telefon	Telefon	N	NN	_|Dat|_	7	kon	_	-
+10	und	und	KON	KON	_	9	kon	_	-
+11	Farbfernseher	Farbfernseher	N	NN	Masc|Dat|Sg	10	cj	_	-
+12	ausgestattet	ausgestatten	V	VVPP	_	3	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Weitere	weit	ADJA	ADJA	Comp|Fem|_|Pl|St|	2	attr	_	-
+2	Auskünfte	Auskunft	N	NN	Fem|_|Pl	3	obja	_	-
+3	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	subj	_	-
+5	im	in	PREP	APPRART	Dat	3	pp	_	-
+6	Seniorenbüro	Seniorenbüro	N	NN	Neut|Dat|Sg	5	pn	_	-
+7	unter	unter	PREP	APPR	_	3	pp	_	-
+8	Tel	Tel	N	NE	_|_|_	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	32	32	CARD	CARD	_	0	root	_	-
+3	05	05	CARD	CARD	_	4	attr	_	-
+4	49.	49.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+

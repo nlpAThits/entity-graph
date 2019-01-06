@@ -1,0 +1,50 @@
+1	Wilson	Wilson	NE	_	_	4	OBJD	_	(0
+2	Perez	Perez	NE	_	_	1	APP	_	0)
+3	die	die	ART	_	_	4	DET	_	_
+4	Freiheit	Freiheit	NN	_	_	0	ROOT	_	_
+5	.	.	$.	_	_	4	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	3	DET	_	(0
+2	kolumbianische	kolumbianisch	ADJA	_	_	3	ATTR	_	_
+3	Nationalkicker	Nationalkicker	NN	_	_	4	SUBJ	_	0)
+4	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+5	wegen	wegen	APPR	_	_	7	PP	_	_
+6	Kokainbesitzes	Kokainbesitz	NN	_	_	5	PN	_	_
+7	verhaftet	verhaften	VVPP	_	_	4	AUX	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Steffi	Steffi	NE	_	_	5	OBJD	_	_
+2	Graf	Graf	NE	_	_	1	APP	_	_
+3	kein	kein	PIAT	_	_	5	DET	_	_
+4	weiterer	weiter	ADJA	_	_	5	ATTR	_	_
+5	Sponsor	Sponsor	NN	_	_	0	ROOT	_	_
+6	.	.	$.	_	_	5	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	_
+2	Schläger-Hersteller	Schläger-Hersteller	NN	_	_	4	SUBJ	_	_
+3	Wilson	Wilson	NE	_	_	2	APP	_	_
+4	will	wollen%aux	VMFIN	_	_	0	ROOT	_	_
+5	am	an	APPRART	_	_	7	OBJP	_	_
+6	Vertrag	Vertrag	NN	_	_	5	PN	_	_
+7	festhalten	fest#halten	VVINF	_	_	4	AUX	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Manfred	Manfred	NE	_	_	0	ROOT	_	(1|(2
+2	Bender	Bender	NE	_	_	1	APP	_	2)
+3	und	und	KON	_	_	2	KON	_	_
+4	Sergej	Sergej	NE	_	_	3	CJ	_	(3
+5	Kirjakow	Kirjakow	NE	_	_	4	APP	_	1)|3)
+6	dem	der	ART	_	_	7	DET	_	_
+7	KSC	KSC	NE	_	_	1	OBJD	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Beide	beide	PIS	_	_	2	SUBJ	_	(1)
+2	hatten	haben%aux	VAFIN	_	_	0	ROOT	_	_
+3	im	in	APPRART	_	_	8	PP	_	_
+4	Pokal	Pokal	NN	_	_	3	PN	_	_
+5	in	in	APPR	_	_	4	PP	_	_
+6	Unterhaching	Unterhaching	NE	_	_	5	PN	_	_
+7	Rot	Rot	NN	_	_	8	OBJA	_	_
+8	gesehen	sehen	VVPP	_	_	2	AUX	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+

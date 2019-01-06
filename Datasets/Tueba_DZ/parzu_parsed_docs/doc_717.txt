@@ -1,0 +1,25 @@
+1	Christian	Christian	N	NE	_|Nom|Sg	3	subj	_	-
+2	Semler	Semler	N	NE	_|Nom|Sg	1	app	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	seit	seit	PREP	APPR	Dat	3	pp	_	-
+5	1989	1989	CARD	CARD	_	6	attr	_	-
+6	Mitarbeiter	Mitarbeiter	N	NN	Masc|_|Pl	4	pn	_	-
+7	der	die	ART	ART	Def|_|Gen|_	8	det	_	-
+8	taz	taz	N	NE	_|Gen|_	6	gmod	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Zuerst	zuerst	ADV	ADV	_	2	adv	_	-
+2	Osteuropa-	Osteuropa-	TRUNC	TRUNC	Masc|_|Sg	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	dann	dann	ADV	ADV	_	5	adv	_	-
+5	Meinungsredakteur	Meinungsredakteur	N	NN	Masc|_|Sg	2	kon	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	jetzt	jetzt	ADV	ADV	_	8	adv	_	-
+8	unter	unter	PREP	APPR	Dat	13	pp	_	-
+9	anderem	andere	PRO	PIS	_|Dat|Sg	8	pn	_	-
+10	fürs	für	PREP	APPRART	Acc	13	pp	_	-
+11	große	groß	ADJA	ADJA	Pos|_|Acc|_|_|	12	attr	_	-
+12	Ganze	Ganze	N	NN	_|Acc|_	10	pn	_	-
+13	zuständig	zuständig	ADV	ADJD	Pos|	0	root	_	-
+14	.	.	$.	$.	_	0	root	_	-
+

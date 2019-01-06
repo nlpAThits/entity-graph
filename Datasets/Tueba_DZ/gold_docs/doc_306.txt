@@ -1,0 +1,28 @@
+1	Keine	keine	PIAT	_	_	2	DET	_	_
+2	Bücherhalle	Bücherhalle	NN	_	_	3	SUBJ	_	_
+3	muß	müssen%aux	VMFIN	_	_	0	ROOT	_	_
+4	bis	bis	APPR	_	_	9	PP	_	_
+5	zum	zu	APPRART	_	_	4	PP	_	_
+6	Ende	Ende	NN	_	_	5	PN	_	_
+7	der	die	ART	_	_	8	DET	_	_
+8	Legislaturperiode	Legislaturperiode	NN	_	_	6	GMOD	_	_
+9	schließen	schließen	VVINF	_	_	3	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Dafür	dafür	PROP	_	_	3	PP	_	_
+2	jedenfalls	jedenfalls	ADV	_	_	1	ADV	_	_
+3	sprach	aus#sprechen	VVFIN	_	_	0	ROOT	_	_
+4	sich	#refl	PRF	_	_	3	OBJA	_	_
+5	Kultursenatorin	Kultursenatorin	NN	_	_	3	SUBJ	_	(0
+6	Christina	Christina	NE	_	_	5	APP	_	_
+7	Weiss	Weiss	NE	_	_	6	APP	_	0)
+8	Dienstag	Dienstag	NN	_	_	3	ZEIT	_	_
+9	abend	abend	ADV	_	_	8	ADV	_	_
+10	in	in	APPR	_	_	3	PP	_	_
+11	der	die	ART	_	_	12	DET	_	_
+12	Kulturausschußsitzung	Kulturausschußsitzung	NN	_	_	10	PN	_	_
+13	der	die	ART	_	_	14	DET	_	_
+14	Bürgerschaft	Bürgerschaft	NN	_	_	12	GMOD	_	_
+15	aus	_	PTKVZ	_	_	3	AVZ	_	_
+16	.	.	$.	_	_	15	-PUNCT-	_	_
+

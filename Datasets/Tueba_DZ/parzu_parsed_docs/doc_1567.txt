@@ -1,0 +1,73 @@
+1	GewinnerInnen	GewinnerIn	N	NN	Fem|_|Pl	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Bettina	Bettina	N	NE	Neut|_|Sg	0	root	_	-
+4	Lannert	Lannert	N	NE	Neut|_|Sg	3	app	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Darmstadt	Darmstadt	N	NE	Neut|_|Sg	4	app	_	-
+7	;	;	$.	$.	_	0	root	_	-
+8	Lutz	Lutz	N	NE	Neut|_|Sg	0	root	_	-
+9	Lesshaft	Lesshaft	N	NE	Neut|_|Sg	8	app	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	Karlsruhe	Karlsruhe	N	NE	Neut|_|Sg	9	app	_	-
+12	;	;	$.	$.	_	0	root	_	-
+13	Martin	Martin	N	NE	Neut|_|Sg	0	root	_	-
+14	Tuczek	Tuczek	N	NE	Neut|_|Sg	13	app	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	Karlsruhe	Karlsruhe	N	NE	Neut|_|Sg	14	app	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Gewinne	Gewinn	N	NN	Masc|_|_	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Drei	drei	CARD	CARD	_	4	attr	_	-
+4	Bücher	Buch	N	NN	_|_|Pl	0	root	_	-
+5	eines	eine	ART	ART	Indef|Masc|Gen|Sg	6	det	_	-
+6	taz-Autors	taz-Autor	N	NN	Masc|Gen|Sg	4	gmod	_	-
+7	oder	oder	KON	KON	_	6	kon	_	-
+8	einer	eine	PRO	PIS	Fem|Gen|Sg	7	cj	_	-
+9	unserer	unsre	ART	PPOSAT	Fem|Gen|Pl	11	det	_	-
+10	beliebten	beliebt	ADJA	ADJA	Pos|Fem|Gen|Pl|Wk|	11	attr	_	-
+11	AutorInnen	AutorIn	N	NN	Fem|Gen|Pl	6	gmod	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|_|Sg	2	det	_	-
+2	Lösungswort	Lösungswort	N	NN	Neut|_|Sg	3	obja	_	-
+3	findet	finden	V	VVFIN	2|Pl|Pres|_	0	root	_	-
+4	Ihr	ihr	PRO	PPER	2|Pl|_|Nom	3	subj	_	(0)
+5	,	,	$,	$,	_	0	root	_	-
+6	wenn	wenn	KOUS	KOUS	_	13	konj	_	-
+7	Ihr	ihr	PRO	PPER	2|Pl|_|Nom	13	subj	_	(0)
+8	die	die	ART	ART	Def|Masc|_|Pl	9	det	_	-
+9	Buchstaben	Buchstabe	N	NN	Masc|_|Pl	13	obja	_	-
+10	unter	unter	PREP	APPR	Dat	13	pp	_	-
+11	den	die	ART	ART	Def|Fem|Dat|Pl	12	det	_	-
+12	Ziffern	Ziffer	N	NN	Fem|Dat|Pl	10	pn	_	-
+13	notiert	notieren	V	VVFIN	2|Pl|Pres|Ind	3	neb	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Schickt	schicken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+2	es	es	PRO	PPER	3|Sg|Neut|Nom	1	subj	_	-
+3	bis	bis	PREP	APPR	Acc	1	pp	_	-
+4	zum	zu	PREP	APPRART	Dat	3	pp	_	-
+5	18.	18.	ADJA	ADJA	_|_|Dat|_|_|	4	pn	_	-
+
+1	10.	10.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	95	95	CARD	CARD	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	Datum	Datum	N	NN	Neut|_|Sg	0	root	_	-
+4	des	die	ART	ART	Def|Masc|Gen|Sg	5	det	_	-
+5	Poststempels	Poststempel	N	NN	Masc|Gen|Sg	3	gmod	_	-
+6	)	)	$(	$(	_	0	root	_	-
+7	an	an	PREP	APPR	Acc	3	pp	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	-
+9	taz-Wahrheit	taz-Wahrheit	N	NN	Fem|Acc|Sg	7	pn	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	Kochstr	Kochstr	N	NE	Fem|Acc|Sg	9	app	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	18	18	CARD	CARD	_	0	root	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	10969	10969	CARD	CARD	_	0	root	_	-
+4	Berlin	Berlin	N	NE	_|_|Sg	0	root	_	-
+5	.	.	$.	$.	_	0	root	_	-
+

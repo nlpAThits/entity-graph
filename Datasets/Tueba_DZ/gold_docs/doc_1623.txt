@@ -1,0 +1,27 @@
+1	Prof.	Prof.	NN	_	_	9	SUBJ	_	(0
+2	Dr.	Dr.	NN	_	_	1	APP	_	_
+3	Michael	Michael	NE	_	_	2	APP	_	_
+4	Daxner	Daxner	NE	_	_	3	APP	_	_
+5	,	,	$,	_	_	4	-PUNCT-	_	_
+6	Jahrgang	Jahrgang	NN	_	_	4	APP	_	_
+7	1947	1947	CARD	_	_	6	APP	_	0)
+8	,	,	$,	_	_	7	-PUNCT-	_	_
+9	leitet	leiten	VVFIN	_	_	0	ROOT	_	_
+10	als	als	KOKOM	_	_	9	KOM	_	_
+11	Präsident	Präsident	NN	_	_	10	CJ	_	_
+12	die	die	ART	_	_	13	DET	_	_
+13	Carl-von-Ossietzky-Universität	Carl-von-Ossietzky-Universität	NN	_	_	9	OBJA	_	_
+14	in	in	APPR	_	_	9	PP	_	_
+15	Oldenburg	Oldenburg	NE	_	_	14	PN	_	_
+16	.	.	$.	_	_	15	-PUNCT-	_	_
+
+1	Er	er	PPER	_	_	2	SUBJ	_	(0)
+2	rät	raten	VVFIN	_	_	0	ROOT	_	_
+3	zur	zu	APPRART	_	_	2	OBJP	_	_
+4	Öffnung	Öffnung	NN	_	_	3	PN	_	_
+5	und	und	KON	_	_	4	KON	_	_
+6	Demokratisierung	Demokratisierung	NN	_	_	5	CJ	_	_
+7	der	die	ART	_	_	8	DET	_	_
+8	Hochschulen	Hochschule	NN	_	_	4	GMOD	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+

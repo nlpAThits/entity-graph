@@ -1,0 +1,25 @@
+1	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+2	Sozialwissenschaftlerin	Sozialwissenschaftlerin	N	NN	Fem|Nom|Sg	1	subj	_	(0)
+3	und	und	KON	KON	_	2	kon	_	-
+4	freie	frei	ADJA	ADJA	Pos|_|Nom|_|_|	5	attr	_	-
+5	Publizistin	Publizistin	N	NN	_|Nom|_	3	cj	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	sie	sie	PRO	PPER	3|Sg|Fem|Nom	8	subj	_	(0)
+8	lebt	leben	V	VVFIN	3|Sg|Pres|Ind	1	kon	_	-
+9	in	in	PREP	APPR	_	8	pp	_	-
+10	Köln	Köln	N	NE	Neut|_|Sg	9	pn	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Masc|Nom|Pl	2	det	_	(1
+2	Schwerpunkte	Schwerpunkt	N	NN	Masc|Nom|Pl	5	subj	_	-
+3	ihrer	ihre	ART	PPOSAT	Fem|Gen|Sg	4	det	_	(1)
+4	Arbeit	Arbeit	N	NN	Fem|Gen|Sg	2	gmod	_	1)
+5	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	-
+6	Feminismus	Feminismus	N	NN	Masc|Nom|Sg	5	pred	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	Gleichstellungspolitik	Gleichstellungspolitik	N	NN	Fem|Nom|Sg	6	kon	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	soziale	sozial	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	11	attr	_	-
+11	Bewegungen	Bewegung	N	NN	Fem|Nom|Pl	9	cj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+

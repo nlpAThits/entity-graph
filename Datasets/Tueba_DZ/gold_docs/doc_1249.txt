@@ -1,0 +1,31 @@
+1	Neuseeland	Neuseeland	NE	_	_	2	SUBJ	_	_
+2	wirbt	werben	VVFIN	_	_	0	ROOT	_	_
+3	in	in	APPR	_	_	2	PP	_	_
+4	Berlin	Berlin	NE	_	_	3	PN	_	_
+5	um	um	APPR	_	_	2	PP	_	_
+6	Einwanderer	Einwanderer	NN	_	_	5	PN	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+
+1	Die	der|die|das	ART	_	_	3	DET	_	_
+2	meisten	meisten	PIDAT	_	_	3	ATTR	_	_
+3	Ausreisewilligen	Ausreisewilliger|Ausreisewillige|Ausreisewilliges	NN	_	_	4	SUBJ	_	_
+4	wollen	wollen%aux	VMFIN	_	_	13	SUBJC	_	_
+5	vor	vor	APPR	_	_	11	PP	_	_
+6	den	die	ART	_	_	7	DET	_	_
+7	Umweltbelastungen	Umweltbelastung	NN	_	_	5	PN	_	_
+8	in	in	APPR	_	_	7	PP	_	_
+9	ihrer	ihre	PPOSAT	_	_	10	DET	_	_
+10	Heimat	Heimat	NN	_	_	8	PN	_	_
+11	flüchten	flüchten	VVINF	_	_	4	AUX	_	_
+12	,	,	$,	_	_	11	-PUNCT-	_	_
+13	zeigte	zeigen	VVFIN	_	_	0	ROOT	_	_
+14	sich	#refl	PRF	_	_	13	OBJA	_	_
+15	nun	nun	ADV	_	_	13	ADV	_	_
+16	bei	bei	APPR	_	_	13	PP	_	_
+17	einem	ein	ART	_	_	18	DET	_	_
+18	Seminar	Seminar	NN	_	_	16	PN	_	_
+19	der	die	ART	_	_	21	DET	_	_
+20	neuseeländischen	neuseeländisch	ADJA	_	_	21	ATTR	_	_
+21	Botschaft	Botschaft	NN	_	_	18	GMOD	_	_
+22	.	.	$.	_	_	21	-PUNCT-	_	_
+

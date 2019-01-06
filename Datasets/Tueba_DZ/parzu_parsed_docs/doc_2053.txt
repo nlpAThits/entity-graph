@@ -1,0 +1,39 @@
+1	Harnisch	Harnisch	N	NN	Masc|Nom|Sg	2	subj	_	-
+2	sagt	sagen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ja	ja	ADV	ADV	_	2	adv	_	-
+4	!	!	$.	$.	_	0	root	_	-
+
+1	Titanic-Leser	Titanic-Leser	N	NN	Masc|Nom|Pl	2	subj	_	-
+2	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+3	aufatmen	aufatmen	V	VVINF	_	2	aux	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Masc|_|Pl	4	det	_	-
+2	monatelange	monatelang	ADJA	ADJA	Pos|Masc|_|Pl|St|	4	attr	_	-
+3	"	"	$(	$(	_	0	root	_	-
+4	Briefe	Brief	N	NN	Masc|_|Pl	0	root	_	-
+5	an	an	PREP	APPR	Acc	4	pp	_	-
+6	einen	eine	ART	ART	Indef|Masc|Acc|Sg	7	det	_	-
+7	Leser	Leser	N	NN	Masc|Acc|Sg	5	pn	_	-
+8	"	"	$(	$(	_	0	root	_	-
+9	-	-	$(	$(	_	0	root	_	-
+10	Kampagne	Kampagne	N	NN	Fem|_|Sg	0	root	_	-
+11	zur	zu	PREP	APPRART	Dat	10	pp	_	-
+12	Zusammenführung	Zusammenführung	N	NN	Fem|Dat|Sg	11	pn	_	(0
+13	des	die	ART	ART	Def|Masc|Gen|Sg	14	det	_	-
+14	Basketballers	Basketballer	N	NN	Masc|Gen|Sg	12	gmod	_	-
+15	Henning	Henning	N	NE	Masc|Gen|Sg	14	app	_	-
+16	Harnisch	Harnisch	N	NN	Masc|Gen|Sg	15	app	_	0)
+17	mit	mit	PREP	APPR	Dat	26	pp	_	-
+18	der	die	PRO	PRELS	Fem|Dat|Sg	17	pn	_	(0)
+19	diesem	diese	ART	PDAT	Masc|Dat|Sg	23	det	_	-
+20	angeblich	angeblich	ADV	ADJD	Pos|	22	adv	_	-
+21	rettungslos	rettungslos	ADV	ADJD	Pos|	22	adv	_	-
+22	verfallenen	verfallen	ADJA	ADJA	Pos|Masc|Dat|Sg|Wk|	23	attr	_	-
+23	Redakteurin	Redakteurin	N	NN	Masc|Dat|Sg	26	objd	_	-
+24	Simone	Simone	N	NE	Masc|Dat|Sg	23	app	_	-
+25	Borowiak	Borowiak	N	NE	Masc|Dat|Sg	24	app	_	-
+26	zeigt	zeigen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+27	Wirkung	Wirkung	N	NN	Fem|Nom|Sg	26	subj	_	-
+28	.	.	$.	$.	_	0	root	_	-
+

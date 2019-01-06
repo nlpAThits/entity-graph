@@ -1,0 +1,53 @@
+1	Bremerhaven	Bremerhaven	N	NE	Neut|_|Sg	0	root	_	(0)
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	ART	ART	Def|Neut|Nom|Sg	2	det	_	-
+2	Verwal-tungsgericht	Verwal-tungsgericht	N	NN	Neut|Nom|Sg	4	subj	_	-
+3	Bremen	Bremen	N	NE	Neut|Nom|Sg	2	app	_	-
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	gestern	gestern	ADV	ADV	_	8	adv	_	-
+6	Bremerhaven	Bremerhaven	N	NE	Neut|_|Sg	8	obja	_	(0)
+7	dazu	dazu	PROAV	PROAV	_	8	pp	_	-
+8	verurteilt	verurteilen	V	VVPP	_	4	aux	_	-
+9	eine	eine	ART	ART	Indef|Fem|_|Sg	10	det	_	(2
+10	Verfügung	Verfügung	N	NN	Fem|_|Sg	13	obja	_	2)
+11	zum	zu	PREP	APPRART	Dat	13	pp	_	-
+12	Plakatieren	Plakatieren	N	NN	_|Dat|_	11	pn	_	-
+13	zurückzunehmen	zurücknehmen	V	VVIZU	_	8	obji	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Diese	diese	PRO	PDS	Fem|Nom|Sg	2	subj	_	-
+2	bezog	beziehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	2	obja	_	-
+4	auf	auf	PREP	APPR	Acc	2	objp	_	-
+5	das	die	ART	ART	Def|Neut|Acc|Sg	6	det	_	-
+6	Hochhängen	Hochhang	N	NN	Neut|Acc|Sg	4	pn	_	-
+7	von	von	PREP	APPR	_	6	pp	_	-
+8	Wahltafeln	Wahltafel	N	NN	_|_|_	7	pn	_	-
+9	und	und	KON	KON	_	6	kon	_	-
+10	bestimmte	bestimmt	ADJA	ADJA	Pos|Neut|Acc|Pl|St|	11	attr	_	(1
+11	Formate	Format	N	NN	Neut|Acc|Pl	9	cj	_	-
+12	,	,	$,	$,	_	0	root	_	-
+13	die	die	PRO	PRELS	Neut|Nom|Pl	20	subj	_	(1)
+14	unter	unter	PREP	APPR	Dat	19	pp	_	-
+15	anderem	andere	PRO	PIS	_|Dat|Sg	14	pn	_	-
+16	von	von	PREP	APPR	_	19	pp	_	-
+17	der	die	ART	ART	Def|_|_|_	18	det	_	-
+18	DVU	DVU	N	NE	_|_|_	16	pn	_	-
+19	benutzt	benutzen	V	VVPP	_	20	aux	_	-
+20	werden	werden	V	VAFIN	3|Pl|Pres|_	11	rel	_	1)
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Diese	diese	ART	PDAT	Fem|Nom|Sg	2	det	_	(2
+2	Verfügung	Verfügung	N	NN	Fem|Nom|Sg	3	subj	_	2)
+3	sah	sehen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+4	das	die	ART	ART	Def|Neut|_|Sg	5	det	_	-
+5	VG	VG	N	NN	Neut|_|Sg	3	obja	_	-
+6	als	als	KOKOM	KOKOM	_	3	kom	_	-
+7	unzulässige	unzulässig	ADJA	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	-
+8	Behinderung	Behinderung	N	NN	Fem|_|Sg	6	cj	_	-
+9	der	die	ART	ART	Def|Fem|Gen|Sg	10	det	_	-
+10	Wahlwerbung	Wahlwerbung	N	NN	Fem|Gen|Sg	8	gmod	_	-
+11	an	an	PTKVZ	PTKVZ	_	3	avz	_	-
+12	.	.	$.	$.	_	0	root	_	-
+

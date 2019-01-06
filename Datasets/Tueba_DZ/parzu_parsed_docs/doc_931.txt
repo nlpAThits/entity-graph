@@ -1,0 +1,28 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	Deutsche	deutsch	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Lehrerverband	Lehrerverband	N	NN	Masc|Nom|Sg	5	subj	_	-
+4	Hamburg	Hamburg	N	NE	_|Nom|Sg	3	app	_	-
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+6	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	-
+7	neuen	neu	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	_	-
+8	Vorsitzenden	Vorsitzende	N	NN	Masc|Acc|Sg	5	obja	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	bisherige	bisherig	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Chef	Chef	N	NN	Masc|Nom|Sg	10	subj	_	-
+4	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	-
+5	Gewerkschaft	Gewerkschaft	N	NN	Fem|Gen|Sg	3	gmod	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	Peter	Peter	N	NE	Masc|Nom|Sg	3	app	_	-
+8	Braasch	Braasch	N	NE	Masc|Nom|Sg	7	app	_	-
+9	,	,	$,	$,	_	0	root	_	-
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+11	das	die	ART	ART	Def|Neut|_|Sg	12	det	_	-
+12	Amt	Amt	N	NN	Neut|_|Sg	16	obja	_	-
+13	nach	nach	PREP	APPR	Dat	16	pp	_	-
+14	acht	acht	CARD	CARD	_	15	attr	_	-
+15	Jahren	Jahr	N	NN	Neut|Dat|Pl	13	pn	_	-
+16	weitergegeben	weitergeben	V	VVPP	_	10	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+

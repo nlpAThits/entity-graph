@@ -1,0 +1,36 @@
+1	Mitte	Mitte	N	NN	Fem|_|Sg	0	root	_	-
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	SPD	SPD	N	NE	Fem|Nom|Sg	3	subj	_	-
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	eine	eine	ART	ART	Indef|Fem|_|Sg	6	det	_	-
+5	schnelle	schnell	ADJA	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	-
+6	Entscheidung	Entscheidung	N	NN	Fem|_|Sg	14	obja	_	-
+7	über	über	PREP	APPR	Acc	6	pp	_	-
+8	die	die	ART	ART	Def|Fem|Acc|Sg	9	det	_	-
+9	Zukunft	Zukunft	N	NN	Fem|Acc|Sg	7	pn	_	-
+10	des	die	ART	ART	Def|Masc|Gen|Sg	11	det	_	-
+11	Palastes	Palast	N	NN	Masc|Gen|Sg	9	gmod	_	-
+12	der	die	ART	ART	Def|Fem|Gen|Sg	13	det	_	-
+13	Republik	Republik	N	NN	Fem|Gen|Sg	11	gmod	_	-
+14	gefordert	fordern	V	VVPP	_	3	aux	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Jede	jede	ART	PIDAT	Fem|Nom|Sg	3	det	_	-
+2	weitere	weit	ADJA	ADJA	Comp|Fem|Nom|Sg|_|	3	attr	_	-
+3	Verzögerung	Verzögerung	N	NN	Fem|Nom|Sg	6	subj	_	-
+4	notwendiger	notwendig	ADJA	ADJA	Pos|Fem|Gen|Pl|St|	5	attr	_	-
+5	Sanierungsmaßnahmen	Sanierungsmaßnahme	N	NN	Fem|Gen|Pl	3	gmod	_	-
+6	steigere	steigern	V	VVFIN	3|Sg|Pres|Subj	14	s	_	-
+7	die	die	ART	ART	Def|_|_|Pl	8	det	_	-
+8	Kosten	Kosten	N	NN	_|_|Pl	6	obja	_	-
+9	»	»	$(	$(	_	0	root	_	-
+10	ins	in	PREP	APPRART	Acc	6	pp	_	-
+11	Uferlose	Uferlos	N	NN	_|Acc|_	10	pn	_	-
+12	«	«	$(	$(	_	0	root	_	-
+13	,	,	$,	$,	_	0	root	_	-
+14	hieß	heißen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+15	es	es	PRO	PPER	3|Sg|Neut|Nom	14	subj	_	-
+16	.	.	$.	$.	_	0	root	_	-
+

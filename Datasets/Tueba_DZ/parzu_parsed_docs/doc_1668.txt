@@ -1,0 +1,114 @@
+1	In	in	PREP	APPR	_	4	pp	_	-
+2	der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+3	Pro	Pro	N	NN	Masc|Nom|Sg	1	pn	_	-
+4	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	die	die	ART	ART	Def|Fem|Nom|Sg	6	det	_	-
+6	Schlange	Schlange	N	NN	Fem|Nom|Sg	4	subj	_	-
+7	vor	vor	PREP	APPR	Dat	6	pp	_	-
+8	der	die	ART	ART	Def|Fem|Dat|Sg	9	det	_	-
+9	Kasse	Kasse	N	NN	Fem|Dat|Sg	7	pn	_	-
+10	immer	immer	ADV	ADV	_	11	adv	_	-
+11	länger	lang	ADV	ADJD	Comp|	4	pred	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Frau	Frau	N	NN	Fem|Nom|Sg	3	subj	_	-
+2	S.	S.	N	NE	Fem|Nom|Sg	1	app	_	-
+3	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	an	an	PREP	APPR	Acc	3	objp	_	-
+5	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	-
+6	zweite	zweit	ADJA	ADJA	_|Fem|Acc|Sg|_|	7	attr	_	-
+7	Kasse	Kasse	N	NN	Fem|Acc|Sg	4	pn	_	-
+8	und	und	KON	KON	_	3	kon	_	-
+9	eröffnet	eröffnen	V	VVFIN	_|_|Pres|_	8	cj	_	-
+10	uns	wir	PRO	PPER	1|Pl|_|_	9	obja	_	-
+11	:	\:	$.	$.	_	0	root	_	-
+12	"	"	$(	$(	_	0	root	_	-
+13	Die	die	ART	ART	Def|Fem|_|Sg	14	det	_	(0
+14	Kasse	Kasse	N	NN	Fem|_|Sg	0	root	_	-
+15	is	is	FM	FM	Fem|_|Sg	14	app	_	0)
+16	'	'	$(	$(	_	0	root	_	-
+17	auf	auf	PTKVZ	PTKVZ	_	0	root	_	-
+18	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Niemand	niemand	PRO	PIS	_|Nom|Sg	3	subj	_	-
+3	rührt	rühren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	sich	sie	PRO	PRF	3|_|_	3	obja	_	-
+5	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|Fem|_|Sg	3	det	_	(0
+3	Kasse	Kasse	N	NN	Fem|_|Sg	0	root	_	-
+4	is	is	FM	FM	Fem|_|Sg	3	app	_	0)
+5	'	'	$(	$(	_	0	root	_	-
+6	auf	auf	PREP	APPR	_	0	root	_	-
+7	"	"	$(	$(	_	0	root	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	brüllt	brüllen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+10	sie	sie	PRO	PPER	3|Sg|Fem|Nom	9	subj	_	(0)
+11	,	,	$,	$,	_	0	root	_	-
+12	"	"	$(	$(	_	0	root	_	-
+13	A	A	N	NN	_|Nom|_	10	app	_	-
+14	-	-	$(	$(	_	0	root	_	-
+15	uh	uh	FM	FM	_	13	par	_	-
+16	-	-	$(	$(	_	0	root	_	-
+17	eff	eff	FM	FM	_|Nom|_	13	app	_	-
+18	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|_|_|_	3	det	_	-
+3	Inbtellektuellen	Inbtellektuellen	N	NN	_|_|_	6	obja	_	-
+4	im	in	PREP	APPRART	Dat	6	pp	_	-
+5	Publikum	Publikum	N	NN	Neut|Dat|Sg	4	pn	_	-
+6	grinsen	grinsen	V	VVINF	_	0	root	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	In	in	PREP	APPR	_	3	pp	_	-
+2	Hamburg	Hamburg	N	NE	_|_|Sg	1	pn	_	-
+3	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	das	die	ART	ART	Def|Neut|Nom|Sg	5	det	_	-
+5	a	a	N	NN	Neut|Nom|Sg	3	subj	_	-
+6	wie	wie	KOKOM	KOKOM	_	16	kom	_	-
+7	das	die	ART	ART	Def|Neut|_|Sg	9	det	_	-
+8	"	"	$(	$(	_	0	root	_	-
+9	aw	aw	FM	FM	Neut|_|Sg	6	cj	_	-
+10	"	"	$(	$(	_	0	root	_	-
+11	im	in	PREP	APPRART	Dat	16	pp	_	-
+12	englischen	englisch	ADJA	ADJA	Pos|_|Dat|_|_|	14	attr	_	-
+13	"	"	$(	$(	_	0	root	_	-
+14	law	law	FM	FM	_|Dat|_	11	pn	_	-
+15	"	"	$(	$(	_	0	root	_	-
+16	ausgesprochen	aussprechen	V	VVPP	_	3	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	-
+3	geh	geh	V	VVFIN	1|Sg|_|_	0	root	_	-
+4	inn	inn	N	NE	_	3	obja	_	-
+5	Lawdn	Lawdn	N	NE	_	4	app	_	-
+6	und	und	KON	KON	_	5	kon	_	-
+7	kauff	kauff	FM	FM	_	6	cj	_	-
+8	Banawn	Banawn	FM	FM	_	7	app	_	-
+9	"	"	$(	$(	_	0	root	_	-
+10	.	.	$.	$.	_	0	root	_	-
+
+1	Übrigens	übrigens	ADV	ADV	_	2	adv	_	-
+2	nicht	nicht	PTKNEG	PTKNEG	_	4	adv	_	-
+3	jedes	jede	ART	PIDAT	_|_|Sg	4	det	_	-
+4	a.	a.	PRO	PIS	_	0	root	_	-
+
+1	Nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	-
+2	vor	vor	PREP	APPR	_	0	root	_	-
+3	l	l	TRUNC	TRUNC	_	2	pn	_	-
+4	und	und	KON	KON	_	3	kon	_	-
+5	r.	r.	ADV	ADV	_	4	cj	_	-
+
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	-
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	also	also	ADV	ADV	_	2	adv	_	-
+4	nach	nach	ADV	ADV	_	2	adv	_	-
+5	wie	wie	KOKOM	KOKOM	_	0	root	_	-
+6	:	\:	$.	$.	_	0	root	_	-
+7	Baambeek	Baambeek	N	NE	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+

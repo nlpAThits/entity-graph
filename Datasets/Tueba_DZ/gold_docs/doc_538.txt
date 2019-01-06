@@ -1,0 +1,57 @@
+1	Sieben	sieben	CARD	_	_	2	ATTR	_	(0
+2	Vertragsärzten	Vertragsarzt	NN	_	_	3	OBJD	_	0)
+3	droht	drohen	VVFIN	_	_	0	ROOT	_	_
+4	wegen	wegen	APPR	_	_	3	PP	_	_
+5	falscher	falsch	ADJA	_	_	6	ATTR	_	_
+6	Honorarabrechnungen	Honorarabrechnung	NN	_	_	4	PN	_	_
+7	ein	ein	ART	_	_	8	DET	_	_
+8	Disziplinarverfahren	Disziplinarverfahren	NN	_	_	3	SUBJ	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+
+1	Die	der	ART	_	_	2	DET	_	(0
+2	Ärzte	Arzt	NN	_	_	3	SUBJ	_	0)
+3	waren	sein%aux	VAFIN	_	_	16	S	_	_
+4	bei	bei	APPR	_	_	14	PP	_	_
+5	der	die	ART	_	_	6	DET	_	_
+6	Überprüfung	Überprüfung	NN	_	_	4	PN	_	_
+7	der	die	ART	_	_	8	DET	_	_
+8	Abrechnungen	Abrechnung	NN	_	_	6	GMOD	_	_
+9	für	für	APPR	_	_	8	PP	_	_
+10	das	das	ART	_	_	12	DET	_	_
+11	dritte	dritt	ADJA	_	_	12	ATTR	_	_
+12	Quartal	Quartal	NN	_	_	9	PN	_	_
+13	1996	1996	CARD	_	_	12	APP	_	_
+14	aufgefallen	auf#fallen	VVPP	_	_	3	AUX	_	_
+15	,	,	$,	_	_	14	-PUNCT-	_	_
+16	berichtet	berichten	VVFIN	_	_	0	ROOT	_	_
+17	das	das	ART	_	_	19	DET	_	_
+18	"	"	$(	_	_	19	-PUNCT-	_	_
+19	KV-Blatt	KV-Blatt	NN	_	_	16	SUBJ	_	_
+20	"	"	$(	_	_	19	-PUNCT-	_	_
+21	.	.	$.	_	_	19	-PUNCT-	_	_
+
+1	Außerdem	außerdem	PROP	_	_	2	PP	_	_
+2	müßten	müssen%aux	VMFIN	_	_	0	ROOT	_	_
+3	zwölf	zwölf	CARD	_	_	4	ATTR	_	_
+4	Ärzte	Arzt	NN	_	_	2	SUBJ	_	_
+5	mit	mit	APPR	_	_	9	OBJP	_	_
+6	einer	eine	ART	_	_	8	DET	_	_
+7	nachträglichen	nachträglich	ADJA	_	_	8	ATTR	_	_
+8	Honorarreduzierung	Honorarreduzierung	NN	_	_	5	PN	_	_
+9	rechnen	rechnen	VVINF	_	_	2	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Dabei	dabei	PROP	_	_	2	PP	_	_
+2	drohe	drohen	VVFIN	_	_	0	ROOT	_	_
+3	zwei	zwei	CARD	_	_	4	ATTR	_	_
+4	Medizinern	Mediziner	NN	_	_	2	OBJD	_	_
+5	sowohl	sowohl	KON	_	_	8	KON	_	_
+6	eine	eine	ART	_	_	8	DET	_	_
+7	finanzielle	finanziell	ADJA	_	_	8	ATTR	_	_
+8	Kürzung	Kürzung	NN	_	_	2	SUBJ	_	_
+9	als	als	KON	_	_	8	KON	_	_
+10	auch	auch	ADV	_	_	9	CJ	_	_
+11	ein	ein	ART	_	_	12	DET	_	_
+12	Disziplinarverfahren	Disziplinarverfahren	NN	_	_	10	KON	_	_
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+

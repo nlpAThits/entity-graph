@@ -1,0 +1,31 @@
+1	Dies	dieses	PDS	_	_	2	OBJA	_	_
+2	bestritt	bestreiten	VVFIN	_	_	0	ROOT	_	_
+3	die	die	ART	_	_	4	DET	_	_
+4	Gendarmerie	Gendarmerie	NN	_	_	2	SUBJ	_	_
+5	;	;	$.	_	_	4	-PUNCT-	_	_
+
+1	in	in	APPR	_	_	4	PP	_	_
+2	Justizkreisen	Justizkreis	NN	_	_	1	PN	_	_
+3	allerdings	allerdings	ADV	_	_	1	ADV	_	_
+4	wollte	wollen%aux	VMFIN	_	_	0	ROOT	_	_
+5	man	man	PIS	_	_	4	SUBJ	_	_
+6	nicht	nicht	PTKNEG	_	_	7	ADV	_	_
+7	ausschließen	aus#schließen	VVINF	_	_	4	AUX	_	_
+8	,	,	$,	_	_	7	-PUNCT-	_	_
+9	daß	daß	KOUS	_	_	15	KONJ	_	_
+10	er	er	PPER	_	_	15	SUBJ	_	(2)
+11	nach	nach	APPR	_	_	13	PP	_	_
+12	Paris	Paris	NE	_	_	11	PN	_	(1)
+13	gereist	reisen	VVPP	_	_	14	AUX	_	_
+14	sein	sein%aux	VAINF	_	_	15	AUX	_	_
+15	könnte	können%aux	VMFIN	_	_	7	OBJC	_	_
+16	,	,	$,	_	_	15	-PUNCT-	_	_
+17	um	um	KOUI	_	_	23	KONJ	_	_
+18	sich	#refl	PRF	_	_	23	OBJA	_	_
+19	mit	mit	APPR	_	_	23	OBJP	_	_
+20	seinen	sein	PPOSAT	_	_	21	DET	_	(2)
+21	Chefs	Chef	NN	_	_	19	PN	_	_
+22	zu	zu	PTKZU	_	_	23	PART	_	_
+23	verständigen	verständigen	VVINF	_	_	15	NEB	_	_
+24	.	.	$.	_	_	23	-PUNCT-	_	_
+

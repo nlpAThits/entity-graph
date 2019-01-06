@@ -1,0 +1,43 @@
+1	Ein	ein	ART	_	_	3	DET	_	(1
+2	34jähriger	34jährig	ADJA	_	_	3	ATTR	_	_
+3	Mann	Mann	NN	_	_	4	SUBJ	_	1)
+4	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+5	gestern	gestern	ADV	_	_	10	ADV	_	_
+6	vormittag	vormittag	ADV	_	_	5	ADV	_	_
+7	von	von	APPR	_	_	10	PP	_	_
+8	der	die	ART	_	_	9	DET	_	(0
+9	Straßenbahn	Straßenbahn	NN	_	_	7	PN	_	0)
+10	erfaßt	erfassen	VVPP	_	_	4	AUX	_	_
+11	und	und	KON	_	_	4	KON	_	_
+12	mehrere	mehrere	PIAT	_	_	13	DET	_	_
+13	Meter	Meter	NN	_	_	14	ZEIT	_	_
+14	mitgeschleift	mit#schleifen	VVPP	_	_	11	CJ	_	_
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+
+1	Er	er	PPER	_	_	2	SUBJ	_	(1)
+2	war	sein%aux	VAFIN	_	_	0	ROOT	_	_
+3	an	an	APPR	_	_	14	PP	_	_
+4	der	die	ART	_	_	5	DET	_	_
+5	Haltestelle	Haltestelle	NN	_	_	3	PN	_	_
+6	Meyerstraße	Meyerstraße	NN	_	_	5	APP	_	_
+7	(	(	$(	_	_	8	-PUNCT-	_	_
+8	Neustadt	Neustadt	NE	_	_	6	APP	_	_
+9	)	)	$(	_	_	8	-PUNCT-	_	_
+10	beim	bei	APPRART	_	_	14	PP	_	_
+11	Überqueren	Überqueren	NN	_	_	10	PN	_	_
+12	der	die	ART	_	_	13	DET	_	_
+13	Straße	Straße	NN	_	_	11	GMOD	_	_
+14	gestolpert	stolpern	VVPP	_	_	2	AUX	_	_
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+
+1	Mit	mit	APPR	_	_	6	PP	_	_
+2	lebensgefährlichen	lebensgefährlich	ADJA	_	_	3	ATTR	_	_
+3	Kopfverletzungen	Kopfverletzung	NN	_	_	1	PN	_	_
+4	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+5	der	der	ART	_	_	6	DET	_	(1
+6	Mann	Mann	NN	_	_	4	SUBJ	_	1)
+7	ins	in	APPRART	_	_	9	PP	_	_
+8	Krankenhaus	Krankenhaus	NN	_	_	7	PN	_	_
+9	eingeliefert	ein#liefern	VVPP	_	_	4	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+

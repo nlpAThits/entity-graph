@@ -1,0 +1,172 @@
+1	Mit	mit	APPR	_	_	0	ROOT	_	_
+2	Krieg	Krieg	NN	_	_	1	PN	_	_
+3	in	in	APPR	_	_	2	PP	_	_
+4	Bosnien	Bosnien	NE	_	_	3	PN	_	_
+5	?	?	$.	_	_	4	-PUNCT-	_	_
+
+1	Quatsch	Quatsch	NN	_	_	0	ROOT	_	_
+2	.	.	$.	_	_	1	-PUNCT-	_	_
+
+1	Mit	mit	APPR	_	_	0	ROOT	_	_
+2	Autobahngebühren	Autobahngebühr	NN	_	_	1	PN	_	_
+3	?	?	$.	_	_	2	-PUNCT-	_	_
+
+1	Besser	besser	ADJD	_	_	0	ROOT	_	_
+2	.	.	$.	_	_	1	-PUNCT-	_	_
+
+1	Mit	mit	APPR	_	_	0	ROOT	_	_
+2	einem	ein	ART	_	_	3	DET	_	(0
+3	Strahlemann	Strahlemann	NN	_	_	1	PN	_	0)
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	der	der	PRELS	_	_	9	SUBJ	_	(0)
+6	zum	zu	APPRART	_	_	9	PP	_	_
+7	private	privat	ADJA	_	_	8	ATTR	_	_
+8	Fernsehen	Fernsehen	NN	_	_	6	PN	_	_
+9	geht	gehen	VVFIN	_	_	3	REL	_	_
+10	?	?	$.	_	_	9	-PUNCT-	_	_
+
+1	Das	das	PDS	_	_	2	SUBJ	_	_
+2	isses	sein_es	VAFIN	_	_	0	ROOT	_	_
+3	!	!	$.	_	_	2	-PUNCT-	_	_
+
+1	Wonti	Wonti	NE	_	_	0	ROOT	_	(1)
+2	auf	auf	APPR	_	_	1	PP	_	_
+3	allen	alle	PIDAT	_	_	4	DET	_	_
+4	Kanälen	Kanal	NN	_	_	2	PN	_	_
+5	.	.	$.	_	_	4	-PUNCT-	_	_
+
+1	Darf	dürfen	VMFIN	_	_	0	ROOT	_	_
+2	der	der	PDS	_	_	1	SUBJ	_	(1)
+3	das	das	PDS	_	_	1	OBJA	_	_
+4	?	?	$.	_	_	3	-PUNCT-	_	_
+
+1	Und	und	KON	_	_	3	KON	_	_
+2	warum	warum	PWAV	_	_	3	PP	_	_
+3	nicht	nicht	PTKNEG	_	_	0	ROOT	_	_
+4	?	?	$.	_	_	3	-PUNCT-	_	_
+
+1	Wie	wie	PWAV	_	_	2	ADV	_	_
+2	schlecht	schlecht	ADJD	_	_	6	PRED	_	_
+3	es	es	PPER	_	_	7	SUBJ	_	_
+4	der	die	ART	_	_	5	DET	_	(3
+5	ARD	ARD	NE	_	_	6	OBJD	_	3)
+6	gehen	gehen	VVINF	_	_	7	AUX	_	_
+7	muß	müssen%aux	VMFIN	_	_	9	OBJC	_	_
+8	,	,	$,	_	_	7	-PUNCT-	_	_
+9	ahnten	ahnen	VVFIN	_	_	0	ROOT	_	_
+10	wir	wir	PPER	_	_	9	SUBJ	_	_
+11	schon	schon	ADV	_	_	9	ADV	_	_
+12	im	in	APPRART	_	_	9	PP	_	_
+13	Juni	Juni	NN	_	_	12	PN	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+
+1	Da	da	ADV	_	_	2	ADV	_	_
+2	war	sein%aux	VAFIN	_	_	0	ROOT	_	_
+3	Charming-Wonti	Charming-Wonti	NE	_	_	2	SUBJ	_	(1)
+4	von	von	APPR	_	_	7	PP	_	_
+5	der	die	ART	_	_	6	DET	_	_
+6	UEFA	UEFA	NE	_	_	4	PN	_	_
+7	gesperrt	sperren	VVPP	_	_	8	AUX	_	_
+8	worden	werden%passiv	VAPP	_	_	2	AUX	_	_
+9	,	,	$,	_	_	8	-PUNCT-	_	_
+10	weil	weil	KOUS	_	_	22	KONJ	_	_
+11	er	er	PPER	_	_	22	SUBJ	_	(1)
+12	bei	bei	APPR	_	_	21	PP	_	_
+13	der	die	ART	_	_	14	DET	_	_
+14	Fußballeuropameisterschaft	Fußballeuropameisterschaft	NN	_	_	12	PN	_	_
+15	einen	ein	ART	_	_	16	DET	_	_
+16	Spieler	Spieler	NN	_	_	21	OBJA	_	_
+17	schon	schon	ADV	_	_	21	ADV	_	_
+18	auf	auf	APPR	_	_	21	PP	_	_
+19	dem	der	ART	_	_	20	DET	_	_
+20	Platz	Platz	NN	_	_	18	PN	_	_
+21	interviewt	interviewen	VVPP	_	_	22	AUX	_	_
+22	hatte	haben%aux	VAFIN	_	_	2	NEB	_	_
+23	.	.	$.	_	_	22	-PUNCT-	_	_
+
+1	Leibhaftige	leibhaftig	ADJA	_	_	2	ATTR	_	(2
+2	Intendanten	Intendant	NN	_	_	3	SUBJ	_	2)
+3	ließen	lassen	VVFIN	_	_	0	ROOT	_	_
+4	sich	#refl	PRF	_	_	10	OBJA	_	(2)
+5	Minuten	Minute	NN	_	_	6	GRAD	_	_
+6	lang	lang	ADJD	_	_	10	ADV	_	_
+7	in	in	APPR	_	_	10	PP	_	_
+8	den	das	ART	_	_	9	DET	_	_
+9	Tagesthemen	Tagesthema	NN	_	_	7	PN	_	_
+10	interviewen	interviewen	VVINF	_	_	3	OBJI	_	_
+11	,	,	$,	_	_	10	-PUNCT-	_	_
+12	um	um	KOUI	_	_	16	KONJ	_	_
+13	die	der	ART	_	_	14	DET	_	_
+14	Fußballrichter	Fußballrichter	NN	_	_	16	OBJA	_	_
+15	zu	zu	PTKZU	_	_	16	PART	_	_
+16	bekehren	bekehren	VVINF	_	_	10	NEB	_	_
+17	.	.	$.	_	_	16	-PUNCT-	_	_
+
+1	Jetzt	jetzt	ADV	_	_	2	ADV	_	_
+2	wissen	wissen	VVFIN	_	_	0	ROOT	_	_
+3	wir	wir	PPER	_	_	2	SUBJ	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	daß	daß	KOUS	_	_	12	KONJ	_	_
+6	der	der	ART	_	_	8	DET	_	_
+7	kämpferische	kämpferisch	ADJA	_	_	8	ATTR	_	_
+8	Einsatz	Einsatz	NN	_	_	12	SUBJ	_	_
+9	dem	der	ART	_	_	10	DET	_	(1
+10	Wechselwilligen	Wechselwilliger	NN	_	_	11	OBJD	_	1)
+11	zeigen	zeigen	VVINF	_	_	12	AUX	_	_
+12	sollte	sollen%aux	VMFIN	_	_	2	OBJC	_	_
+13	,	,	$,	_	_	12	-PUNCT-	_	_
+14	wie	wie	PWAV	_	_	15	ADV	_	_
+15	sehr	sehr	ADV	_	_	21	ADV	_	_
+16	er	er	PPER	_	_	22	SUBJ	_	(1)
+17	sich	#refl	PRF	_	_	21	OBJA	_	_
+18	auf	auf	APPR	_	_	21	OBJP	_	_
+19	seine	seine	PPOSAT	_	_	20	DET	_	(1)|(3
+20	ARD	ARD	NE	_	_	18	PN	_	3)
+21	verlassen	verlassen	VVINF	_	_	22	AUX	_	_
+22	kann	können%aux	VMFIN	_	_	11	OBJC	_	_
+23	.	.	$.	_	_	22	-PUNCT-	_	_
+
+1	Wonti	Wonti	NE	_	_	3	SUBJ	_	(1|(4)
+2	aber	aber	ADV	_	_	1	ADV	_	1)
+3	tut	tun	VVFIN	_	_	0	ROOT	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	was	was	PWS	_	_	11	OBJA	_	_
+6	alle	alle	PIDAT	_	_	7	DET	_	_
+7	Wontis	Wonti	NE	_	_	11	SUBJ	_	_
+8	dieser	diese	PDAT	_	_	9	DET	_	_
+9	Welt	Welt	NN	_	_	7	GMOD	_	_
+10	irgendwann	irgendwann	ADV	_	_	11	ADV	_	_
+11	tun	tun	VVFIN	_	_	3	OBJC	_	_
+12	:	:	$.	_	_	11	-PUNCT-	_	_
+13	Er	er	PPER	_	_	14	SUBJ	_	(4)
+14	will	wollen%aux	VMFIN	_	_	0	ROOT	_	_
+15	sich	#refl	PRF	_	_	21	OBJA	_	_
+16	nur	nur	ADV	_	_	21	ADV	_	_
+17	noch	noch	ADV	_	_	21	ADV	_	_
+18	auf	auf	APPR	_	_	21	OBJP	_	_
+19	sein	sein	PPOSAT	_	_	20	DET	_	(4)
+20	Bankkonto	Bankkonto	NN	_	_	18	PN	_	_
+21	verlassen	verlassen	VVINF	_	_	14	AUX	_	_
+22	.	.	$.	_	_	21	-PUNCT-	_	_
+
+1	Wir	wir	PPER	_	_	4	SUBJ	_	_
+2	Geschädigten	Geschädigter|Geschädigte|Geschädigtes	NN	_	_	1	APP	_	_
+3	aber	aber	ADV	_	_	1	ADV	_	_
+4	sorgen	sorgen	VVFIN	_	_	0	ROOT	_	_
+5	uns	#refl	PRF	_	_	4	OBJA	_	_
+6	um	um	APPR	_	_	4	OBJP	_	_
+7	Wontis	Wonti	NE	_	_	9	GMOD	_	(4)
+8	begnadetete	begnadet	ADJA	_	_	9	ATTR	_	_
+9	Reportagen	Reportage	NN	_	_	6	PN	_	_
+10	vom	von	APPRART	_	_	9	PP	_	_
+11	Dackelrennen	Dackelrennen	NN	_	_	10	PN	_	_
+12	in	in	APPR	_	_	11	PP	_	_
+13	Düdelsdorf	Düdelsdorf	NE	_	_	12	PN	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+
+1	Das	das	PDS	_	_	2	SUBJ	_	_
+2	wird	werden%aux	VAFIN	_	_	0	ROOT	_	_
+3	uns	wir	PPER	_	_	4	OBJD	_	_
+4	fehlen	fehlen	VVINF	_	_	2	AUX	_	_
+5	.	.	$.	_	_	4	-PUNCT-	_	_
+

@@ -1,0 +1,55 @@
+1	Der	der	ART	_	_	2	DET	_	_
+2	Meu	Mai	NN	_	_	3	SUBJ	_	_
+3	macht	machen	VVFIN	_	_	0	ROOT	_	_
+4	nicht	nicht	PTKNEG	_	_	3	ADV	_	_
+5	alles	alles	PIS	_	_	3	OBJA	_	_
+6	neu	neu	ADJD	_	_	3	ADV	_	_
+7	!	!	$.	_	_	6	-PUNCT-	_	_
+
+1	Es	es	PPER	_	_	2	SUBJ	_	_
+2	ist	sein	VAFIN	_	_	0	ROOT	_	_
+3	zur	zu	APPRART	_	_	2	PP	_	_
+4	Zeit	Zeit	NN	_	_	3	PN	_	_
+5	eher	eher	ADV	_	_	2	ADV	_	_
+6	ein	ein	ART	_	_	7	DET	_	_
+7	Seumeu	Saumai	NN	_	_	2	PRED	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	6	DET	_	_
+2	sonst	sonst	ADV	_	_	5	ADV	_	_
+3	im	in	APPRART	_	_	5	PP	_	_
+4	Meu	Mai	NN	_	_	3	PN	_	_
+5	lachende	lachend	ADJA	_	_	6	ATTR	_	_
+6	Sonne	Sonne	NN	_	_	7	SUBJ	_	_
+7	hat	haben%aux	VAFIN	_	_	0	ROOT	_	_
+8	sich	#refl	PRF	_	_	11	OBJA	_	_
+9	hinter	hinter	APPR	_	_	11	PP	_	_
+10	Wolken	Wolke	NN	_	_	9	PN	_	_
+11	verzogen	verziehen	VVPP	_	_	7	AUX	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Es	es	PPER	_	_	2	SUBJ	_	_
+2	soll	sollen%aux	VMFIN	_	_	0	ROOT	_	_
+3	zum	zu	APPRART	_	_	8	PP	_	_
+4	Wochenende	Wochenende	NN	_	_	3	PN	_	_
+5	sogar	sogar	ADV	_	_	8	ADV	_	_
+6	teilweise	teilweise	ADV	_	_	8	ADV	_	_
+7	Schauer	Schauer	NN	_	_	8	OBJA	_	_
+8	geben	geben	VVINF	_	_	2	AUX	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+
+1	Immerhin	immerhin	ADV	_	_	2	ADV	_	_
+2	wird	werden	VAFIN	_	_	0	ROOT	_	_
+3	es	es	PPER	_	_	2	SUBJ	_	_
+4	nicht	nicht	PTKNEG	_	_	2	ADV	_	_
+5	noch	noch	ADV	_	_	2	ADV	_	_
+6	obendrein	obendrein	ADV	_	_	2	ADV	_	_
+7	kalt	kalt	ADJD	_	_	2	PRED	_	_
+8	,	,	$,	_	_	7	-PUNCT-	_	_
+9	sondern	sondern	KON	_	_	2	KON	_	_
+10	bei	bei	APPR	_	_	13	PP	_	_
+11	20	20	CARD	_	_	12	ATTR	_	_
+12	Grad	Grad	NN	_	_	10	PN	_	_
+13	erträglich	erträglich	ADJD	_	_	9	CJ	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+

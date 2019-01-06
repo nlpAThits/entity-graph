@@ -1,0 +1,30 @@
+1	Belgrad	Belgrad	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Der	die	ART	ART	Def|Masc|Nom|Sg	8	det	_	-
+7	serbische	serbisch	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	8	attr	_	-
+8	Prasident	Prasident	N	NN	Masc|Nom|Sg	10	subj	_	-
+9	Milosevic	Milosevic	N	NE	Masc|Nom|Sg	8	app	_	-
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+11	ein	eine	ART	ART	Indef|_|_|Sg	0	root	_	-
+12	für	für	PREP	APPR	Acc	0	root	_	-
+13	gestern	gestern	ADV	ADV	_	14	adv	_	-
+14	angekündigtes	angekündigt	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	15	attr	_	-
+15	Treffen	Treffen	N	NN	Neut|Acc|Sg	12	pn	_	-
+16	mit	mit	PREP	APPR	Dat	15	pp	_	-
+17	den	die	ART	ART	Def|Masc|Dat|Pl	19	det	_	-
+18	bosnischen	bosnischen	ADJA	ADJA	_|Masc|Dat|Pl|_	19	attr	_	-
+19	Serben	Serbe	N	NN	Masc|Dat|Pl	16	pn	_	-
+20	abgelehnt	ablehnen	V	VVPP	_	0	root	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	berichtete	berichten	V	VVFIN	3|Sg|Past|_	0	root	_	-
+3	die	die	ART	ART	Def|Fem|_|Sg	5	det	_	-
+4	Belgrader	Belgrader	ADJA	ADJA	Pos|Fem|_|Sg|_|	5	attr	_	-
+5	Agentur	Agentur	N	NN	Fem|_|Sg	2	obja	_	-
+6	Beta	Beta	N	NE	Fem|_|Sg	5	app	_	-
+7	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,44 @@
+1	Und	und	KON	_	_	0	ROOT	_	_
+2	was	was	PWS	_	_	3	OBJA	_	_
+3	sagte	sagen	VVFIN	_	_	1	CJ	_	_
+4	der	der	ART	_	_	9	DET	_	(0
+5	auf	auf	APPR	_	_	8	PP	_	_
+6	den	der	ART	_	_	7	DET	_	_
+7	Kopf	Kopf	NN	_	_	5	PN	_	_
+8	gefallene	gefallen	ADJA	_	_	9	ATTR	_	_
+9	Radsport-Kenner	Radsport-Kenner	NN	_	_	3	SUBJ	_	_
+10	Scharping	Scharping	NE	_	_	9	APP	_	0)
+11	?	?	$.	_	_	10	-PUNCT-	_	_
+
+1	1.	1.	ADV	_	_	0	ROOT	_	_
+2	Der	der	ART	_	_	3	DET	_	_
+3	Radsport	Radsport	NN	_	_	4	SUBJ	_	_
+4	sei	sein	VAFIN	_	_	0	ROOT	_	_
+5	"	"	$(	_	_	6	-PUNCT-	_	_
+6	extrem	extrem	ADJD	_	_	7	ADV	_	_
+7	brutal	brutal	ADJD	_	_	4	PRED	_	_
+8	"	"	$(	_	_	7	-PUNCT-	_	_
+9	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	2.	2.	ADV	_	_	0	ROOT	_	_
+2	"	"	$(	_	_	3	-PUNCT-	_	_
+3	Konzentrieren	konzentrieren	VVFIN	_	_	0	ROOT	_	_
+4	wir	wir	PPER	_	_	3	SUBJ	_	_
+5	uns	#refl	PRF	_	_	3	OBJA	_	_
+6	wieder	wieder	ADV	_	_	3	ADV	_	_
+7	auf	auf	APPR	_	_	3	PP	_	_
+8	das	das	ART	_	_	9	DET	_	(1
+9	Rennen	Rennen	NN	_	_	7	PN	_	1)
+10	,	,	$,	_	_	9	-PUNCT-	_	_
+11	das	das	PDS	_	_	12	SUBJ	_	_
+12	tut	tun	VVFIN	_	_	3	KON	_	_
+13	dann	dann	ADV	_	_	12	ADV	_	_
+14	auch	auch	ADV	_	_	12	ADV	_	_
+15	der	die	ART	_	_	17	DET	_	_
+16	eigenen	eigen	ADJA	_	_	17	ATTR	_	_
+17	Seele	Seele	NN	_	_	12	OBJD	_	_
+18	ganz	ganz	ADV	_	_	19	ADV	_	_
+19	gut	gut	ADJD	_	_	12	PRED	_	_
+20	.	.	$.	_	_	19	-PUNCT-	_	_
+21	"	"	$(	_	_	19	-PUNCT-	_	_
+

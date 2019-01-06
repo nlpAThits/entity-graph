@@ -1,0 +1,29 @@
+1	Bonn	Bonn	NE	_	_	0	ROOT	_	(0)
+2	(	(	$(	_	_	3	-PUNCT-	_	_
+3	dpa	dpa	NE	_	_	0	ROOT	_	_
+4	)	)	$(	_	_	3	-PUNCT-	_	_
+5	-	-	$(	_	_	3	-PUNCT-	_	_
+6	Frankreichs	Frankreich	NE	_	_	7	GMOD	_	(1|(2)
+7	Staatspräsident	Staatspräsident	NN	_	_	9	SUBJ	_	_
+8	Chirac	Chirac	NE	_	_	7	APP	_	1)
+9	wird	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+10	nächsten	nächst	ADJA	_	_	11	ATTR	_	_
+11	Mittwoch	Mittwoch	NN	_	_	20	ZEIT	_	_
+12	zu	zu	APPR	_	_	20	PP	_	_
+13	informellen	informell	ADJA	_	_	14	ATTR	_	_
+14	Gesprächen	Gespräch	NN	_	_	12	PN	_	_
+15	mit	mit	APPR	_	_	14	PP	_	_
+16	Bundeskanzler	Bundeskanzler	NN	_	_	15	PN	_	_
+17	Kohl	Kohl	NE	_	_	16	APP	_	_
+18	in	in	APPR	_	_	20	PP	_	_
+19	Bonn	Bonn	NE	_	_	18	PN	_	(0)
+20	erwartet	erwarten	VVPP	_	_	9	AUX	_	_
+21	.	.	$.	_	_	20	-PUNCT-	_	_
+
+1	Dies	dieses	PDS	_	_	2	OBJA	_	_
+2	bestätigte	bestätigen	VVFIN	_	_	0	ROOT	_	_
+3	gestern	gestern	ADV	_	_	2	ADV	_	_
+4	der	der	ART	_	_	5	DET	_	_
+5	Regierungssprecher	Regierungssprecher	NN	_	_	2	SUBJ	_	_
+6	.	.	$.	_	_	5	-PUNCT-	_	_
+

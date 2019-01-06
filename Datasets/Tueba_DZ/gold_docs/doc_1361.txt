@@ -1,0 +1,87 @@
+1	HEUTE	heute	ADV	_	_	0	ROOT	_	_
+2	IM	in	APPRART	_	_	0	ROOT	_	_
+3	LOKALTEIL	Lokalteil	NN	_	_	2	PN	_	_
+
+1	Gerechtigkeit	Gerechtigkeit	NN	_	_	0	ROOT	_	_
+2	!	!	$.	_	_	1	-PUNCT-	_	_
+
+1	Zwei	zwei	CARD	_	_	2	ATTR	_	_
+2	Tage	Tag	NN	_	_	3	GRAD	_	_
+3	nach	nach	APPR	_	_	14	PP	_	_
+4	der	die	ART	_	_	5	DET	_	(1
+5	Gründung	Gründung	NN	_	_	3	PN	_	_
+6	des	das	ART	_	_	8	DET	_	(2
+7	"	"	$(	_	_	8	-PUNCT-	_	_
+8	Komitees	Komitee	NN	_	_	5	GMOD	_	_
+9	für	für	APPR	_	_	8	PP	_	_
+10	Gerechtigkeit	Gerechtigkeit	NN	_	_	9	PN	_	2)
+11	"	"	$(	_	_	10	-PUNCT-	_	_
+12	in	in	APPR	_	_	5	PP	_	_
+13	Ost-Berlin	Ost-Berlin	NE	_	_	12	PN	_	1)
+14	kann	können%aux	VMFIN	_	_	0	ROOT	_	_
+15	sich	#refl	PRF	_	_	23	OBJA	_	_
+16	das	das	ART	_	_	18	DET	_	_
+17	Berliner	Berliner	ADJA	_	_	18	ATTR	_	_
+18	Büro	Büro	NN	_	_	14	SUBJ	_	_
+19	über	über	APPR	_	_	23	PP	_	_
+20	mangelnden	mangelnd	ADJA	_	_	21	ATTR	_	_
+21	Zuspruch	Zuspruch	NN	_	_	19	PN	_	_
+22	nicht	nicht	PTKNEG	_	_	23	ADV	_	_
+23	beklagen	beklagen	VVINF	_	_	14	AUX	_	_
+24	.	.	$.	_	_	23	-PUNCT-	_	_
+
+1	Beim	bei	APPRART	_	_	6	PP	_	_
+2	örtlichen	örtlich	ADJA	_	_	3	ATTR	_	_
+3	Büroleiter	Büroleiter	NN	_	_	1	PN	_	_
+4	Erwin	Erwin	NE	_	_	3	APP	_	_
+5	Hasselberg	Hasselberg	NE	_	_	4	APP	_	_
+6	standen	still#stehen	VVFIN	_	_	0	ROOT	_	_
+7	die	das	ART	_	_	8	DET	_	_
+8	Telefone	Telefon	NN	_	_	6	SUBJ	_	_
+9	nicht	nicht	PTKNEG	_	_	6	ADV	_	_
+10	mehr	mehr	ADV	_	_	9	ADV	_	_
+11	still	_	PTKVZ	_	_	6	AVZ	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	In	in	APPR	_	_	7	PP	_	_
+2	den	der	ART	_	_	4	DET	_	_
+3	Ostberliner	Ostberliner	ADJA	_	_	4	ATTR	_	_
+4	Bezirken	Bezirk	NN	_	_	1	PN	_	_
+5	sollen	sollen%aux	VMFIN	_	_	0	ROOT	_	_
+6	nun	nun	ADV	_	_	9	ADV	_	_
+7	überall	überall	ADV	_	_	9	ADV	_	_
+8	Anlaufstellen	Anlaufstelle	NN	_	_	5	SUBJ	_	(0)
+9	gegründet	gründen	VVPP	_	_	10	AUX	_	_
+10	werden	werden%passiv	VAINF	_	_	5	AUX	_	_
+11	,	,	$,	_	_	10	-PUNCT-	_	_
+12	in	in	APPR	_	_	15	PP	_	_
+13	vier	vier	CARD	_	_	14	ATTR	_	_
+14	Stadtteilen	Stadtteil	NN	_	_	12	PN	_	_
+15	existieren	existieren	VVFIN	_	_	5	KON	_	_
+16	sie	sie	PPER	_	_	15	SUBJ	_	(0)
+17	bereits	bereits	ADV	_	_	15	ADV	_	_
+18	.	.	$.	_	_	17	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	3	DET	_	_
+2	Berliner	Berliner	ADJA	_	_	3	ATTR	_	_
+3	Parteien	Partei	NN	_	_	5	SUBJ	_	_
+4	hingegen	hingegen	ADV	_	_	3	ADV	_	_
+5	reagierten	reagieren	VVFIN	_	_	0	ROOT	_	_
+6	sehr	sehr	ADV	_	_	7	ADV	_	_
+7	zurückhaltend	zurückhaltend	ADJD	_	_	5	ADV	_	_
+8	auf	auf	APPR	_	_	5	PP	_	_
+9	die	die	ART	_	_	10	DET	_	(1
+10	Komitee-Gründung	Komitee-Gründung	NN	_	_	8	PN	_	1)
+11	.	.	$.	_	_	10	-PUNCT-	_	_
+
+1	Nur	nur	ADV	_	_	3	ADV	_	_
+2	das	das	ART	_	_	3	DET	_	_
+3	Bündnis	Bündnis	NN	_	_	5	SUBJ	_	_
+4	90	90	CARD	_	_	3	APP	_	_
+5	will	wollen%aux	VMFIN	_	_	0	ROOT	_	_
+6	mit	mit	APPR	_	_	9	OBJP	_	_
+7	der	die	ART	_	_	8	DET	_	(2
+8	Sammelbewegung	Sammelbewegung	NN	_	_	6	PN	_	2)
+9	zusammenarbeiten	zusammen#arbeiten	VVINF	_	_	5	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+

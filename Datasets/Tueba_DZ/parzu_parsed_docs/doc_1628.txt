@@ -1,0 +1,165 @@
+1	Bafög	Bafög	N	NN	Neut|_|Sg	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Antragsformulare	Antragsformular	N	NN	Neut|_|Pl	4	obja	_	-
+4	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	es	es	PRO	PPER	3|Sg|Neut|Nom	4	subj	_	-
+6	beim	bei	PREP	APPRART	Dat	4	pp	_	-
+7	Amt	Amt	N	NN	Neut|Dat|Sg	6	pn	_	-
+8	für	für	PREP	APPR	Acc	7	pp	_	-
+9	Ausbildungsförderung	Ausbildungsförderung	N	NN	Fem|Acc|Sg	8	pn	_	-
+10	in	in	PREP	APPR	Dat	4	pp	_	-
+11	der	die	ART	ART	Def|Fem|Dat|Sg	12	det	_	(0
+12	Behrenstraße	Behrenstraße	N	NE	Fem|Dat|Sg	10	pn	_	-
+13	40	40	CARD	CARD	_	12	app	_	-
+14	/	/	$(	$(	_	0	root	_	-
+15	41	41	CARD	CARD	_	13	kon	_	0)
+16	,	,	$,	$,	_	0	root	_	-
+17	aber	aber	KON	KON	_	10	kon	_	-
+18	auch	auch	ADV	ADV	_	17	cj	_	-
+19	in	in	PREP	APPR	Dat	4	pp	_	-
+20	den	die	ART	ART	Def|_|_|_	21	det	_	-
+21	Zugängen	Zugang	N	NN	Masc|Dat|Sg	19	pn	_	-
+22	zu	zu	PREP	APPR	Dat	21	pp	_	-
+23	den	die	ART	ART	Def|Fem|Dat|Pl	24	det	_	-
+24	Mensen	Mensa	N	NN	Fem|Dat|Pl	22	pn	_	-
+25	Kiebitzweg	Kiebitzweg	N	NN	Masc|Dat|Sg	21	app	_	-
+26	und	und	KON	KON	_	25	kon	_	-
+27	Hardenbergstraße	Hardenbergstraße	N	NE	Fem|Dat|Sg	26	cj	_	-
+28	.	.	$.	$.	_	0	root	_	-
+
+1	Sprechstunden	Sprechstunde	N	NN	Masc|_|Sg	0	root	_	-
+2	in	in	PREP	APPR	Dat	1	pp	_	-
+3	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	(0
+4	Behrenstraße	Behrenstraße	N	NE	Fem|Dat|Sg	2	pn	_	-
+5	40	40	CARD	CARD	_	4	app	_	-
+6	/	/	$(	$(	_	0	root	_	-
+7	41	41	CARD	CARD	_	5	kon	_	0)
+8	Di	Di	N	NN	Masc|_|Sg	1	app	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	10	10	CARD	CARD	_	0	root	_	-
+2	-	-	$(	$(	_	0	root	_	-
+3	13	13	CARD	CARD	_	1	kon	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Do	Do	N	NN	Masc|_|Sg	0	root	_	(2)
+6	.	.	$.	$.	_	0	root	_	-
+
+1	13	13	CARD	CARD	_	4	attr	_	-
+2	-	-	$(	$(	_	0	root	_	-
+3	16	16	CARD	CARD	_	1	kon	_	-
+4	Uhr	Uhr	N	NN	Fem|_|Sg	0	root	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Tel	Tel	N	NE	Fem|_|Sg	4	app	_	-
+7	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	20245-0	20245-0	FM	FM	_	0	root	_	-
+3	.	.	$.	$.	_	0	root	_	-
+
+1	Bafög-Beratung	Bafög-Beratung	N	NN	Fem|_|Sg	2	obja	_	-
+2	führen	fahren	V	VVFIN	3|Pl|_|_	0	root	_	-
+3	auch	auch	ADV	ADV	_	2	adv	_	-
+4	die	die	ART	ART	Def|_|Nom|Pl	5	det	_	(1
+5	ASten	ASten	N	NN	_|Nom|Pl	2	subj	_	-
+6	der	die	ART	ART	Def|_|Gen|Pl	7	det	_	-
+7	Unis	Uni	N	NN	_|Gen|Pl	5	gmod	_	1)
+8	durch	durch	PTKVZ	PTKVZ	_	2	avz	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Was	was	PRO	PWS	Neut|_|Sg	5	obja	_	-
+2	man	man	PRO	PIS	_|Nom|Sg	6	subj	_	-
+3	dem	die	ART	ART	Def|Neut|Dat|Sg	4	det	_	-
+4	Bafög-Amt	Bafög-Amt	N	NN	Neut|Dat|Sg	5	objd	_	-
+5	verschweigen	verschweigen	V	VVINF	_	6	aux	_	-
+6	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	8	objc	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	petzen	petzen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+9	sie	sie	PRO	PPER	3|Pl|_|Nom	8	subj	_	(1)
+10	nicht	nicht	PTKNEG	PTKNEG	_	8	adv	_	-
+11	weiter	weiter	PTKVZ	PTKVZ	_	8	avz	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Studentische	studentisch	ADJA	ADJA	Pos|Fem|_|Sg|_|	2	attr	_	-
+2	Bafög-Beratung	Bafög-Beratung	N	NN	Fem|_|Sg	0	root	_	-
+3	an	an	PREP	APPR	Dat	2	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+5	Humboldt-Universität	Humboldt-Universität	N	NN	Fem|Dat|Sg	3	pn	_	-
+6	in	in	PREP	APPR	_	5	pp	_	-
+7	Raum	Raum	N	NN	Masc|_|Sg	6	pn	_	-
+8	3011a	3011a	N	NE	Masc|_|Sg	7	app	_	-
+9	,	,	$,	$,	_	0	root	_	-
+10	Tel	Tel	N	NE	Masc|_|Sg	8	app	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	2093-2303	2093-2303	FM	FM	Masc|_|Sg	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	Mo	Mo	N	NN	Masc|_|Sg	2	app	_	-
+5	.	.	$.	$.	_	0	root	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	Mi	Mi	N	NE	_	0	root	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	14	14	CARD	CARD	_	0	root	_	-
+2	-	-	$(	$(	_	0	root	_	-
+3	16	16	CARD	CARD	_	1	kon	_	-
+4	;	;	$.	$.	_	0	root	_	-
+5	Di	Di	N	NN	Masc|_|Sg	0	root	_	-
+6	.	.	$.	$.	_	0	root	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	Do	Do	N	NN	Masc|_|Sg	0	root	_	(2)
+9	.	.	$.	$.	_	0	root	_	-
+
+1	14	14	CARD	CARD	_	4	attr	_	-
+2	-	-	$(	$(	_	0	root	_	-
+3	15	15	CARD	CARD	_	1	kon	_	-
+4	Uhr	Uhr	N	NN	Fem|_|Sg	0	root	_	-
+5	AStA	AStA	N	NE	Fem|_|Sg	4	app	_	-
+6	:	\:	$.	$.	_	0	root	_	-
+7	AStA-FU	AStA-FU	N	NE	Masc|_|Sg	0	root	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	Kiebitzweg	Kiebitzweg	N	NN	Masc|_|Sg	7	app	_	-
+10	23	23	CARD	CARD	_	9	app	_	-
+11	in	in	PREP	APPR	_	9	pp	_	-
+12	Dahlem	Dahlem	N	NE	_|_|_	11	pn	_	-
+13	,	,	$,	$,	_	0	root	_	-
+14	Tel	Tel	N	NE	_|_|_	12	app	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	839091-0	839091-0	ADJA	ADJA	_|Fem|_|Sg|_	3	attr	_	-
+3	AStA-TU	AStA-TU	N	NN	Fem|_|Sg	0	root	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Marchstr	Marchstr	N	NE	Fem|_|Sg	3	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	6	6	CARD	CARD	_	0	root	_	-
+2	in	in	PREP	APPR	_	1	pp	_	-
+3	Charlottenburg	Charlottenburg	N	NN	Fem|_|Sg	2	pn	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Tel	Tel	N	NE	Fem|_|Sg	3	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	314-25-683	314-25-683	FM	FM	_	0	root	_	-
+3	AStA-HdK	AStA-HdK	FM	FM	_	2	app	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Hardenbergstr	Hardenbergstr	N	NE	_	3	app	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	33	33	CARD	CARD	_	8	attr	_	-
+2	in	in	PREP	APPR	_	1	pp	_	-
+3	Charlottenburg	Charlottenburg	N	NN	Fem|_|Sg	2	pn	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Raum	Raum	N	NN	Masc|_|Sg	3	app	_	-
+6	126	126	CARD	CARD	_	5	app	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	Tel	Tel	N	NE	_|_|Pl	0	root	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	3185-2464	3185-2464	FM	FM	_	0	root	_	-
+3	/	/	$(	$(	_	0	root	_	-
+4	-	-	$(	$(	_	2	kon	_	-
+5	2465	2465	CARD	CARD	_	0	root	_	-
+

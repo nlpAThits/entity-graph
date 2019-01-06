@@ -1,0 +1,29 @@
+1	Berlin	Berlin	N	NE	_|_|Sg	0	root	_	-
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	frühere	früh	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Leiter	Leiter	N	NN	Masc|Nom|Sg	8	subj	_	-
+4	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	-
+5	Tresorverwaltung	Tresorverwaltung	N	NN	Fem|Gen|Sg	3	gmod	_	-
+6	im	in	PREP	APPRART	Dat	5	pp	_	-
+7	DDR-Finanzministerium	DDR-Finanzministerium	N	NN	Neut|Dat|Sg	6	pn	_	-
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+9	gestern	gestern	ADV	ADV	_	23	adv	_	-
+10	vom	von	PREP	APPRART	Dat	23	pp	_	-
+11	Amtsgericht	Amtsgericht	N	NN	Masc|Dat|Sg	10	pn	_	-
+12	Tiergarten	Tiergarten	N	NN	Masc|Dat|Sg	11	app	_	-
+13	zu	zu	PREP	APPR	Dat	10	kon	_	-
+14	einem	eine	ART	ART	Indef|Masc|Dat|Sg	15	det	_	-
+15	Jahr	Jahr	N	NN	Masc|Dat|Sg	13	pn	_	-
+16	Haft	Haft	N	NN	_|Dat|Sg	15	app	_	-
+17	mit	mit	PREP	APPR	Dat	23	pp	_	-
+18	Bewährung	Bewährung	N	NN	Fem|Dat|Sg	17	pn	_	-
+19	und	und	KON	KON	_	18	kon	_	-
+20	1.200	1.200	CARD	CARD	_	21	attr	_	-
+21	Mark	Mark	N	NN	Fem|Dat|Pl	19	cj	_	-
+22	Geldbuße	Geldbuße	N	NN	Fem|Dat|Sg	21	app	_	-
+23	verurteilt	verurteilen	V	VVPP	_	24	aux	_	-
+24	worden	werden	V	VAPP	_	8	aux	_	-
+25	.	.	$.	$.	_	0	root	_	-
+

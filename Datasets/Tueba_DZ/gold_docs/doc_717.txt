@@ -1,0 +1,25 @@
+1	Christian	Christian	NE	_	_	3	SUBJ	_	(0
+2	Semler	Semler	NE	_	_	1	APP	_	0)
+3	ist	sein	VAFIN	_	_	0	ROOT	_	_
+4	seit	seit	APPR	_	_	3	PP	_	_
+5	1989	1989	CARD	_	_	4	PN	_	_
+6	Mitarbeiter	Mitarbeiter	NN	_	_	3	PRED	_	_
+7	der	die	ART	_	_	8	DET	_	_
+8	taz	taz	NE	_	_	6	GMOD	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+
+1	Zuerst	zuerst	ADV	_	_	0	ROOT	_	_
+2	Osteuropa-	Osteuroparedakteur%n	TRUNC	_	_	1	-UNKNOWN-	_	_
+3	,	,	$,	_	_	2	-PUNCT-	_	_
+4	dann	dann	ADV	_	_	5	ADV	_	_
+5	Meinungsredakteur	Meinungsredakteur	NN	_	_	1	KON	_	_
+6	,	,	$,	_	_	5	-PUNCT-	_	_
+7	jetzt	jetzt	ADV	_	_	13	ADV	_	_
+8	unter	unter	APPR	_	_	13	PP	_	_
+9	anderem	anderes	PIS	_	_	8	PN	_	_
+10	fürs	für	APPRART	_	_	13	PP	_	_
+11	große	groß	ADJA	_	_	12	ATTR	_	_
+12	Ganze	Ganzes	NN	_	_	10	PN	_	_
+13	zuständig	zuständig	ADJD	_	_	5	KON	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+

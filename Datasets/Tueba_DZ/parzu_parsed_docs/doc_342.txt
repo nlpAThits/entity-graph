@@ -1,0 +1,55 @@
+1	Bremerhaven	Bremerhaven	N	NE	Neut|_|Sg	0	root	_	-
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	(0
+2	Bremerhavener	Bremerhavener	ADJA	ADJA	Pos|Masc|Nom|Sg|_|	3	attr	_	-
+3	Grüne	Grüne	N	NN	Masc|Nom|Sg	6	subj	_	-
+4	Manfred	Manfred	N	NE	Masc|Nom|Sg	3	app	_	-
+5	Schramm	Schramm	N	NE	Masc|Nom|Sg	4	app	_	0)
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	ein	eine	ART	ART	Indef|Neut|_|Sg	10	det	_	-
+8	"	"	$(	$(	_	0	root	_	-
+9	weltweites	weltweit	ADJA	ADJA	Pos|Neut|_|Sg|St|	10	attr	_	-
+10	TBT-Verbot	TBT-Verbot	N	NN	Neut|_|Sg	16	obja	_	-
+11	"	"	$(	$(	_	0	root	_	-
+12	als	als	KOKOM	KOKOM	_	16	kom	_	-
+13	"	"	$(	$(	_	0	root	_	-
+14	unverzichtbar	unverzichtbar	ADV	ADJD	Pos|	12	cj	_	-
+15	"	"	$(	$(	_	0	root	_	-
+16	erklärt	erklären	V	VVPP	_	6	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	Verklappung	Verklappung	N	NN	Fem|Nom|Sg	10	subj	_	-
+3	des	die	ART	ART	Def|Masc|Gen|Sg	5	det	_	-
+4	giftigen	giftig	ADJA	ADJA	Pos|Masc|Gen|Sg|_|	5	attr	_	-
+5	Schlicks	Schlick	N	NN	Masc|Gen|Sg	2	gmod	_	-
+6	in	in	PREP	APPR	_	5	pp	_	-
+7	Weser	Weser	N	NE	Fem|_|Sg	6	pn	_	-
+8	und	und	KON	KON	_	7	kon	_	-
+9	Wattenmeer	Wattenmeer	N	NN	Neut|_|Sg	8	cj	_	-
+10	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	-
+11	unverantwortlich	unverantwortlich	ADV	ADJD	Pos|	10	pred	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Schramm	Schramm	N	NE	_|Nom|Sg	2	subj	_	(0)
+2	fordert	fordern	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	zudem	zudem	PROAV	PROAV	_	2	pp	_	-
+4	eine	eine	ART	ART	Indef|Fem|_|Sg	6	det	_	-
+5	verbesserte	verbessert	ADJA	ADJA	Pos|Fem|_|Sg|_|	6	attr	_	-
+6	Kooperation	Kooperation	N	NN	Fem|_|Sg	2	obja	_	-
+7	bei	bei	PREP	APPR	Dat	2	pp	_	-
+8	der	die	ART	ART	Def|Fem|Dat|Sg	9	det	_	-
+9	Suche	Suche	N	NN	Fem|Dat|Sg	7	pn	_	-
+10	nach	nach	PREP	APPR	Dat	9	pp	_	-
+11	Alternativen	Alternative	N	NN	_|Dat|_	10	pn	_	-
+12	für	für	PREP	APPR	Acc	11	pp	_	-
+13	den	die	ART	ART	Def|Masc|Acc|Sg	14	det	_	-
+14	Schiffsanstrich	Schiffsanstrich	N	NN	Masc|Acc|Sg	12	pn	_	-
+15	,	,	$,	$,	_	0	root	_	-
+16	der	die	ART	ART	Def|Masc|Nom|Sg	17	det	_	-
+17	Muschelbewuchs	Muschelbewuchs	N	NN	Masc|Nom|Sg	19	subj	_	-
+18	verhindern	verhindern	V	VVINF	_	19	aux	_	-
+19	soll	sollen	V	VMFIN	3|Sg|Pres|Ind	2	kon	_	-
+20	.	.	$.	$.	_	0	root	_	-
+

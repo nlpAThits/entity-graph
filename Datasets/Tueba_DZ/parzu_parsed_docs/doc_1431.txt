@@ -1,0 +1,27 @@
+1	Toast	Toast	N	NN	Masc|_|Sg	0	root	_	-
+2	des	die	ART	ART	Def|_|Gen|Sg	4	det	_	-
+3	Staatsratsvorsitzenden	staatsratsvorsitzend	ADJA	ADJA	Pos|_|_|_|_|<PPRES	4	attr	_	-
+4	Genosse	Genosse	N	NN	_|Gen|Sg	1	gmod	_	-
+5	Max	Max	N	NE	_|Gen|Sg	4	app	_	-
+6	Streibl	Streibl	N	NE	_|Gen|Sg	5	app	_	-
+7	:	\:	$.	$.	_	0	root	_	-
+8	"	"	$(	$(	_	0	root	_	-
+9	Dann	dann	ADV	ADV	_	10	adv	_	-
+10	haut	hauen	V	VVFIN	_|_|Pres|Ind	0	root	_	-
+11	mal	mal	ADV	ADV	_	10	adv	_	-
+12	ordentlich	ordentlich	ADV	ADJD	Pos|	13	adv	_	-
+13	rein	rein	ADV	ADJD	Pos|	10	adv	_	-
+14	,	,	$,	$,	_	0	root	_	-
+15	Bub	Bub	N	NN	Masc|_|Sg	10	vok	_	-
+16	'	'	$(	$(	_	0	root	_	-
+17	n	n	N	NN	Masc|_|Sg	15	app	_	-
+18	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Diagnose	Diagnose	N	NN	Fem|_|Sg	0	root	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	Alpen-Koller	Alpen-Koller	N	NN	Fem|_|Sg	0	root	_	-
+5	Therapie	Therapie	N	NN	Fem|_|Sg	4	app	_	-
+6	:	\:	$.	$.	_	0	root	_	-
+7	Ampustoibern	Ampustoibern	N	NE	_	0	root	_	-
+

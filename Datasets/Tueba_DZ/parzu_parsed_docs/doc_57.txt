@@ -1,0 +1,44 @@
+1	Wiesbaden	Wiesbaden	N	NE	_	0	root	_	(0
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	0)
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Nach	nach	PREP	APPR	Dat	11	pp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+8	Kündigung	Kündigung	N	NN	Fem|Dat|Sg	6	pn	_	-
+9	seines	seine	ART	PPOSAT	Masc|Gen|Sg	10	det	_	(0)
+10	Mietvertrages	Mietvertrag	N	NN	Masc|Gen|Sg	8	gmod	_	-
+11	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+12	ein	eine	ART	ART	Indef|_|Nom|Sg	13	det	_	(1
+13	Wiesbadener	Wiesbadener	N	NN	_|Nom|Sg	11	subj	_	1)
+14	am	an	PREP	APPRART	Dat	19	pp	_	-
+15	Mittwoch	Mittwoch	N	NN	Masc|Dat|Sg	14	pn	_	-
+16	abend	abend	ADV	ADV	_	15	adv	_	-
+17	seine	seine	ART	PPOSAT	Fem|_|Sg	18	det	_	(1)
+18	Wohnung	Wohnung	N	NN	Fem|_|Sg	19	obja	_	-
+19	angezündet	anzünden	V	VVPP	_	11	aux	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Nach	nach	PREP	APPR	Dat	3	pp	_	-
+2	Polizeiangaben	Polizeiangabe	N	NN	Fem|Dat|Pl	1	pn	_	-
+3	hatten	haben	V	VAFIN	3|Pl|Past|Ind	0	root	_	-
+4	Zeugen	Zeug	N	NN	Masc|Nom|Pl	3	subj	_	-
+5	in	in	PREP	APPR	Dat	11	pp	_	-
+6	dem	die	ART	ART	Def|Neut|Dat|Sg	7	det	_	-
+7	Appartementhaus	Appartementhaus	N	NN	Neut|Dat|Sg	5	pn	_	-
+8	zunächst	zunächst	ADV	ADV	_	11	adv	_	-
+9	einen	eine	ART	ART	Indef|Masc|Acc|Sg	10	det	_	-
+10	Knall	Knall	N	NN	Masc|Acc|Sg	11	obja	_	-
+11	gehört	gehören	V	VVPP	_	3	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Anschließend	anschließend	ADV	ADJD	_|_	2	adv	_	-
+2	drang	dringen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+3	Qualm	Qualm	N	NN	Masc|Nom|Sg	2	subj	_	-
+4	aus	aus	PREP	APPR	Dat	2	objp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	-
+6	Wohnung	Wohnung	N	NN	Fem|Dat|Sg	4	pn	_	-
+7	des	die	ART	ART	Def|Masc|Gen|Sg	8	det	_	-
+8	Mieters	Mieter	N	NN	Masc|Gen|Sg	6	gmod	_	-
+9	.	.	$.	$.	_	0	root	_	-
+

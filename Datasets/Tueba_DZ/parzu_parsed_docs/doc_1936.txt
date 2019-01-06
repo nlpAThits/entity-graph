@@ -1,0 +1,43 @@
+1	Welchen	welche	ART	PWAT	Masc|Acc|Sg	3	det	_	-
+2	literarischen	literarisch	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	3	attr	_	-
+3	Standort	Standort	N	NN	Masc|Acc|Sg	4	obja	_	-
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	ein	eine	ART	ART	Indef|Masc|Nom|Sg	7	det	_	-
+6	eingewanderter	eingewandert	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	7	attr	_	-
+7	Autor	Autor	N	NN	Masc|Nom|Sg	4	subj	_	-
+8	deutscher	deutsch	ADJA	ADJA	Pos|Fem|Gen|Sg|St|	9	attr	_	-
+9	Sprache	Sprache	N	NN	Fem|Gen|Sg	7	gmod	_	-
+10	:	\:	$.	$.	_	0	root	_	-
+11	Ist	Ist	N	NN	Neut|_|Sg	0	root	_	-
+12	er	er	PRO	PPER	_|Nom|Sg	0	root	_	-
+13	Minderheitenlobbyist	Minderheitenlobbyist	N	NN	_|_|Sg	12	app	_	-
+14	,	,	$,	$,	_	0	root	_	-
+15	Kulturvermittler	Kulturvermittler	N	NN	Masc|_|_	13	app	_	-
+16	,	,	$,	$,	_	0	root	_	-
+17	lebenslänglich	lebenslänglich	ADV	ADJD	Pos|	18	adv	_	-
+18	verdammter	verdammt	ADJA	ADJA	Pos|_|_|_|St|	19	attr	_	-
+19	Bikulturalist	Bikulturalist	N	NN	Neut|_|Sg	0	root	_	-
+20	oder	oder	KON	KON	_	0	root	_	-
+21	...	...	$.	$.	_	0	root	_	-
+22	?	?	$.	$.	_	0	root	_	-
+
+1	3.	3.	ADV	ADJD	_	0	root	_	-
+
+1	Migrationsliteratur	Migrationsliteratur	N	NN	Fem|_|Sg	0	root	_	-
+2	2000	2000	CARD	CARD	_	1	app	_	-
+3	:	\:	$.	$.	_	0	root	_	-
+4	Wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	es	es	PRO	PPER	3|Sg|Neut|Nom	4	subj	_	-
+6	die	die	ART	ART	Def|Fem|_|Sg	8	det	_	-
+7	bundesdeutsche	bundesdeutsch	ADJA	ADJA	Pos|Fem|_|Sg|_|	8	attr	_	-
+8	Literatur	Literatur	N	NN	Fem|_|Sg	16	obja	_	-
+9	der	die	ART	ART	Def|_|Gen|_	10	det	_	-
+10	Eingewanderten	Eingewanderte	N	NN	_|Gen|_	8	gmod	_	-
+11	auch	auch	ADV	ADV	_	16	adv	_	-
+12	im	in	PREP	APPRART	Dat	16	pp	_	-
+13	nächsten	nah	ADJA	ADJA	_|_|Dat|Sg|Wk|	14	attr	_	-
+14	Jahrtausend	Jahrtausend	N	NN	_|Dat|Sg	12	pn	_	-
+15	noch	noch	ADV	ADV	_	16	adv	_	-
+16	geben	geben	V	VVINF	_	4	aux	_	-
+17	?	?	$.	$.	_	0	root	_	-
+

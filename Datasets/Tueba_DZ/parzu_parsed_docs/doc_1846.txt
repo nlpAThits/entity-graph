@@ -1,0 +1,32 @@
+1	Schneller	schnell	ADV	ADJD	Comp|	4	pred	_	-
+2	als	als	KOKOM	KOKOM	_	4	kom	_	-
+3	erwartet	erwarten	V	VVPP	_	2	cj	_	-
+4	scheint	scheinen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	Benno	Benno	N	NE	_|Nom|Sg	4	subj	_	-
+6	Möhlmann	Möhlmann	N	NE	_|Nom|Sg	5	app	_	-
+7	einen	eine	ART	ART	Indef|Masc|Acc|Sg	9	det	_	-
+8	neuen	neu	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	9	attr	_	-
+9	Arbeitgeber	Arbeitgeber	N	NN	Masc|Acc|Sg	4	obja	_	-
+10	zu	zu	PTKZU	PTKZU	_	11	part	_	-
+11	finden	finden	V	VVINF	_	4	obji	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	8	det	_	-
+2	vor	vor	PREP	APPR	Dat	7	pp	_	-
+3	zehn	zehn	CARD	CARD	_	4	attr	_	-
+4	Tagen	Tag	N	NN	Masc|Dat|Pl	2	pn	_	-
+5	beim	bei	PREP	APPRART	Dat	7	pp	_	-
+6	HSV	HSV	N	NN	_|Dat|_	5	pn	_	-
+7	entlassene	entlassen	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	8	attr	_	-
+8	Trainer	Trainer	N	NN	Masc|Nom|Sg	9	subj	_	-
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+10	als	als	KOKOM	KOKOM	_	9	kom	_	-
+11	neuer	neu	ADJA	ADJA	Pos|_|_|_|St|	12	attr	_	-
+12	Coach	Coach	N	NN	_|_|_	10	cj	_	-
+13	beim	bei	PREP	APPRART	Dat	9	pp	_	-
+14	Regionalligisten	Regionalligist	N	NN	Masc|Dat|_	13	pn	_	-
+15	Braunschweig	Braunschweig	N	NE	Neut|Dat|Sg	14	app	_	-
+16	im	in	PREP	APPRART	Dat	9	pp	_	-
+17	Gespräch	Gespräch	N	NN	Neut|Dat|Sg	16	pn	_	-
+18	.	.	$.	$.	_	0	root	_	-
+

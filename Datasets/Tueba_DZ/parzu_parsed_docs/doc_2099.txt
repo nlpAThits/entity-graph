@@ -1,0 +1,97 @@
+1	Die	die	ART	ART	Def|Fem|Nom|Pl	2	det	_	-
+2	Planungen	Planung	N	NN	Fem|Nom|Pl	9	subj	_	-
+3	für	für	PREP	APPR	Acc	2	pp	_	-
+4	den	die	ART	ART	Def|Masc|Acc|Sg	5	det	_	-
+5	Wesertunnel	Wesertunnel	N	NN	Masc|Acc|Sg	3	pn	_	-
+6	südlich	südlich	ADV	ADJD	Pos|	7	adv	_	-
+7	von	von	PREP	APPR	Dat	5	pp	_	-
+8	Dedesdorf	Dedesdorf	N	NE	Neut|Dat|Sg	7	pn	_	-
+9	erreichen	erreichen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+10	ein	eine	ART	ART	Indef|Neut|_|Sg	12	det	_	-
+11	entscheidendes	entscheidend	ADJA	ADJA	Pos|Neut|_|Sg|St|_	12	attr	_	-
+12	Stadium	Stadium	N	NN	Neut|_|Sg	9	obja	_	-
+13	:	\:	$.	$.	_	0	root	_	-
+14	Im	in	PREP	APPRART	Dat	16	pp	_	-
+15	Planfeststellungsverfahren	Planfeststellungsverfahren	N	NN	Neut|Dat|_	14	pn	_	-
+16	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+17	die	die	ART	ART	Def|Fem|Nom|Pl	18	det	_	-
+18	Bezirkregierungen	Bezirkregierung	N	NN	Fem|Nom|Pl	16	subj	_	-
+19	Weser-Ems	Weser-Ems	N	NE	Fem|Nom|Sg	18	app	_	-
+20	und	und	KON	KON	_	19	kon	_	-
+21	Lüneburg	Lüneburg	N	NE	_|Nom|Sg	20	cj	_	-
+22	den	die	ART	ART	Def|_|_|_	23	det	_	-
+23	Erörterungstrmin	Erörterungstrmin	N	NN	_|_|_	24	obja	_	-
+24	anberaumt	anberaumen	V	VVPP	_	16	aux	_	-
+25	:	\:	$.	$.	_	0	root	_	-
+26	Einwendungen	Einwendung	N	NN	Fem|Nom|Pl	29	subj	_	-
+27	und	und	KON	KON	_	26	kon	_	-
+28	Stellungnahmen	Stellungnahme	N	NN	Fem|Nom|Pl	27	cj	_	-
+29	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+30	ab	ab	PREP	APPR	Dat	29	pp	_	-
+31	Montag	Montag	N	NN	Masc|Dat|Sg	30	pn	_	-
+32	,	,	$,	$,	_	0	root	_	-
+33	6.	6.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	11.	11.	ADJA	ADJA	_|_|_|_|_|	16	obja	_	-
+2	,	,	$,	$,	_	0	root	_	-
+3	an	an	PREP	APPR	_	15	pp	_	-
+4	mehreren	mehrere	ART	PIAT	_|_|_	5	det	_	-
+5	Verhandlungstagen	Verhandlungstag	N	NN	_|_|_	3	pn	_	-
+6	mit	mit	PREP	APPR	Dat	15	pp	_	-
+7	den	die	ART	ART	Def|Fem|Dat|Pl	9	det	_	-
+8	betroffenen	betroffen	ADJA	ADJA	Pos|Fem|Dat|Pl|_|	9	attr	_	-
+9	BürgerInnen	BürgerIn	N	NN	Fem|Dat|Pl	6	pn	_	-
+10	sowie	sowie	KON	KON	_	9	kon	_	-
+11	beteiligten	beteiligt	ADJA	ADJA	Pos|Masc|Dat|Pl|_|	12	attr	_	-
+12	Verbänden	Verband	N	NN	Masc|Dat|Pl	10	cj	_	-
+13	und	und	KON	KON	_	12	kon	_	-
+14	Behörden	Behörde	N	NN	Fem|Dat|Pl	13	cj	_	-
+15	erörtert	erörtern	V	VVPP	_	16	aux	_	-
+16	werden	werden	V	VAINF	_	0	root	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Am	an	PREP	APPRART	Dat	0	root	_	-
+2	6.	6.	ADJA	ADJA	_|_|Dat|_|_|	1	pn	_	-
+
+1	11.	11.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	(	(	$(	$(	_	0	root	_	-
+2	Mehrzweckhalle	Mehrzweckhalle	N	NE	Fem|_|Sg	0	root	_	-
+3	Nesse	Nesse	N	NE	Fem|_|Sg	2	app	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Ostseite	Ostseite	N	NN	Fem|_|Sg	3	app	_	-
+6	der	die	ART	ART	Def|Fem|Gen|Sg	7	det	_	-
+7	Weser	Weser	N	NE	Fem|Gen|Sg	5	gmod	_	-
+8	)	)	$(	$(	_	0	root	_	-
+9	und	und	KON	KON	_	0	root	_	-
+10	7.	7.	ADJA	ADJA	_|_|_|_|_|	9	cj	_	-
+
+1	11.	11.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	(	(	$(	$(	_	0	root	_	-
+2	Markthalle	Markthalle	N	NE	Fem|Dat|Pl	12	objd	_	-
+3	Rodenkirchen	Rodenkirche	N	NN	Fem|Dat|Pl	2	app	_	-
+4	,	,	$,	$,	_	0	root	_	-
+5	Westseite	Westseite	N	NN	Fem|Dat|Sg	3	app	_	-
+6	)	)	$(	$(	_	0	root	_	-
+7	können	können	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+8	allgemeine	allgemein	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	9	attr	_	-
+9	Fragen	Frage	N	NN	Fem|Nom|Pl	7	subj	_	-
+10	zum	zu	PREP	APPRART	Dat	12	pp	_	-
+11	Bauvorhaben	Bauvorhaben	N	NN	Neut|Dat|_	10	pn	_	-
+12	gestellt	stellen	V	VVPP	_	13	aux	_	-
+13	werden	werden	V	VAINF	_	7	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Danach	Danach	PROAV	PROAV	_	2	pp	_	-
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+3	die	die	ART	ART	Def|Fem|Nom|Pl	4	det	_	-
+4	Einwendungen	Einwendung	N	NN	Fem|Nom|Pl	2	subj	_	-
+5	etwa	etwa	ADV	ADV	_	9	adv	_	-
+6	zur	zu	PREP	APPRART	Dat	9	pp	_	-
+7	Umweltverträglichkeit	Umweltverträglichkeit	N	NN	Fem|Dat|Sg	6	pn	_	-
+8	einzeln	einzeln	ADV	ADJD	Pos|	9	adv	_	-
+9	erörtert	erörtern	V	VVPP	_	10	aux	_	-
+10	werden	werden	V	VAINF	_	2	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

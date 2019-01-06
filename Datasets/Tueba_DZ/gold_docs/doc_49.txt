@@ -1,0 +1,36 @@
+1	Am	an	APPRART	_	_	4	PP	_	_
+2	14.	14.	ADJA	_	_	3	ATTR	_	_
+3	Mai	Mai	NN	_	_	1	PN	_	_
+4	findet	statt#finden	VVFIN	_	_	0	ROOT	_	_
+5	der	der	ART	_	_	8	DET	_	_
+6	3.	3.	ADJA	_	_	8	ATTR	_	_
+7	Hamburger	Hamburger	ADJA	_	_	8	ATTR	_	_
+8	Trendsporttag	Trendsporttag	NN	_	_	4	SUBJ	_	_
+9	statt	_	PTKVZ	_	_	4	AVZ	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Auf	auf	APPR	_	_	4	PP	_	_
+2	dem	der	ART	_	_	3	DET	_	_
+3	Rathausmarkt	Rathausmarkt	NN	_	_	1	PN	_	_
+4	stellen	vor#stellen	VVFIN	_	_	0	ROOT	_	_
+5	Vereine	Verein	NN	_	_	4	SUBJ	_	_
+6	und	und	KON	_	_	5	KON	_	_
+7	Sportteams	Sportteam	NN	_	_	6	CJ	_	_
+8	mehr	mehr	ADV	_	_	9	ADV	_	_
+9	als	als	KOKOM	_	_	4	KOM	_	_
+10	30	30	CARD	_	_	11	ATTR	_	_
+11	Trendsportarten	Trendsportart	NN	_	_	9	CJ	_	_
+12	vor	_	PTKVZ	_	_	4	AVZ	_	_
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+
+1	Beim	bei	APPRART	_	_	5	PP	_	_
+2	Kangoo-Robics	Kangoo-Robics	NN	_	_	1	PN	_	(0)
+3	etwa	etwa	ADV	_	_	1	ADV	_	_
+4	beispielsweise	beispielsweise	ADV	_	_	1	ADV	_	_
+5	werden	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+6	Luftsprünge	Luftsprung	NN	_	_	5	SUBJ	_	_
+7	in	in	APPR	_	_	9	PP	_	_
+8	Känguruh-Manier	Känguruh-Manier	NN	_	_	7	PN	_	_
+9	ausgeführt	aus#führen	VVPP	_	_	5	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+

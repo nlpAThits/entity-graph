@@ -1,0 +1,27 @@
+1	Eine	eine	ART	ART	Indef|Fem|_|Sg	2	det	_	(0
+2	Frage	Frage	N	NN	Fem|_|Sg	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	die	die	PRO	PRELS	Fem|Nom|Sg	7	subj	_	(0)
+5	uns	wir	PRO	PPER	1|Pl|_|_	7	obja	_	-
+6	alle	alle	PRO	PIS	_|Acc|_	5	app	_	-
+7	interessiert	interessieren	V	VVFIN	3|Sg|Pres|Ind	2	rel	_	0)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Solchen	solche	ART	PIDAT	Fem|Nom|Pl	3	det	_	-
+2	essentiellen	essentiell	ADJA	ADJA	Pos|Fem|Nom|Pl|Wk|	3	attr	_	-
+3	Wahrheiten	Wahrheit	N	NN	Fem|Nom|Pl	4	pred	_	-
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	auch	auch	ADV	ADV	_	4	adv	_	-
+6	der	die	ART	ART	Def|Masc|Nom|Sg	7	det	_	-
+7	Kabarettist	Kabarettist	N	NN	Masc|Nom|Sg	4	subj	_	-
+8	Achim	Achim	N	NE	Masc|Nom|Sg	7	app	_	-
+9	Konejung	Konejung	N	NE	Masc|Nom|Sg	8	app	_	-
+10	in	in	PREP	APPR	_	4	pp	_	-
+11	Feuer	Feuer	N	NN	Neut|_|_	10	pn	_	-
+12	unterm	unter	PREP	APPRART	Dat	4	pp	_	-
+13	Arsch	Arsch	N	NN	Masc|Dat|Sg	12	pn	_	-
+14	auf	auf	PREP	APPR	Dat	4	pp	_	-
+15	der	die	ART	ART	Def|Fem|Dat|Sg	16	det	_	-
+16	Spur	Spur	N	NN	Fem|Dat|Sg	14	pn	_	-
+17	.	.	$.	$.	_	0	root	_	-
+

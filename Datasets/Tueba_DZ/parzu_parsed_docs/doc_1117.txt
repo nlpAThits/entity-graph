@@ -1,0 +1,37 @@
+1	Calau	Calau	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Das	die	ART	ART	Def|Neut|Nom|Sg	7	det	_	-
+7	AsylbewerberInnenheim	AsylbewerberInnenheim	N	NN	Neut|Nom|Sg	14	subj	_	-
+8	in	in	PREP	APPR	_	7	pp	_	-
+9	Vetschau	Vetschau	N	NE	Masc|_|Sg	8	pn	_	-
+10	(	(	$(	$(	_	0	root	_	-
+11	Kreis	Kreis	N	NN	Masc|_|Sg	9	app	_	-
+12	Calau	Calau	N	NE	Neut|_|Sg	11	app	_	-
+13	)	)	$(	$(	_	0	root	_	-
+14	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+15	in	in	PREP	APPR	Dat	25	pp	_	-
+16	der	die	ART	ART	Def|Fem|Dat|Sg	17	det	_	-
+17	Nacht	Nacht	N	NN	Fem|Dat|Sg	15	pn	_	-
+18	von	von	PREP	APPR	Dat	25	pp	_	-
+19	Mittwoch	Mittwoch	N	NN	Masc|Dat|Sg	18	pn	_	-
+20	auf	auf	PREP	APPR	Dat	18	kon	_	-
+21	Donnerstag	Donnerstag	N	NN	_|Dat|Sg	20	pn	_	-
+22	zweimal	zweimal	ADV	ADV	_	25	adv	_	-
+23	von	von	PREP	APPR	_	25	pp	_	-
+24	Jugendlichen	Jugendliche	N	NN	_|_|_	23	pn	_	-
+25	angegriffen	angreifen	V	VVPP	_	14	aux	_	-
+26	.	.	$.	$.	_	0	root	_	-
+
+1	Nach	nach	PREP	APPR	Dat	3	pp	_	-
+2	Polizeiangaben	Polizeiangabe	N	NN	Fem|Dat|Pl	1	pn	_	-
+3	gingen	gehen	V	VVFIN	3|Pl|Past|_	0	root	_	-
+4	dabei	dabei	PROAV	PROAV	_	3	pp	_	-
+5	mehrere	mehrere	ART	PIAT	Fem|Nom|Pl	6	det	_	-
+6	Fensterscheiben	Fensterscheibe	N	NN	Fem|Nom|Pl	3	subj	_	-
+7	zu	zu	PREP	APPR	Dat	3	objp	_	-
+8	Bruch	Bruch	N	NN	_|Dat|Sg	7	pn	_	-
+9	.	.	$.	$.	_	0	root	_	-
+

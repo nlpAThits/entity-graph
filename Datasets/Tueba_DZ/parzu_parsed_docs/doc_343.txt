@@ -1,0 +1,50 @@
+1	Rund	rund	ADV	ADV	_	3	adv	_	-
+2	200	200	CARD	CARD	_	3	attr	_	-
+3	Arbeitsplätze	Arbeitsplatz	N	NN	Masc|Nom|Pl	7	subj	_	-
+4	in	in	PREP	APPR	Dat	3	pp	_	-
+5	Bremer	Bremer	ADJA	ADJA	_|_|Dat|Pl|_	6	attr	_	-
+6	Krankenhäusern	Krankenhaus	N	NN	_|Dat|Pl	4	pn	_	-
+7	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+8	gestrichen	streichen	V	VVPP	_	7	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	befürchtet	befürchten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	die	die	ART	ART	Def|Fem|_|Sg	5	det	_	-
+4	gesundheitspolitische	gesundheitspolitisch	ADJA	ADJA	Pos|Fem|_|Sg|_|	5	attr	_	-
+5	Sprecherin	Sprecherin	N	NN	Fem|_|Sg	2	obja	_	-
+6	der	die	ART	ART	Def|Fem|Gen|Sg	7	det	_	(0
+7	CDU-Fraktion	CDU-Fraktion	N	NN	Fem|Gen|Sg	5	gmod	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	Ulrike	Ulrike	N	NE	_|_|Sg	5	app	_	-
+10	Schreiber	Schreiber	N	NE	_|_|Sg	9	app	_	0)
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Als	Als	KOKOM	KOKOM	_	6	kom	_	-
+2	Grund	Grund	N	NN	Masc|_|Sg	1	cj	_	-
+3	für	für	PREP	APPR	Acc	2	pp	_	-
+4	diese	diese	ART	PDAT	Fem|Acc|Sg	5	det	_	-
+5	Befürchtung	Befürchtung	N	NN	Fem|Acc|Sg	3	pn	_	-
+6	nannte	nennen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+7	Schreiber	Schreiber	N	NE	_|Nom|Sg	6	subj	_	(0)
+8	die	die	ART	ART	Def|Fem|_|Sg	9	det	_	-
+9	Gesundheitspolitik	Gesundheitspolitik	N	NN	Fem|_|Sg	6	obja	_	-
+10	der	die	ART	ART	Def|Fem|Gen|Sg	12	det	_	-
+11	rot-grünen	rot-grün	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	12	attr	_	-
+12	Bundesregierung	Bundesregierung	N	NN	Fem|Gen|Sg	9	gmod	_	-
+13	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|_|_|_	4	det	_	-
+2	jetzt	jetzt	ADV	ADV	_	3	adv	_	-
+3	vorliegende	vorliegend	ADJA	ADJA	Pos|Fem|Nom|Sg|_|_	4	attr	_	-
+4	Diskussionsentwurf	Diskussionsentwurf	N	NN	Fem|Nom|Sg	9	subj	_	-
+5	"	"	$(	$(	_	0	root	_	-
+6	Gesundheitsreform	Gesundheitsreform	N	NN	Fem|Nom|Sg	4	app	_	-
+7	2000	2000	CARD	CARD	_	6	app	_	-
+8	"	"	$(	$(	_	0	root	_	-
+9	müsse	müssen	V	VMFIN	3|Sg|Pres|Subj	0	root	_	-
+10	unbedingt	unbedingt	ADV	ADV	_	11	adv	_	-
+11	verhindert	verhindern	V	VVPP	_	12	aux	_	-
+12	werden	werden	V	VAINF	_	9	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,47 @@
+1	Frankfurt	Frankfurt	N	NE	Neut|_|Sg	0	root	_	(0
+2	/	/	$(	$(	_	0	root	_	-
+3	O.	O.	N	NE	Neut|_|Sg	1	kon	_	0)
+
+1	(	(	$(	$(	_	0	root	_	-
+2	dpa	dpa	N	NE	_	0	root	_	(1)
+3	)	)	$(	$(	_	0	root	_	-
+4	-	-	$(	$(	_	0	root	_	-
+5	Zwei	zwei	CARD	CARD	_	6	attr	_	-
+6	Polizisten	Polizist	N	NN	Masc|Nom|Pl	7	subj	_	-
+7	müssen	müssen	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+8	sich	sie	PRO	PRF	3|_|_	21	obja	_	-
+9	seit	seit	PREP	APPR	Dat	21	pp	_	-
+10	gestern	gestern	ADV	ADV	_	9	adv	_	-
+11	vor	vor	PREP	APPR	Dat	21	objp	_	-
+12	dem	die	ART	ART	Def|Neut|Dat|Sg	13	det	_	-
+13	Landgericht	Landgericht	N	NN	Neut|Dat|Sg	11	pn	_	-
+14	in	in	PREP	APPR	_	13	pp	_	-
+15	Frankfurt	Frankfurt	N	NE	Neut|_|Sg	14	pn	_	(0
+16	/	/	$(	$(	_	0	root	_	-
+17	Oder	Oder	N	NE	Fem|_|Sg	15	kon	_	-
+18	wegen	wegen	PREP	APPR	Gen	17	pp	_	-
+19	gemeinschaftlichen	gemeinschaftlich	ADJA	ADJA	Pos|Masc|Gen|Sg|_|	20	attr	_	-
+20	Totschlags	Totschlag	N	NN	Masc|Gen|Sg	18	pn	_	0)
+21	verantworten	verantworten	V	VVINF	_	7	aux	_	-
+22	.	.	$.	$.	_	0	root	_	-
+
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	(1)
+2	sollen	sollen	V	VMFIN	3|Pl|Pres|_	0	root	_	-
+3	im	in	PREP	APPRART	Dat	13	pp	_	-
+4	Februar	Februar	N	NN	Masc|Dat|Sg	3	pn	_	-
+5	1994	1994	CARD	CARD	_	4	app	_	-
+6	auf	auf	PREP	APPR	Acc	13	pp	_	-
+7	das	die	ART	ART	Def|Neut|Acc|Sg	8	det	_	-
+8	Auto	Auto	N	NN	Neut|Acc|Sg	6	pn	_	-
+9	von	von	PREP	APPR	_	13	pp	_	-
+10	drei	drei	CARD	CARD	_	12	attr	_	-
+11	flüchtenden	flüchtend	ADJA	ADJA	Pos|Masc|_|Pl|_|<PPRES	12	attr	_	-
+12	Rumänen	Rumäne	N	NN	Masc|_|Pl	9	pn	_	-
+13	geschossen	schießen	V	VVPP	_	2	neb	_	-
+14	und	und	KON	KON	_	2	kon	_	-
+15	einen	eine	ART	ART	Indef|Masc|Acc|Sg	16	det	_	-
+16	Mann	Mann	N	NN	Masc|Acc|Sg	17	obja	_	-
+17	getötet	töten	V	VVPP	_	18	aux	_	-
+18	haben	haben	V	VAFIN	_|Pl|Pres|_	14	cj	_	-
+19	.	.	$.	$.	_	0	root	_	-
+

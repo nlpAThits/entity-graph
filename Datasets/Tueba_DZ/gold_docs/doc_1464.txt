@@ -1,0 +1,34 @@
+1	In	in	APPR	_	_	4	PP	_	_
+2	der	die	ART	_	_	3	DET	_	_
+3	Neustadt	Neustadt	NE	_	_	1	PN	_	_
+4	können	können%aux	VMFIN	_	_	0	ROOT	_	_
+5	Mädchen	Mädchen	NN	_	_	4	SUBJ	_	(0
+6	zwischen	zwischen	APPR	_	_	5	PP	_	_
+7	12	12	CARD	_	_	10	ATTR	_	_
+8	und	und	KON	_	_	7	KON	_	_
+9	16	16	CARD	_	_	8	CJ	_	_
+10	Jahren	Jahr	NN	_	_	6	PN	_	0)
+11	ihren	ihr	PPOSAT	_	_	12	DET	_	(0)
+12	Stadtteil	Stadtteil	NN	_	_	13	OBJA	_	_
+13	filmen	filmen	VVINF	_	_	4	AUX	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+
+1	Tips	Tip	NN	_	_	4	OBJA	_	_
+2	und	und	KON	_	_	1	KON	_	_
+3	Anleitungen	Anleitung	NN	_	_	2	CJ	_	_
+4	gibt	geben	VVFIN	_	_	0	ROOT	_	_
+5	es	es	PPER	_	_	4	SUBJ	_	_
+6	jeden	jeder	PIDAT	_	_	7	DET	_	_
+7	Dienstag	Dienstag	NN	_	_	4	ZEIT	_	_
+8	und	und	KON	_	_	7	KON	_	_
+9	Donnerstag	Donnerstag	NN	_	_	8	CJ	_	_
+10	ab	ab	APPR	_	_	7	PP	_	_
+11	14	14	CARD	_	_	12	ATTR	_	_
+12	Uhr	Uhr	NN	_	_	10	PN	_	_
+13	im	in	APPRART	_	_	4	PP	_	_
+14	Mädchentreff	Mädchentreff	NN	_	_	13	PN	_	_
+15	,	,	$,	_	_	14	-PUNCT-	_	_
+16	Hohentorsheerstr.	Hohentorsheerstr.	NN	_	_	14	APP	_	_
+17	56	56	CARD	_	_	16	APP	_	_
+18	.	.	$.	_	_	17	-PUNCT-	_	_
+

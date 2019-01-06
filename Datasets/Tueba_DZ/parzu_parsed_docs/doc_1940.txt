@@ -1,0 +1,40 @@
+1	"	"	$(	$(	_	0	root	_	-
+2	Steigen	steigen	V	VVFIN	3|Pl|Pres|_	0	root	_	-
+3	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	-
+4	ein	eine	ART	ART	Indef|Masc|Nom|Sg	18	det	_	-
+5	in	in	PREP	APPR	Acc	18	pp	_	-
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	(0
+7	Kiste	Kiste	N	NN	Fem|Acc|Sg	5	pn	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	die	die	PRO	PRELS	Fem|Nom|Sg	17	subj	_	(0)
+10	was	was	PRO	PWS	Neut|Nom|Sg	14	subj	_	-
+11	auf	auf	PREP	APPR	Dat	14	pp	_	-
+12	dem	die	ART	ART	Def|Masc|Dat|Sg	13	det	_	-
+13	Kasten	Kasten	N	NN	Masc|Dat|Sg	11	pn	_	-
+14	hat	haben	V	VAFIN	3|Sg|Pres|Ind	17	objc	_	-
+15	"	"	$(	$(	_	0	root	_	-
+16	,	,	$,	$,	_	0	root	_	-
+17	lud	laden	V	VVFIN	3|Sg|Past|Ind	7	rel	_	0)
+18	Bausenator	Bausenator	N	NN	Masc|Nom|Sg	0	root	_	-
+19	Nagel	Nagel	N	NN	Masc|Nom|Sg	18	app	_	-
+20	zur	zu	PREP	APPRART	Dat	18	pp	_	-
+21	Eröffnung	Eröffnung	N	NN	Fem|Dat|Sg	20	pn	_	-
+22	der	die	ART	ART	Def|Fem|Gen|Sg	23	det	_	-
+23	Infobox	Infobox	N	NN	Fem|Gen|Sg	21	gmod	_	-
+24	am	an	PREP	APPRART	Dat	23	pp	_	-
+25	Potsdamer	Potsdamer	ADJA	ADJA	Pos|Masc|Dat|Sg|_|	26	attr	_	-
+26	Platz	Platz	N	NN	Masc|Dat|Sg	24	pn	_	-
+27	ein	ein	PTKVZ	PTKVZ	_	0	root	_	-
+28	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	-
+2	taz	taz	N	NE	Fem|Nom|Sg	3	subj	_	-
+3	stieg	steigen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+4	wieder	wieder	ADV	ADV	_	3	adv	_	-
+5	aus	aus	PTKVZ	PTKVZ	_	3	avz	_	-
+6	.	.	$.	$.	_	0	root	_	-
+
+1	Bericht	Bericht	N	NN	Fem|_|Sg	0	root	_	-
+2	Seite	Seite	N	NN	Fem|_|Sg	1	app	_	-
+3	24	24	CARD	CARD	_	2	app	_	-
+

@@ -1,0 +1,26 @@
+1	Musiktheater	Musiktheater	NN	_	_	0	ROOT	_	_
+2	dieser	diese	PDAT	_	_	3	DET	_	_
+3	Stadt	Stadt	NN	_	_	1	GMOD	_	_
+4	,	,	$,	_	_	3	-PUNCT-	_	_
+5	seid	sein	VAIMP	_	_	0	ROOT	_	_
+6	wachsam	wachsam	ADJD	_	_	5	PRED	_	_
+7	und	und	KON	_	_	6	KON	_	_
+8	aktuell	aktuell	ADJD	_	_	7	CJ	_	_
+9	!	!	$.	_	_	8	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	2	DET	_	_
+2	Herzug	Herzug	NN	_	_	5	SUBJ	_	_
+3	der	die	ART	_	_	4	DET	_	_
+4	Bundesregierung	Bundesregierung	NN	_	_	2	GMOD	_	_
+5	ist	sein	VAFIN	_	_	0	ROOT	_	_
+6	der	die	ART	_	_	8	DET	_	_
+7	Neuköllner	Neuköllner	ADJA	_	_	8	ATTR	_	_
+8	Oper	Oper	NN	_	_	5	OBJD	_	_
+9	am	an	APPRART	_	_	5	PP	_	_
+10	23.	23.	ADJA	_	_	9	PN	_	_
+11	11.	11.	ADJA	_	_	10	ATTR	_	_
+12	eine	eine	ART	_	_	13	DET	_	(0
+13	Uraufführung	Uraufführung	NN	_	_	5	OBJA	_	0)
+14	wert	wert	ADJD	_	_	5	PRED	_	_
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+

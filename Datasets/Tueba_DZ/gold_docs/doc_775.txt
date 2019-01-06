@@ -1,0 +1,30 @@
+1	Schwarz	schwarz	ADJD	_	_	5	ADV	_	_
+2	wie	wie	KOKOM	_	_	1	KOM	_	_
+3	seine	seine	PPOSAT	_	_	4	DET	_	_
+4	Haut	Haut	NN	_	_	2	CJ	_	_
+5	fuhr	fahren	VVFIN	_	_	0	ROOT	_	_
+6	Correira	Correira	NE	_	_	5	SUBJ	_	(0
+7	C.	C.	NE	_	_	6	APP	_	0)
+8	mit	mit	APPR	_	_	5	PP	_	_
+9	seiner	seine	PPOSAT	_	_	11	DET	_	(0)
+10	"	"	$(	_	_	11	-PUNCT-	_	_
+11	Ente	Ente	NN	_	_	8	PN	_	_
+12	"	"	$(	_	_	11	-PUNCT-	_	_
+13	am	an	APPRART	_	_	5	PP	_	_
+14	7.	7.	ADJA	_	_	15	ATTR	_	_
+15	Juni	Juni	NN	_	_	13	PN	_	_
+16	1996	1996	CARD	_	_	15	APP	_	_
+17	in	in	APPR	_	_	5	PP	_	_
+18	Hennigsdorf	Hennigsdorf	NE	_	_	17	PN	_	_
+19	.	.	$.	_	_	18	-PUNCT-	_	_
+
+1	Schwarz	schwarz	ADJD	_	_	0	ROOT	_	_
+2	,	,	$,	_	_	1	-PUNCT-	_	_
+3	weil	weil	KOUS	_	_	8	KONJ	_	_
+4	er	er	PPER	_	_	8	SUBJ	_	(0)
+5	ohne	ohne	APPR	_	_	8	PP	_	_
+6	Fahrerlaubnis	Fahrerlaubnis	NN	_	_	5	PN	_	_
+7	unterwegs	unterwegs	ADV	_	_	8	PRED	_	_
+8	war	sein	VAFIN	_	_	1	-UNKNOWN-	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+

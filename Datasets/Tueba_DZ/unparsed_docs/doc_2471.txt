@@ -1,0 +1,5 @@
+Die Bremer Gesundheitsbehörde verfügt nun über neue Grundlagen, um Umweltschadstoffe toxikologisch fundiert zu bewerten: Die Bremer Behörde hat von Nordrhein-Westfalen das "Noxen-Informationssystem" (NIS) übernommen.
+Das ist ein EDV-gestütztes Datensystem im Bereich Umwelthygiene / Umweltmedizin.
+Rund 500 Stoffe sind darin bislang erfaßt: mit Angaben zu ihrem Vorkommen, zur gesundheitlichen Wirkung, zur rechtlichen Regelung...
+Halbjährlich wird der Datenbestand aktualisiert, unter anderem mithilfe des Bremer Gesundheitsressorts.
+Das Gesundheitsamt freut sich: Nun kann es die BürgerInnen besser und schneller beraten.

@@ -1,0 +1,37 @@
+1	Calau	Calau	NE	_	_	0	ROOT	_	_
+2	(	(	$(	_	_	3	-PUNCT-	_	_
+3	dpa	dpa	NE	_	_	0	ROOT	_	_
+4	)	)	$(	_	_	3	-PUNCT-	_	_
+5	-	-	$(	_	_	3	-PUNCT-	_	_
+6	Das	das	ART	_	_	7	DET	_	(0
+7	AsylbewerberInnenheim	AsylbewerberInnenheim	NN	_	_	14	SUBJ	_	_
+8	in	in	APPR	_	_	7	PP	_	_
+9	Vetschau	Vetschau	NE	_	_	8	PN	_	_
+10	(	(	$(	_	_	11	-PUNCT-	_	_
+11	Kreis	Kreis	NN	_	_	9	APP	_	_
+12	Calau	Calau	NE	_	_	11	APP	_	0)
+13	)	)	$(	_	_	12	-PUNCT-	_	_
+14	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+15	in	in	APPR	_	_	25	PP	_	_
+16	der	die	ART	_	_	17	DET	_	_
+17	Nacht	Nacht	NN	_	_	15	PN	_	_
+18	von	von	APPR	_	_	17	PP	_	_
+19	Mittwoch	Mittwoch	NN	_	_	18	PN	_	_
+20	auf	auf	APPR	_	_	18	KON	_	_
+21	Donnerstag	Donnerstag	NN	_	_	20	PN	_	_
+22	zweimal	zweimal	ADV	_	_	25	ADV	_	_
+23	von	von	APPR	_	_	25	PP	_	_
+24	Jugendlichen	Jugendlicher|Jugendliche|Jugendliches	NN	_	_	23	PN	_	_
+25	angegriffen	an#greifen	VVPP	_	_	14	AUX	_	_
+26	.	.	$.	_	_	25	-PUNCT-	_	_
+
+1	Nach	nach	APPR	_	_	3	PP	_	_
+2	Polizeiangaben	Polizeiangabe	NN	_	_	1	PN	_	_
+3	gingen	gehen	VVFIN	_	_	0	ROOT	_	_
+4	dabei	dabei	PROP	_	_	3	PP	_	_
+5	mehrere	mehrere	PIAT	_	_	6	DET	_	_
+6	Fensterscheiben	Fensterscheibe	NN	_	_	3	SUBJ	_	_
+7	zu	zu	APPR	_	_	3	OBJP	_	_
+8	Bruch	Bruch	NN	_	_	7	PN	_	_
+9	.	.	$.	_	_	8	-PUNCT-	_	_
+

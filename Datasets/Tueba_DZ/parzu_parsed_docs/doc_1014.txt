@@ -1,0 +1,51 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	(0
+2	italienische	italienisch	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Sänger	Sänger	N	NN	Masc|Nom|Sg	6	subj	_	-
+4	Al	Al	N	NE	Masc|Nom|Sg	3	app	_	-
+5	Bano	Bano	N	NE	Masc|Nom|Sg	4	app	_	0)
+6	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+7	Popstar	Popstar	N	NN	Masc|_|Sg	13	obja	_	(1
+8	Michael	Michael	N	NE	Masc|_|Sg	7	app	_	-
+9	Jackson	Jackson	N	NE	Masc|_|Sg	8	app	_	1)
+10	erneut	erneut	ADV	ADJD	Pos|	13	adv	_	-
+11	des	die	ART	ART	Def|Neut|Gen|Sg	12	det	_	-
+12	Plagiats	Plagiat	N	NN	Neut|Gen|Sg	13	objg	_	-
+13	beschuldigt	beschuldigen	V	VVPP	_	6	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	behauptet	behaupten	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	Jackson	Jackson	N	NE	_|Nom|Sg	5	subj	_	(1)
+5	habe	haben	V	VAFIN	3|Sg|Pres|Subj	2	s	_	-
+6	sein	seine	ART	PPOSAT	Neut|_|Sg	7	det	_	(1)
+7	Stück	Stück	N	NN	Neut|_|Sg	11	obja	_	-
+8	Cigni	Cigni	N	NE	Neut|_|Sg	7	app	_	-
+9	di	di	N	NE	Neut|_|Sg	8	app	_	-
+10	Balaka	Balaka	N	NE	Neut|_|Sg	9	app	_	-
+11	kopiert	kopieren	V	VVPP	_	5	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Eine	eine	ART	ART	Indef|Fem|Nom|Sg	3	det	_	-
+2	erste	erst	ADJA	ADJA	_|Fem|Nom|Sg|_|	3	attr	_	-
+3	Anhörung	Anhörung	N	NN	Fem|Nom|Sg	4	subj	_	-
+4	brachte	bringen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+5	zunächst	zunächst	ADV	ADV	_	4	adv	_	-
+6	kein	keine	ART	PIAT	Neut|_|Sg	7	det	_	-
+7	Ergebnis	Ergebnis	N	NN	Neut|_|Sg	4	obja	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Mit	mit	PREP	APPR	Dat	7	pp	_	-
+2	einer	eine	ART	ART	Indef|Fem|Dat|Sg	5	det	_	-
+3	"	"	$(	$(	_	0	root	_	-
+4	technischen	technisch	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	5	attr	_	-
+5	Expertise	Expertise	N	NN	Fem|Dat|Sg	1	pn	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+8	der	die	ART	ART	Def|Masc|Nom|Sg	9	det	_	-
+9	Komponist	Komponist	N	NN	Masc|Nom|Sg	7	subj	_	-
+10	Ennio	Ennio	N	NE	Masc|Nom|Sg	9	app	_	-
+11	Moricone	Moricone	N	NE	Masc|Nom|Sg	10	app	_	-
+12	beauftragt	beauftragen	V	VVPP	_	7	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+

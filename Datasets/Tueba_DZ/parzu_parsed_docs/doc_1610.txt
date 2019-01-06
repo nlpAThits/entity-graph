@@ -1,0 +1,41 @@
+1	Am	an	PREP	APPRART	Dat	0	root	_	-
+2	31.	31.	ADJA	ADJA	_|_|Dat|_|_|	1	pn	_	-
+
+1	10.	10.	ADJA	ADJA	_|_|_|_|_|	2	obja	_	-
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	bundesweit	bundesweit	ADV	ADJD	Pos|	2	adv	_	-
+4	der	die	ART	ART	Def|_|Gen|Pl	5	det	_	-
+5	100	100	CARD	CARD	_|_|_	2	subj	_	-
+6	.	.	$.	$.	_	0	root	_	-
+7	Geburtstag	Geburtstag	N	NN	_|Nom|Sg	10	subj	_	-
+8	des	die	ART	ART	Def|Masc|Gen|Sg	9	det	_	-
+9	Films	Film	N	NN	Masc|Gen|Sg	7	gmod	_	-
+10	gefeiert	feiern	V	VVPP	_	0	root	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Den	die	ART	ART	Def|_|_|_	0	root	_	-
+2	Aktionstag	Aktionstag	N	NN	_|Nom|Sg	3	subj	_	-
+3	begeht	begehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+4	das	die	ART	ART	Def|Neut|_|Sg	5	det	_	-
+5	Arsenal	Arsenal	N	NN	Neut|_|Sg	13	obja	_	-
+6	mit	mit	PREP	APPR	Dat	5	pp	_	-
+7	"	"	$(	$(	_	0	root	_	-
+8	Out	Out	N	NE	_|Dat|_	6	pn	_	-
+9	of	of	FM	FM	_|Dat|_	8	app	_	-
+10	the	the	FM	FM	_|Dat|_	9	app	_	-
+11	Present	Present	FM	FM	_|Dat|_	10	app	_	-
+12	"	"	$(	$(	_	0	root	_	-
+13	begehen	begehen	V	VVFIN	_|Pl|Pres|_	3	s	_	-
+14	,	,	$,	$,	_	0	root	_	-
+15	einem	eine	ART	ART	Indef|Masc|Dat|Sg	16	det	_	-
+16	Film	Film	N	NN	Masc|Dat|Sg	0	root	_	-
+17	über	über	PREP	APPR	Acc	16	pp	_	-
+18	den	die	ART	ART	Def|Masc|Acc|Sg	19	det	_	-
+19	Untergang	Untergang	N	NN	Masc|Acc|Sg	17	pn	_	-
+20	des	die	ART	ART	Def|Masc|Gen|Sg	21	det	_	-
+21	Sowjetstaats	Sowjetstaat	N	NN	Masc|Gen|Sg	19	gmod	_	-
+22	von	von	PREP	APPR	_	21	pp	_	-
+23	Andrei	Andrei	N	NE	_|_|_	22	pn	_	-
+24	Ujica	Ujica	N	NE	_|_|_	23	app	_	-
+25	;	;	$.	$.	_	0	root	_	-
+

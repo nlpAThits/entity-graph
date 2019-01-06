@@ -1,0 +1,39 @@
+1	Der	die	ART	ART	Def|Fem|Dat|Sg	2	det	_	-
+2	Arbeitskreis	Arbeitskreis	N	NN	Fem|Dat|Sg	4	objd	_	-
+3	Meditation	Meditation	N	NN	Fem|Dat|Sg	2	app	_	-
+4	stellt	stellen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+5	das	die	ART	ART	Def|Neut|Nom|Sg	6	det	_	-
+6	Meditationsverfahren	Meditationsverfahren	N	NN	Neut|Nom|Sg	4	subj	_	-
+7	als	als	KOKOM	KOKOM	_	4	kom	_	-
+8	Weg	Weg	N	NN	Masc|_|Sg	7	cj	_	-
+9	zu	zu	PREP	APPR	Dat	8	pp	_	-
+10	fairen	fair	ADJA	ADJA	Pos|Fem|Dat|Pl|_|	11	attr	_	-
+11	Scheidungsvereinbarungen	Scheidungsvereinbarung	N	NN	Fem|Dat|Pl	9	pn	_	-
+12	heute	heute	ADV	ADV	_	9	adv	_	-
+13	abend	abend	ADV	ADV	_	8	adv	_	-
+14	,	,	$,	$,	_	0	root	_	-
+15	um	um	PREP	APPR	_	4	pp	_	-
+16	20	20	CARD	CARD	_	17	attr	_	-
+17	Uhr	Uhr	N	NN	Fem|_|Sg	15	pn	_	-
+18	,	,	$,	$,	_	0	root	_	-
+19	in	in	PREP	APPR	Dat	4	pp	_	-
+20	den	die	ART	ART	Def|Masc|Dat|Pl	21	det	_	-
+21	Räumen	Raum	N	NN	Masc|Dat|Pl	19	pn	_	-
+22	an	an	PREP	APPR	Dat	4	pp	_	-
+23	der	die	ART	ART	Def|Fem|Dat|Sg	24	det	_	-
+24	Richard-Wagner-Straße	Richard-Wagner-Straß	N	NN	Fem|Dat|Sg	22	pn	_	-
+25	30	30	CARD	CARD	_	24	app	_	-
+26	vor	vor	PTKVZ	PTKVZ	_	4	avz	_	-
+27	.	.	$.	$.	_	0	root	_	-
+
+1	Infos	Info	N	NN	_|_|_	0	root	_	-
+2	unter	unter	PREP	APPR	_	1	pp	_	-
+3	Tel	Tel	N	NE	_|_|_	2	pn	_	-
+4	.	.	$.	$.	_	0	root	_	-
+
+1	:	\:	$.	$.	_	0	root	_	-
+2	34	34	CARD	CARD	_	4	attr	_	-
+3	78	78	CARD	CARD	_	4	attr	_	-
+4	747	747	CARD	CARD	_|_|Pl	0	root	_	-
+5	.	.	$.	$.	_	0	root	_	-
+

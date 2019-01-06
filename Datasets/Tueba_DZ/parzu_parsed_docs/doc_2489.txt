@@ -1,0 +1,37 @@
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	-
+2	schmückt	schmücken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+3	!	!	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Scientology	Scientology	N	NE	_	0	root	_	-
+3	-	-	$(	$(	_	0	root	_	-
+4	Nein	Nein	N	NN	Neut|Nom|Sg	5	subj	_	-
+5	danke	danken	V	VVFIN	3|Sg|Pres|Subj	0	root	_	-
+6	"	"	$(	$(	_	0	root	_	-
+7	-	-	$(	$(	_	0	root	_	-
+8	die	die	ART	ART	Def|_|Nom|Pl	9	det	_	(0
+9	Transparente	Transparente	N	NN	_|Nom|Pl	29	subj	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	mit	mit	PREP	APPR	Dat	27	pp	_	-
+12	denen	die	PRO	PRELS	_|Dat|Pl	11	pn	_	(0)
+13	diverse	divers	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	14	attr	_	(1
+14	MieterInnen	MieterIn	N	NN	Fem|Nom|Pl	27	subj	_	-
+15	der	die	ART	ART	Def|_|Gen|Pl	16	det	_	-
+16	Häuser	Haus	N	NN	_|Gen|Pl	14	gmod	_	-
+17	Breitenfelder	Breitenfelder	N	NE	_|Gen|_	16	app	_	-
+18	Straße	Straß	N	NN	_|Gen|_	17	app	_	-
+19	56	56	CARD	CARD	_	18	app	_	-
+20	-	-	$(	$(	_	0	root	_	-
+21	62	62	CARD	CARD	_	19	kon	_	1)
+22	ihren	ihre	ART	PPOSAT	Masc|_|Sg	23	det	_	(1)
+23	Protest	Protest	N	NN	Masc|_|Sg	27	obja	_	-
+24	gegen	gegen	PREP	APPR	Acc	23	pp	_	-
+25	den	die	ART	ART	Def|Masc|Acc|Sg	26	det	_	-
+26	Konzern	Konzern	N	NN	Masc|Acc|Sg	24	pn	_	-
+27	ausdrückten	ausdrücken	V	VVFIN	_|Pl|Past|_	9	rel	_	0)
+28	,	,	$,	$,	_	0	root	_	-
+29	dürfen	dürfen	V	VMFIN	3|Pl|Pres|_	5	kon	_	-
+30	hängen	hängen	V	VVINF	_	31	obji	_	-
+31	bleiben	bleiben	V	VVINF	_	29	aux	_	-
+32	.	.	$.	$.	_	0	root	_	-
+

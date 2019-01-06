@@ -1,0 +1,56 @@
+1	Brüssel	Brüssel	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Die	die	ART	ART	Def|Fem|Nom|Sg	8	det	_	(0
+7	Europäische	europäisch	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	8	attr	_	-
+8	Kommission	Kommission	N	NN	Fem|Nom|Sg	9	subj	_	0)
+9	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+10	am	an	PREP	APPRART	Dat	20	pp	_	-
+11	Montag	Montag	N	NN	Masc|Dat|Sg	10	pn	_	-
+12	zu	zu	PREP	APPR	Dat	11	pp	_	-
+13	den	die	ART	ART	Def|Masc|Dat|Pl	15	det	_	-
+14	französischen	französisch	ADJA	ADJA	Pos|Masc|Dat|Pl|_|	15	attr	_	-
+15	Atomtests	Atomtest	N	NN	Masc|Dat|Pl	12	pn	_	-
+16	im	in	PREP	APPRART	Dat	20	pp	_	-
+17	Südpazifik	Südpazifik	N	NN	Masc|Dat|Sg	16	pn	_	-
+18	offiziell	offiziell	ADV	ADJD	Pos|	20	adv	_	-
+19	Stellung	Stellung	N	NN	Fem|_|Sg	20	obja	_	-
+20	nehmen	nehmen	V	VVINF	_	9	aux	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Wir	wir	PRO	PPER	1|Pl|_|Nom	3	subj	_	-
+3	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	-
+4	gestern	gestern	ADV	ADV	_	5	adv	_	-
+5	weitere	weit	ADJA	ADJA	Comp|_|_|Pl|St|	6	attr	_	-
+6	Informationen	Information	N	NN	_|_|Pl	9	obja	_	-
+7	aus	aus	PREP	APPR	Dat	9	pp	_	-
+8	Paris	Paris	N	NE	_|Dat|Sg	7	pn	_	-
+9	bekommen	bekommen	V	VVINF	_	0	root	_	-
+10	"	"	$(	$(	_	0	root	_	-
+11	,	,	$,	$,	_	0	root	_	-
+12	so	so	ADV	ADV	_	14	adv	_	-
+13	ein	eine	ART	ART	Indef|Masc|Nom|Sg	14	det	_	-
+14	Sprecher	Sprecher	N	NN	Masc|Nom|Sg	0	root	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+2	Die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	(0
+3	Kommission	Kommission	N	NN	Fem|Nom|Sg	4	subj	_	0)
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	nun	nun	ADV	ADV	_	4	adv	_	-
+6	in	in	PREP	APPR	Dat	4	pp	_	-
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	-
+8	Lage	Lage	N	NN	Fem|Dat|Sg	6	pn	_	-
+9	,	,	$,	$,	_	0	root	_	-
+10	einen	eine	ART	ART	Indef|Masc|Acc|Sg	12	det	_	-
+11	endgültigen	endgültig	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	12	attr	_	-
+12	Beschluß	Beschluß	N	NN	Masc|Acc|Sg	14	obja	_	-
+13	zu	zu	PTKZU	PTKZU	_	14	part	_	-
+14	fassen	fassen	V	VVINF	_	4	obji	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	"	"	$(	$(	_	0	root	_	-
+

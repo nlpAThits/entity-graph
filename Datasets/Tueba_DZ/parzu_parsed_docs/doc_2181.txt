@@ -1,0 +1,37 @@
+1	Washington	Washington	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	AP	AP	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Der	die	ART	ART	Def|Masc|Nom|Sg	7	det	_	-
+7	Vorstoß	Vorstoß	N	NN	Masc|Nom|Sg	18	subj	_	-
+8	der	die	ART	ART	Def|Masc|Gen|Pl	9	det	_	-
+9	Republikaner	Republikaner	N	NN	Masc|Gen|Pl	7	gmod	_	-
+10	im	in	PREP	APPRART	Dat	9	pp	_	-
+11	US-Senat	US-Senat	N	NN	Masc|Dat|Sg	10	pn	_	-
+12	zur	zu	PREP	APPRART	Dat	11	pp	_	-
+13	Verschärfung	Verschärfung	N	NN	Fem|Dat|Sg	12	pn	_	-
+14	der	die	ART	ART	Def|_|Gen|Pl	15	det	_	-
+15	Sanktionen	Sanktion	N	NN	_|Gen|Pl	13	gmod	_	-
+16	gegen	gegen	PREP	APPR	Acc	15	pp	_	-
+17	Kuba	Kuba	N	NE	Neut|Acc|Sg	16	pn	_	-
+18	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+19	erneut	erneut	ADV	ADJD	Pos|	20	adv	_	-
+20	gescheitert	scheitern	V	VVPP	_	18	aux	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Die	die	ART	ART	Def|Masc|Nom|Pl	2	det	_	-
+2	Unterstützer	Unterstützer	N	NN	Masc|Nom|Pl	6	subj	_	-
+3	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	-
+4	umstrittenen	umstritten	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	5	attr	_	-
+5	Gesetzesvorlage	Gesetzesvorlage	N	NN	Fem|Gen|Sg	2	gmod	_	-
+6	unterlagen	unterliegen	V	VVFIN	3|Pl|Past|Ind	0	root	_	-
+7	am	an	PREP	APPRART	Dat	6	pp	_	-
+8	Dienstag	Dienstag	N	NN	_|Dat|Sg	7	pn	_	-
+9	allerdings	allerdings	ADV	ADV	_	6	adv	_	-
+10	mit	mit	PREP	APPR	Dat	6	pp	_	-
+11	nur	nur	ADV	ADV	_	13	adv	_	-
+12	einer	eine	ART	ART	Indef|Fem|Dat|Sg	13	det	_	-
+13	Stimme	Stimme	N	NN	Fem|Dat|Sg	10	pn	_	-
+14	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,16 @@
+Der intelligente "Screenfridge" macht Rezeptvorschläge und kauft über das Internet ein.
+Von Gernot Knödler
+Denken Sie auch, der Fernseher sei das Zentrum einer Wohnung und der Mittelpunkt des Familienlebens?
+Weit gefehlt.
+"Wir wissen aus Untersuchungen, daß der Kühlschrank normalerweise der mit Abstand meistfrequentierte Ort im Haus ist", sagt Ulrich Gartner vom Hausgeräte-Konzern Electrolux.
+Und weil das so ist, dachten sich die Ingenieure des Betriebs, könnten sie den Kühli ja gleich in ein Kommunikationszentrum für die ganze Familie oder WG umwandeln: Der "screenfridge" weiß stets, was er im Bauch hat, geht einkaufen, nimmt Videonachrichten auf und kontrolliert den Wasserverbrauch der Spülmaschine.
+Sein Prototyp wurde gestern an der Elbchaussee vorgestellt.
+Hervorstechendes Merkmal des Super-Kühlschranks ist ein Bildschirm, der auf Augenhöhe in die Tür eingebaut ist.
+Über Berührungen des Schirms wird ein 486er PC mit Internet-Anschluß und einem ganz normalen Windows'98-Betriebssystem gesteuert.
+Der Kühli liest die Strichcodes der Lebensmittel aus dem Supermarkt, gibt Empfehlungen, in welcher seiner Klimazonen die Sachen am günstigsten unterzubringen wären und merkt sich, was wo liegt.
+Wenn der Hausmann nicht weiß, was er für seinen Nachwuchs auf den Tisch bringen soll, bittet er den Kühlschrank um Rezeptvorschläge, die jener seiner Inventarliste entsprechend auswählt.
+Essen am Rande des Verfallsdatums wird er trickreich unterzubringen versuchen;
+fehlende Zutaten können angetippt und per Tele-Einkauf direkt beim Supermarkt bestellt werden.
+Er könne sich vorstellen, daß der Handel - ähnlich wie bei Mobiltelefonen - einen Teil des Anschaffungspreises für einen solchen intelligenten Kühli übernehme, ließ Entwicklungsmanager Adam Fjaestad aus Stockholm die Presse wissen.
+Allerdings sei noch keine Entscheidung gefallen, ob der Screenfridge überhaupt gebaut werde, sprach er von der Kühlschranktür, live übers Internet.
+Bereits vor zwei oder drei Wochen sei der kluge Kühlschrank mit großem Erfolg in Orlando / Florida vorgestellt worden, ergänzte Fjaestads US-Kollege Tony Evans :

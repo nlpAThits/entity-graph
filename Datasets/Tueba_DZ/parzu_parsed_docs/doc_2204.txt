@@ -1,0 +1,43 @@
+1	Im	in	PREP	APPRART	Dat	3	pp	_	-
+2	DEL-Spitzenspiel	DEL-Spitzenspiel	N	NN	Neut|Dat|Sg	1	pn	_	-
+3	schlug	schlagen	V	VVFIN	3|Sg|Past|Ind	0	root	_	-
+4	der	die	ART	ART	Def|Masc|Nom|Sg	5	det	_	-
+5	Tabellenführer	Tabellenführer	N	NN	Masc|Nom|Sg	3	subj	_	-
+6	Kölner	Kölner	ADJA	ADJA	Pos|Masc|Nom|Pl|_|	7	attr	_	-
+7	Haie	Hai	N	NN	Masc|Nom|Pl	5	app	_	-
+8	die	die	ART	ART	Def|_|_|_	9	det	_	-
+9	Düsseldorfer	Düsseldorfer	N	NN	_|_|_	3	obja	_	-
+10	EG	EG	N	NE	_|_|_	9	app	_	-
+11	mit	mit	PREP	APPR	Dat	3	pp	_	-
+12	4	4	CARD	CARD	_	11	pn	_	-
+13	:	\:	$.	$.	_	0	root	_	-
+14	2.	2.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	-
+2	zehnte	zehnt	ADJA	ADJA	_|Masc|Nom|Sg|Wk|	4	attr	_	-
+3	Kölner	Kölner	ADJA	ADJA	Pos|Masc|Nom|Sg|_|	4	attr	_	-
+4	Sieg	Sieg	N	NN	Masc|Nom|Sg	7	subj	_	-
+5	in	in	PREP	APPR	_	4	pp	_	-
+6	Folge	Folge	N	NN	Fem|_|Sg	5	pn	_	-
+7	beendete	beenden	V	VVFIN	3|Sg|Past|_	0	root	_	-
+8	eine	eine	ART	ART	Indef|Fem|_|Sg	12	det	_	-
+9	13	13	CARD	CARD	_	10	attr	_	-
+10	Spiele	Spiel	N	NN	Neut|_|Pl	11	grad	_	-
+11	lange	lang	ADJA	ADJA	Pos|Fem|_|Sg|_|	12	attr	_	-
+12	DEG-Serie	DEG-Serie	N	NN	Fem|_|Sg	7	obja	_	-
+13	ohne	ohne	PREP	APPR	Acc	7	pp	_	-
+14	Niederlage	Niederlage	N	NN	Fem|Acc|Sg	13	pn	_	-
+15	.	.	$.	$.	_	0	root	_	-
+
+1	Erst	erst	ADV	ADV	_	2	adv	_	-
+2	in	in	PREP	APPR	Dat	6	pp	_	-
+3	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	-
+4	letzten	letzte	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	5	attr	_	-
+5	Sekunde	Sekunde	N	NN	Fem|Dat|Sg	2	pn	_	-
+6	erzielte	erzielen	V	VVFIN	3|Sg|Past|_	0	root	_	-
+7	Brandl	Brandl	N	NE	_|Nom|Sg	6	subj	_	-
+8	Endstand	Endstand	N	NN	Masc|_|Sg	6	obja	_	-
+9	und	und	KON	KON	_	8	kon	_	-
+10	Entscheidung	Entscheidung	N	NN	Fem|_|Sg	9	cj	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

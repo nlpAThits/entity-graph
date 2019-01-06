@@ -1,0 +1,30 @@
+1	Münchener	Münchener	ADJA	_	_	2	ATTR	_	_
+2	Kesselfleisch	Kesselfleisch	NN	_	_	0	ROOT	_	_
+
+1	Toast	Toast	NN	_	_	0	ROOT	_	_
+2	des	der	ART	_	_	3	DET	_	_
+3	Staatsratsvorsitzenden	Staatsratsvorsitzender	NN	_	_	1	GMOD	_	_
+4	Genosse	Genosse	NN	_	_	3	APP	_	_
+5	Max	Max	NE	_	_	4	APP	_	_
+6	Streibl	Streibl	NE	_	_	5	APP	_	_
+7	:	:	$.	_	_	6	-PUNCT-	_	_
+
+1	"	"	$(	_	_	2	-PUNCT-	_	_
+2	Dann	dann	ADV	_	_	3	ADV	_	_
+3	haut	rein#hauen	VVIMP	_	_	0	ROOT	_	_
+4	mal	mal	ADV	_	_	3	ADV	_	_
+5	ordentlich	ordentlich	ADJD	_	_	3	ADV	_	_
+6	rein	_	PTKVZ	_	_	3	AVZ	_	_
+7	,	,	$,	_	_	6	-PUNCT-	_	_
+8	Bub'n	Bub	NN	_	_	0	ROOT	_	_
+9	!	!	$.	_	_	8	-PUNCT-	_	_
+10	"	"	$(	_	_	8	-PUNCT-	_	_
+
+1	Diagnose	Diagnose	NN	_	_	0	ROOT	_	_
+2	:	:	$.	_	_	1	-PUNCT-	_	_
+3	Alpen-Koller	Alpen-Koller	NN	_	_	0	ROOT	_	_
+
+1	Therapie	Therapie	NN	_	_	0	ROOT	_	_
+2	:	:	$.	_	_	1	-PUNCT-	_	_
+3	Ampustoibern	Ampustoibern	NN	_	_	0	ROOT	_	_
+

@@ -1,0 +1,66 @@
+1	Ein	ein	ART	ART	Indef|_|_|Sg	2	det	_	-
+2	18jähriger	18jährig	ADJA	ADJA	Masc|Nom|Sg	3	subj	_	-
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	in	in	PREP	APPR	Dat	18	pp	_	-
+5	der	die	ART	ART	Def|Fem|Dat|Sg	6	det	_	-
+6	Nacht	Nacht	N	NN	Fem|Dat|Sg	4	pn	_	-
+7	zum	zu	PREP	APPRART	Dat	18	pp	_	-
+8	Samstag	Samstag	N	NN	_|Dat|Sg	7	pn	_	-
+9	in	in	PREP	APPR	_	18	pp	_	-
+10	Tempelhof	Tempelhof	N	NN	Masc|_|Sg	9	pn	_	-
+11	fünf	fünf	CARD	CARD	_	12	attr	_	-
+12	Jugendliche	Jugendliche	N	NN	_|_|Pl	18	obja	_	-
+13	durch	durch	PREP	APPR	Acc	18	pp	_	-
+14	Messerstiche	Messerstich	N	NN	Masc|Acc|Pl	13	pn	_	-
+15	zum	zu	PREP	APPRART	Dat	14	pp	_	-
+16	Teil	Teil	N	NN	_|Dat|Sg	15	pn	_	-
+17	schwer	schwer	ADV	ADJD	Pos|	18	adv	_	-
+18	verletzt	verletzen	V	VVPP	_	3	aux	_	-
+19	.	.	$.	$.	_	0	root	_	-
+
+1	Nach	nach	PREP	APPR	Dat	5	pp	_	-
+2	Angaben	Angabe	N	NN	Fem|Dat|Pl	1	pn	_	-
+3	der	die	ART	ART	Def|Fem|Gen|Sg	4	det	_	(1
+4	Polizei	Polizei	N	NN	Fem|Gen|Sg	2	gmod	_	1)
+5	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+6	ein	eine	ART	ART	Indef|Masc|Nom|Sg	7	det	_	-
+7	Streit	Streit	N	NN	Masc|Nom|Sg	5	subj	_	-
+8	vorausgegangen	vorausgehen	V	VVPP	_	5	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Alle	alle	ART	PIDAT	_|Nom|Pl	3	det	_	-
+2	fünf	fünf	CARD	CARD	_	3	attr	_	-
+3	Verletzten	Verletzte	N	NN	_|Nom|Pl	4	subj	_	-
+4	hätten	haben	V	VAFIN	3|Pl|Past|Subj	0	root	_	-
+5	in	in	PREP	APPR	Acc	8	objp	_	-
+6	ein	eine	ART	ART	Indef|Neut|Acc|Sg	7	det	_	-
+7	Krankenhaus	Krankenhaus	N	NN	Neut|Acc|Sg	5	pn	_	-
+8	gebracht	bringen	V	VVPP	_	9	aux	_	-
+9	werden	werden	V	VAINF	_	10	aux	_	-
+10	müssen	müssen	V	VMINF	_	4	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(0
+2	Täter	Täter	N	NN	Masc|Nom|Sg	3	subj	_	0)
+3	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	-
+4	noch	noch	ADV	ADV	_	7	adv	_	-
+5	am	an	PREP	APPRART	Dat	7	pp	_	-
+6	Tatort	Tatort	N	NN	_|Dat|Sg	5	pn	_	-
+7	festgenommen	festnehmen	V	VVPP	_	8	aux	_	-
+8	worden	werden	V	VAPP	_	3	aux	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	sei	sein	V	VAFIN	3|Sg|Pres|Subj	0	root	_	-
+3	bei	bei	PREP	APPR	Dat	12	pp	_	-
+4	der	die	ART	ART	Def|Fem|Dat|Sg	5	det	_	(1
+5	Polizei	Polizei	N	NN	Fem|Dat|Sg	3	pn	_	1)
+6	bereits	bereits	ADV	ADV	_	12	adv	_	-
+7	wegen	wegen	PREP	APPR	Gen	12	pp	_	-
+8	mehrerer	mehrere	ART	PIAT	Fem|Gen|Pl	10	det	_	-
+9	gefährlicher	gefährlich	ADJA	ADJA	Pos|Fem|Gen|Pl|St|	10	attr	_	-
+10	Körperverletzungen	Körperverletzung	N	NN	Fem|Gen|Pl	7	pn	_	-
+11	bekannt	bekannt	ADV	ADJD	Pos|	12	pred	_	-
+12	gewesen	sein	V	VAPP	_	2	aux	_	-
+13	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,39 @@
+1	Daß	daß	KOUS	_	_	14	KONJ	_	_
+2	die	die	ART	_	_	3	DET	_	_
+3	Buchmesse-Empfehlung	Buchmesse-Empfehlung	NN	_	_	14	SUBJ	_	_
+4	Julian	Julian	NE	_	_	3	GMOD	_	_
+5	Barnes'	Barnes	NE	_	_	4	APP	_	_
+6	am	an	APPRART	_	_	13	PP	_	_
+7	Samstag	Samstag	NN	_	_	6	PN	_	_
+8	aus	aus	APPR	_	_	13	PP	_	_
+9	Gründen	Grund	NN	_	_	8	PN	_	_
+10	des	der	ART	_	_	11	DET	_	_
+11	Jugendschutzes	Jugendschutz	NN	_	_	9	GMOD	_	_
+12	nicht	nicht	PTKNEG	_	_	13	ADV	_	_
+13	übersetzt	übersetzen	VVPP	_	_	14	AUX	_	_
+14	wurde	werden%passiv	VAFIN	_	_	16	SUBJC	_	_
+15	,	,	$,	_	_	14	-PUNCT-	_	_
+16	geht	gehen	VVFIN	_	_	0	ROOT	_	_
+17	in	in	APPR	_	_	16	OBJP	_	_
+18	Ordnung	Ordnung	NN	_	_	17	PN	_	_
+19	.	.	$.	_	_	18	-PUNCT-	_	_
+
+1	Doch	doch	KON	_	_	0	ROOT	_	_
+2	das	das	PDS	_	_	3	SUBJ	_	_
+3	schützt	schützen	VVFIN	_	_	1	CJ	_	_
+4	natürlich	natürlich	ADV	_	_	3	ADV	_	_
+5	nicht	nicht	PTKNEG	_	_	3	ADV	_	_
+6	vorm	vor	APPRART	_	_	3	PP	_	_
+7	Fehlerteufel	Fehlerteufel	NN	_	_	6	PN	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	Oder	oder	KON	_	_	0	ROOT	_	_
+2	was	was	PWS	_	_	8	PRED	_	_
+3	sollen	sollen%aux	VMFIN	_	_	1	CJ	_	_
+4	"	"	$(	_	_	5	-PUNCT-	_	_
+5	convenig	convenig	FM	_	_	3	SUBJ	_	_
+6	professions	professions	FM	_	_	5	APP	_	_
+7	"	"	$(	_	_	6	-PUNCT-	_	_
+8	sein	sein	VAINF	_	_	3	AUX	_	_
+9	?	?	$.	_	_	8	-PUNCT-	_	_
+

@@ -1,0 +1,18 @@
+1	Wannsee	Wannsee	N	NE	_	0	root	_	-
+2	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	ehemalige	ehemalig	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Kontrollpunkt	Kontrollpunkt	N	NN	Masc|Nom|Sg	8	subj	_	-
+4	der	die	ART	ART	Def|_|Gen|_	5	det	_	-
+5	Alliierten	Alliierten	N	NN	_|Gen|_	3	gmod	_	-
+6	in	in	PREP	APPR	_	5	pp	_	-
+7	Dreilinden	Dreilinde	N	NN	_|_|_	6	pn	_	-
+8	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+9	jetzt	jetzt	ADV	ADV	_	12	adv	_	-
+10	unter	unter	PREP	APPR	_	12	objp	_	-
+11	Denkmalschutz	Denkmalschutz	N	NN	Masc|_|Sg	10	pn	_	-
+12	gestellt	stellen	V	VVPP	_	13	aux	_	-
+13	worden	werden	V	VAPP	_	8	aux	_	-
+14	.	.	$.	$.	_	0	root	_	-
+

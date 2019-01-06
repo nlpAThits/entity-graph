@@ -1,0 +1,28 @@
+1	Das	das	ART	_	_	2	DET	_	(1
+2	Konzert	Konzert	NN	_	_	3	SUBJ	_	1)
+3	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+4	abgesagt	ab#sagen	VVPP	_	_	3	AUX	_	_
+5	,	,	$,	_	_	4	-PUNCT-	_	_
+6	der	der	ART	_	_	7	DET	_	_
+7	Schaden	Schaden	NN	_	_	18	SUBJ	_	_
+8	nach	nach	APPR	_	_	18	PP	_	_
+9	Abschluß	Abschluß	NN	_	_	8	PN	_	_
+10	der	die	ART	_	_	12	DET	_	_
+11	dringendsten	dringendst	ADJA	_	_	12	ATTR	_	_
+12	Feudeleien	Feudelei	NN	_	_	9	GMOD	_	_
+13	auf	auf	APPR	_	_	18	OBJP	_	_
+14	etwa	etwa	ADV	_	_	16	ADV	_	_
+15	eine	eine	ART	_	_	16	DET	_	_
+16	Million	Million	NN	_	_	13	PN	_	_
+17	Mark	Mark	NN	_	_	16	APP	_	_
+18	geschätzt	schätzen	VVPP	_	_	3	KON	_	_
+19	;	;	$.	_	_	18	-PUNCT-	_	_
+
+1	die	die	ART	_	_	2	DET	_	_
+2	Ursache	Ursache	NN	_	_	3	SUBJ	_	_
+3	ist	sein	VAFIN	_	_	0	ROOT	_	_
+4	noch	noch	ADV	_	_	3	ADV	_	_
+5	völlig	völlig	ADJD	_	_	6	ADV	_	_
+6	ungeklärt	ungeklärt	ADJD	_	_	3	PRED	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+

@@ -1,0 +1,26 @@
+1	Studi-Stau	Studi-Stau	NN	_	_	5	SUBJ	_	_
+2	und	und	KON	_	_	1	KON	_	_
+3	finanzielle	finanziell	ADJA	_	_	4	ATTR	_	_
+4	Uni-Not	Uni-Not	NN	_	_	2	CJ	_	_
+5	erhitzen	erhitzen	VVFIN	_	_	0	ROOT	_	_
+6	in	in	APPR	_	_	5	PP	_	_
+7	Hamburg	Hamburg	NE	_	_	6	PN	_	_
+8	die	das	ART	_	_	9	DET	_	_
+9	Gemüter	Gemüt	NN	_	_	5	OBJA	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Ein	ein	ART	_	_	2	DET	_	_
+2	Sammelsurium	Sammelsurium	NN	_	_	7	SUBJ	_	_
+3	von	von	APPR	_	_	2	PP	_	_
+4	Ideen	Idee	NN	_	_	3	PN	_	_
+5	und	und	KON	_	_	4	KON	_	_
+6	Fragen	Frage	NN	_	_	5	CJ	_	_
+7	prägt	prägen	VVFIN	_	_	0	ROOT	_	_
+8	die	die	ART	_	_	9	DET	_	_
+9	Debatte	Debatte	NN	_	_	7	OBJA	_	_
+10	zwischen	zwischen	APPR	_	_	9	PP	_	_
+11	Politikern	Politiker	NN	_	_	10	PN	_	_
+12	und	und	KON	_	_	11	KON	_	_
+13	Hochschulen	Hochschule	NN	_	_	12	CJ	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+

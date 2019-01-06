@@ -1,0 +1,32 @@
+1	Gero	Gero	N	NE	Masc|Nom|Sg	0	root	_	-
+2	Lenhardt	Lenhardt	N	NE	Masc|Nom|Sg	1	app	_	-
+3	,	,	$,	$,	_	0	root	_	-
+4	54	54	CARD	CARD	_	2	kon	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	Soziologe	Soziologe	N	NN	Masc|Nom|Sg	1	kon	_	-
+7	,	,	$,	$,	_	0	root	_	-
+8	wissenschaftl	wissenschaftl	N	NE	Masc|Nom|Sg	1	app	_	-
+9	.	.	$.	$.	_	0	root	_	-
+
+1	Mitarbeiter	Mitarbeiter	N	NN	Masc|_|_	0	root	_	-
+2	am	an	PREP	APPRART	Dat	1	pp	_	-
+3	Max-Planck-Institut	Max-Planck-Institut	N	NN	Neut|Dat|Sg	2	pn	_	-
+4	für	für	PREP	APPR	Acc	3	pp	_	-
+5	Bildungsforschung	Bildungsforschung	N	NN	Fem|Acc|Sg	4	pn	_	-
+6	in	in	PREP	APPR	_	5	pp	_	-
+7	Berlin	Berlin	N	NE	_|_|Sg	6	pn	_	(0)
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	(0)
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	in	in	PREP	APPR	_	9	pp	_	-
+4	den	die	ART	ART	Def|_|_|_	5	det	_	-
+5	USA	USA	N	NE	_|_|_	3	pn	_	-
+6	sowie	sowie	KON	KON	_	3	kon	_	-
+7	in	in	PREP	APPR	_	6	cj	_	-
+8	Israel	Israel	N	NE	Neut|_|Sg	7	pn	_	-
+9	gelehrt	lehren	V	VVPP	_	2	aux	_	-
+10	und	und	KON	KON	_	9	kon	_	-
+11	geforscht	forschen	V	VVPP	_	10	cj	_	-
+12	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,45 @@
+1	Letzte	letzt	ADJA	_	_	2	ATTR	_	_
+2	Woche	Woche	NN	_	_	3	ZEIT	_	_
+3	erstaunte	erstaunen	VVFIN	_	_	0	ROOT	_	_
+4	die	die	ART	_	_	5	DET	_	_
+5	Meldung	Meldung	NN	_	_	3	SUBJ	_	_
+6	über	über	APPR	_	_	5	PP	_	_
+7	den	der	ART	_	_	8	DET	_	_
+8	Verkauf	Verkauf	NN	_	_	6	PN	_	_
+9	des	der	ART	_	_	11	DET	_	_
+10	traditionsreichen	traditionsreich	ADJA	_	_	11	ATTR	_	_
+11	Ex-DDR-Verlages	Ex-DDR-Verlag	NN	_	_	8	GMOD	_	_
+12	Volk	Volk	NN	_	_	11	APP	_	_
+13	und	und	KON	_	_	12	KON	_	_
+14	Welt	Welt	NN	_	_	13	CJ	_	_
+15	an	an	APPR	_	_	8	PP	_	_
+16	eine	eine	ART	_	_	20	DET	_	_
+17	völlig	völlig	ADJD	_	_	18	ADV	_	_
+18	unbekannte	unbekannt	ADJA	_	_	20	ATTR	_	_
+19	Münchner	Münchner	ADJA	_	_	20	ATTR	_	_
+20	Firma	Firma	NN	_	_	15	PN	_	_
+21	.	.	$.	_	_	20	-PUNCT-	_	_
+
+1	Drahtzieher	Drahtzieher	NN	_	_	2	SUBJ	_	_
+2	war	sein	VAFIN	_	_	0	ROOT	_	_
+3	die	die	ART	_	_	4	DET	_	(0
+4	Treuhand	Treuhand	NE	_	_	2	PRED	_	0)
+5	.	.	$.	_	_	4	-PUNCT-	_	_
+
+1	Sie	sie	PPER	_	_	2	SUBJ	_	(0)
+2	ist	sein	VAFIN	_	_	0	ROOT	_	_
+3	es	es	PPER	_	_	2	PRED	_	_
+4	auch	auch	ADV	_	_	2	ADV	_	_
+5	,	,	$,	_	_	4	-PUNCT-	_	_
+6	die	die	PRELS	_	_	15	SUBJ	_	(0)
+7	ihre	ihr	PPOSAT	_	_	8	DET	_	(0)
+8	Finger	Finger	NN	_	_	15	OBJA	_	_
+9	begehrlich	begehrlich	ADJD	_	_	15	ADV	_	_
+10	nach	nach	APPR	_	_	15	PP	_	_
+11	dem	das	ART	_	_	14	DET	_	_
+12	Ostberliner	Ostberliner	ADJA	_	_	14	ATTR	_	_
+13	Henschel	Henschel	NE	_	_	10	PN	_	_
+14	Schauspiel	Schauspiel	NN	_	_	13	APP	_	_
+15	ausstreckt	aus#strecken	VVFIN	_	_	1	REL	_	_
+16	.	.	$.	_	_	15	-PUNCT-	_	_
+

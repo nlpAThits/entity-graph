@@ -1,0 +1,50 @@
+1	Gestern	gestern	ADV	_	_	2	ADV	_	_
+2	brannte	ab#brennen	VVFIN	_	_	0	ROOT	_	_
+3	ein	ein	ART	_	_	4	DET	_	_
+4	Jugendzentrum	Jugendzentrum	NN	_	_	2	SUBJ	_	_
+5	in	in	APPR	_	_	4	PP	_	_
+6	Hannover	Hannover	NE	_	_	5	PN	_	(0)
+7	bis	bis	APPR	_	_	2	PP	_	_
+8	auf	auf	APPR	_	_	7	PP	_	_
+9	die	die	ART	_	_	10	DET	_	_
+10	Grundmauern	Grundmauer	NN	_	_	8	PN	_	_
+11	ab	_	PTKVZ	_	_	2	AVZ	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Verletzt	verletzen	VVPP	_	_	2	AUX	_	_
+2	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+3	jedoch	jedoch	ADV	_	_	1	ADV	_	_
+4	niemand	niemand	PIS	_	_	2	SUBJ	_	_
+5	.	.	$.	_	_	4	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	2	DET	_	_
+2	Brandursache	Brandursache	NN	_	_	3	SUBJ	_	_
+3	ist	sein	VAFIN	_	_	0	ROOT	_	_
+4	nach	nach	APPR	_	_	3	PP	_	_
+5	Angaben	Angabe	NN	_	_	4	PN	_	_
+6	der	die	ART	_	_	7	DET	_	_
+7	Polizei	Polizei	NN	_	_	5	GMOD	_	_
+8	noch	noch	ADV	_	_	3	ADV	_	_
+9	unklar	unklar	ADJD	_	_	3	PRED	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Rund	rund	ADV	_	_	3	ADV	_	_
+2	50	50	CARD	_	_	3	ATTR	_	_
+3	Feuerwehrleute	Feuerwehrleute	NN	_	_	4	SUBJ	_	_
+4	waren	sein	VAFIN	_	_	0	ROOT	_	_
+5	bei	bei	APPR	_	_	4	PP	_	_
+6	den	die	ART	_	_	7	DET	_	_
+7	Löscharbeiten	Löscharbeit	NN	_	_	5	PN	_	_
+8	im	in	APPRART	_	_	4	PRED	_	_
+9	Einsatz	Einsatz	NN	_	_	8	PN	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	2	DET	_	_
+2	Nachlöscharbeiten	Nachlöscharbeit	NN	_	_	3	SUBJ	_	_
+3	dauerten	an#dauern	VVFIN	_	_	0	ROOT	_	_
+4	gestern	gestern	ADV	_	_	3	ADV	_	_
+5	nachmittag	nachmittag	ADV	_	_	4	ADV	_	_
+6	noch	noch	ADV	_	_	3	ADV	_	_
+7	an	_	PTKVZ	_	_	3	AVZ	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+

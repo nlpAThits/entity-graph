@@ -1,0 +1,46 @@
+1	Filmstar	Filmstar	N	NN	Masc|Nom|Sg	4	subj	_	-
+2	Richard	Richard	N	NE	Masc|Nom|Sg	1	app	_	-
+3	Gere	Gere	N	NE	Masc|Nom|Sg	2	app	_	-
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+5	am	an	PREP	APPRART	Dat	11	pp	_	-
+6	Mittwoch	Mittwoch	N	NN	Masc|Dat|Sg	5	pn	_	-
+7	zwei	zwei	CARD	CARD	_	8	attr	_	-
+8	Flüchtlingslager	Flüchtlingslager	N	NN	Neut|_|Pl	11	obja	_	-
+9	in	in	PREP	APPR	_	8	pp	_	-
+10	Makedonien	Makedonien	N	NE	Neut|_|Sg	9	pn	_	-
+11	besucht	besuchen	V	VVPP	_	4	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Damit	Damit	PROAV	PROAV	_	2	pp	_	-
+2	will	wollen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	-
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	(0
+4	Filmstar	Filmstar	N	NN	Masc|Nom|Sg	2	subj	_	0)
+5	seine	seine	ART	PPOSAT	Fem|_|Sg	6	det	_	(0)
+6	Unterstützung	Unterstützung	N	NN	Fem|_|Sg	11	obja	_	-
+7	für	für	PREP	APPR	Acc	6	pp	_	-
+8	die	die	ART	ART	Def|_|Acc|Pl	10	det	_	-
+9	vertriebenen	vertrieben	ADJA	ADJA	Pos|_|Acc|Pl|Wk|	10	attr	_	-
+10	Kosovo-Albaner	Kosovo-Albaner	N	NN	_|Acc|Pl	7	pn	_	-
+11	ausdrücken	ausdrücken	V	VVINF	_	2	aux	_	-
+12	.	.	$.	$.	_	0	root	_	-
+
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	(0
+2	Filmstar	Filmstar	N	NN	Masc|Nom|Sg	3	subj	_	0)
+3	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	-
+4	von	von	PREP	APPR	_	9	pp	_	-
+5	zahlreichen	zahlreich	ADJA	ADJA	Pos|Masc|_|_|_|	6	attr	_	-
+6	Journalisten	Journalist	N	NN	Masc|_|_	4	pn	_	-
+7	und	und	KON	KON	_	6	kon	_	-
+8	Fotografen	Fotograf	N	NN	Masc|_|_	7	cj	_	-
+9	begleitet	begleiten	V	VVPP	_	3	aux	_	-
+10	,	,	$,	$,	_	0	root	_	-
+11	während	während	KOUS	KOUS	_	18	konj	_	-
+12	er	er	PRO	PPER	3|Sg|Masc|Nom	18	subj	_	(0)
+13	die	die	ART	ART	Def|Masc|_|Pl	14	det	_	(1
+14	Flüchtlinge	Flüchtling	N	NN	Masc|_|Pl	18	obja	_	1)
+15	nach	nach	PREP	APPR	Dat	18	pp	_	-
+16	ihrem	ihre	ART	PPOSAT	Neut|Dat|Sg	17	det	_	(1)
+17	Schicksal	Schicksal	N	NN	Neut|Dat|Sg	15	pn	_	-
+18	befragte	befragen	V	VVFIN	3|Sg|Past|_	3	neb	_	-
+19	.	.	$.	$.	_	0	root	_	-
+

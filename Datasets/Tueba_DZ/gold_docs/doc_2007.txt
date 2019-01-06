@@ -1,0 +1,59 @@
+1	Pessimismus	Pessimismus	NN	_	_	0	ROOT	_	_
+2	.	.	$.	_	_	1	-PUNCT-	_	_
+
+1	Sagenhafte	sagenhaft	ADJA	_	_	3	ATTR	_	_
+2	75	75	CARD	_	_	3	ATTR	_	_
+3	Prozent	Prozent	NN	_	_	6	SUBJ	_	_
+4	der	der	ART	_	_	5	DET	_	_
+5	Bundesbürger	Bundesbürger	NN	_	_	3	GMOD	_	_
+6	sehen	sehen	VVFIN	_	_	0	ROOT	_	_
+7	mit	mit	APPR	_	_	6	PP	_	_
+8	Optimismus	Optimismus	NN	_	_	7	PN	_	_
+9	in	in	APPR	_	_	6	PP	_	_
+10	die	die	ART	_	_	11	DET	_	_
+11	Zukunft	Zukunft	NN	_	_	9	PN	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Optimismus	Optimismus	NN	_	_	0	ROOT	_	_
+2	.	.	$.	_	_	1	-PUNCT-	_	_
+
+1	74	74	CARD	_	_	2	ATTR	_	_
+2	Prozent	Prozent	NN	_	_	14	SUBJ	_	_
+3	aller	alle	PIDAT	_	_	5	DET	_	_
+4	"	"	$(	_	_	5	-PUNCT-	_	_
+5	Meinungsführer	Meinungsführer	NN	_	_	2	GMOD	_	_
+6	"	"	$(	_	_	5	-PUNCT-	_	_
+7	-	-	$(	_	_	5	-PUNCT-	_	_
+8	Politiker	Politiker	NN	_	_	5	APP	_	_
+9	,	,	$,	_	_	8	-PUNCT-	_	_
+10	Gewerkschafter	Gewerkschafter	NN	_	_	8	KON	_	_
+11	und	und	KON	_	_	10	KON	_	_
+12	Journalisten	Journalist	NN	_	_	11	CJ	_	_
+13	-	-	$(	_	_	12	-PUNCT-	_	_
+14	sehen	sehen	VVFIN	_	_	0	ROOT	_	_
+15	für	für	APPR	_	_	14	PP	_	_
+16	Deutschlands	Deutschland	NE	_	_	17	GMOD	_	_
+17	Zukunft	Zukunft	NN	_	_	15	PN	_	_
+18	dagegen	dagegen	PROP	_	_	14	PP	_	_
+19	eher	eher	ADV	_	_	14	ADV	_	_
+20	schwarz	schwarz	ADJD	_	_	14	ADV	_	_
+21	.	.	$.	_	_	20	-PUNCT-	_	_
+
+1	Geld	Geld	NN	_	_	0	ROOT	_	_
+2	.	.	$.	_	_	1	-PUNCT-	_	_
+
+1	51	51	CARD	_	_	2	ATTR	_	_
+2	Prozent	Prozent	NN	_	_	6	SUBJ	_	_
+3	aller	alle	PIDAT	_	_	5	DET	_	_
+4	deutschen	deutsch	ADJA	_	_	5	ATTR	_	_
+5	Singles	Single	NN	_	_	2	GMOD	_	_
+6	kommen	aus#kommen	VVFIN	_	_	0	ROOT	_	_
+7	damit	damit	PROP	_	_	6	OBJP	_	_
+8	nicht	nicht	PTKNEG	_	_	6	ADV	_	_
+9	aus	_	PTKVZ	_	_	6	AVZ	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Kein	kein	PIAT	_	_	2	DET	_	_
+2	Geld	Geld	NN	_	_	0	ROOT	_	_
+3	.	.	$.	_	_	2	-PUNCT-	_	_
+

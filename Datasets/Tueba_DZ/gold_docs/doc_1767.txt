@@ -1,0 +1,64 @@
+1	Nun	nun	ADV	_	_	2	ADV	_	_
+2	soll	sollen%aux	VMFIN	_	_	0	ROOT	_	_
+3	sie	sie	PPER	_	_	2	SUBJ	_	_
+4	also	also	ADV	_	_	11	ADV	_	_
+5	offiziell	offiziell	ADJD	_	_	11	ADV	_	_
+6	und	und	KON	_	_	5	KON	_	_
+7	endgültig	endgültig	ADJD	_	_	6	CJ	_	_
+8	mit	mit	APPR	_	_	11	OBJP	_	_
+9	der	die	ART	_	_	10	DET	_	(0
+10	Nato	Nato	NE	_	_	8	PN	_	0)
+11	gehen	gehen	VVINF	_	_	2	AUX	_	_
+12	,	,	$,	_	_	11	-PUNCT-	_	_
+13	die	die	ART	_	_	14	DET	_	(1
+14	Bundeswehr	Bundeswehr	NN	_	_	3	-UNKNOWN-	_	1)
+15	.	.	$.	_	_	14	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	3	DET	_	_
+2	deutsche	deutsch	ADJA	_	_	3	ATTR	_	_
+3	Bundeskanzler	Bundeskanzler	NN	_	_	4	SUBJ	_	_
+4	kann	können%aux	VMFIN	_	_	0	ROOT	_	_
+5	endlich	endlich	ADV	_	_	11	ADV	_	_
+6	wieder	wieder	ADV	_	_	11	ADV	_	_
+7	die	die	ART	_	_	8	DET	_	(1
+8	Armee	Armee	NN	_	_	11	OBJA	_	1)
+9	zur	zu	APPRART	_	_	11	PP	_	_
+10	Außenpolitik	Außenpolitik	NN	_	_	9	PN	_	(2)
+11	benutzen	benutzen	VVINF	_	_	4	AUX	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Dazu	dazu	PROP	_	_	2	PP	_	_
+2	fällt	ein#fallen	VVFIN	_	_	0	ROOT	_	_
+3	mir	ich	PPER	_	_	2	OBJD	_	_
+4	nur	nur	ADV	_	_	2	ADV	_	_
+5	der	der	ART	_	_	6	DET	_	_
+6	Spruch	Spruch	NN	_	_	2	SUBJ	_	_
+7	auf	auf	APPR	_	_	6	PP	_	_
+8	einem	ein	ART	_	_	9	DET	_	(3
+9	Button	Button	NN	_	_	7	PN	_	3)
+10	ein	_	PTKVZ	_	_	2	AVZ	_	_
+11	,	,	$,	_	_	10	-PUNCT-	_	_
+12	der	der	PRELS	_	_	17	SUBJ	_	(3)
+13	hier	hier	ADV	_	_	16	ADV	_	_
+14	in	in	APPR	_	_	13	PP	_	_
+15	Missouri	Missouri	NE	_	_	14	PN	_	(4)
+16	verteilt	verteilen	VVPP	_	_	17	AUX	_	_
+17	wird	werden%passiv	VAFIN	_	_	9	REL	_	_
+18	:	:	$.	_	_	17	-PUNCT-	_	_
+
+1	"	"	$(	_	_	2	-PUNCT-	_	_
+2	Einen	ein	ART	_	_	3	DET	_	_
+3	Menschen	Mensch	NN	_	_	4	OBJA	_	_
+4	töten	töten	VVINF	_	_	5	SUBJC	_	_
+5	ist	sein	VAFIN	_	_	0	ROOT	_	_
+6	Mord	Mord	NN	_	_	5	PRED	_	_
+7	.	.	$.	_	_	6	-PUNCT-	_	_
+
+1	Hunderttausend	hunderttausend	CARD	_	_	2	ATTR	_	_
+2	Menschen	Mensch	NN	_	_	3	OBJA	_	_
+3	töten	töten	VVINF	_	_	4	SUBJC	_	_
+4	ist	sein	VAFIN	_	_	0	ROOT	_	_
+5	Außenpolitik	Außenpolitik	NN	_	_	4	PRED	_	(2)
+6	.	.	$.	_	_	5	-PUNCT-	_	_
+7	"	"	$(	_	_	5	-PUNCT-	_	_
+

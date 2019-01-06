@@ -1,0 +1,36 @@
+1	München	München	N	NE	_	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	dpa	dpa	N	NE	_	1	app	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	In	in	PREP	APPR	_	12	pp	_	-
+7	der	die	ART	ART	Def|Fem|Gen|Sg	8	det	_	-
+8	Münchner	Münchner	N	NN	Fem|_|Sg	6	pn	_	-
+9	"	"	$(	$(	_	0	root	_	-
+10	Käseschachtel-Affäre	Käseschachtel-Affäre	N	NN	Fem|_|Sg	8	app	_	-
+11	"	"	$(	$(	_	0	root	_	-
+12	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+13	die	die	ART	ART	Def|Fem|Nom|Sg	14	det	_	-
+14	Staatsanwaltschaft	Staatsanwaltschaft	N	NN	Fem|Nom|Sg	12	subj	_	-
+15	Anklage	Anklage	N	NN	Fem|_|Sg	22	obja	_	-
+16	gegen	gegen	PREP	APPR	Acc	15	pp	_	-
+17	den	die	ART	ART	Def|Masc|Acc|Sg	19	det	_	-
+18	zurückgetretenen	zurückgetreten	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	19	attr	_	-
+19	Chef	Chef	N	NN	Masc|Acc|Sg	16	pn	_	-
+20	der	die	ART	ART	Def|Fem|Gen|Sg	21	det	_	-
+21	Rathaus-CSU	Rathaus-CSU	N	NN	Fem|Gen|Sg	19	gmod	_	-
+22	erhoben	erheben	V	VVPP	_	12	aux	_	-
+23	.	.	$.	$.	_	0	root	_	-
+
+1	Bletschacher	Bletschacher	N	NE	_|Nom|Sg	2	subj	_	-
+2	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	sich	sie	PRO	PRF	3|_|_	9	obja	_	-
+4	wegen	wegen	PREP	APPR	_	9	objp	_	-
+5	Untreue	Untreue	N	NN	Fem|_|Sg	4	pn	_	-
+6	in	in	PREP	APPR	Dat	5	pp	_	-
+7	86	86	CARD	CARD	_	8	attr	_	-
+8	Einzelfällen	Einzelfall	N	NN	Masc|Dat|Pl	6	pn	_	-
+9	verantworten	verantworten	V	VVINF	_	10	aux	_	-
+10	müssen	müssen	V	VMINF	_	2	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

@@ -1,0 +1,38 @@
+1	Gestern	gestern	ADV	_	_	2	ADV	_	_
+2	besiegte	besiegen	VVFIN	_	_	0	ROOT	_	_
+3	der	der	ART	_	_	4	DET	_	_
+4	VfB	VfB	NN	_	_	2	SUBJ	_	_
+5	Lübeck	Lübeck	NE	_	_	4	APP	_	_
+6	den	der	ART	_	_	7	DET	_	_
+7	VfB	VfB	NN	_	_	2	OBJA	_	_
+8	Oldenburg	Oldenburg	NE	_	_	7	APP	_	_
+9	mit	mit	APPR	_	_	2	PP	_	_
+10	3:0	3:0	CARD	_	_	9	PN	_	_
+11	.	.	$.	_	_	10	-PUNCT-	_	_
+
+1	Der	der	ART	_	_	3	DET	_	_
+2	Lüneburger	Lüneburger	ADJA	_	_	3	ATTR	_	_
+3	SK	SK	NN	_	_	4	SUBJ	_	_
+4	unterlag	unterliegen	VVFIN	_	_	0	ROOT	_	_
+5	dem	der	ART	_	_	6	DET	_	_
+6	BV	BV	NN	_	_	4	OBJD	_	_
+7	Cloppenburg	Cloppenburg	NE	_	_	6	APP	_	_
+8	mit	mit	APPR	_	_	4	PP	_	_
+9	1:2	1:2	CARD	_	_	8	PN	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Die	der	ART	_	_	2	DET	_	_
+2	Amateure	Amateur	NN	_	_	5	SUBJ	_	_
+3	des	der	ART	_	_	4	DET	_	_
+4	HSV	HSV	NE	_	_	2	GMOD	_	_
+5	setzten	durch#setzen	VVFIN	_	_	0	ROOT	_	_
+6	sich	#refl	PRF	_	_	5	OBJA	_	_
+7	mit	mit	APPR	_	_	5	PP	_	_
+8	3:1	3:1	CARD	_	_	7	PN	_	_
+9	gegen	gegen	APPR	_	_	5	PP	_	_
+10	die	die	ART	_	_	11	DET	_	_
+11	Spfr.	Spfr.	NN	_	_	9	PN	_	_
+12	Ricklingen	Ricklingen	NE	_	_	11	APP	_	_
+13	durch	_	PTKVZ	_	_	5	AVZ	_	_
+14	.	.	$.	_	_	13	-PUNCT-	_	_
+

@@ -1,0 +1,72 @@
+1	Der	der	ART	_	_	3	DET	_	(0
+2	neue	neu	ADJA	_	_	3	ATTR	_	_
+3	Vorsitzende	Vorsitzender	NN	_	_	9	SUBJ	_	_
+4	der	die	ART	_	_	5	DET	_	(1
+5	Gewerkschaft	Gewerkschaft	NN	_	_	3	GMOD	_	_
+6	Erziehung	Erziehung	NN	_	_	5	APP	_	_
+7	und	und	KON	_	_	6	KON	_	_
+8	Wissenschaft	Wissenschaft	NN	_	_	7	CJ	_	0)|1)
+9	heißt	heißen	VVFIN	_	_	0	ROOT	_	_
+10	Ulli	Ulli	NE	_	_	9	PRED	_	_
+11	Thöne	Thöne	NE	_	_	10	APP	_	_
+12	.	.	$.	_	_	11	-PUNCT-	_	_
+
+1	Er	er	PPER	_	_	2	SUBJ	_	(0)
+2	wurde	werden%passiv	VAFIN	_	_	0	ROOT	_	_
+3	gestern	gestern	ADV	_	_	9	ADV	_	_
+4	mit	mit	APPR	_	_	9	PP	_	_
+5	217	217	CARD	_	_	4	PN	_	_
+6	von	von	APPR	_	_	5	PP	_	_
+7	355	355	CARD	_	_	8	ATTR	_	_
+8	Stimmen	Stimme	NN	_	_	6	PN	_	_
+9	gewählt	wählen	VVPP	_	_	2	AUX	_	_
+10	.	.	$.	_	_	9	-PUNCT-	_	_
+
+1	Die	die	ART	_	_	4	DET	_	(2
+2	bislang	bislang	ADV	_	_	3	ADV	_	_
+3	stellvertretende	stellvertretend	ADJA	_	_	4	ATTR	_	_
+4	Vorsitzende	Vorsitzende	NN	_	_	18	SUBJ	_	_
+5	der	die	ART	_	_	6	DET	_	(1
+6	GEW	GEW	NE	_	_	4	GMOD	_	1)
+7	,	,	$,	_	_	6	-PUNCT-	_	_
+8	Brigitte	Brigitte	NE	_	_	4	APP	_	_
+9	Reich	Reich	NE	_	_	8	APP	_	2)
+10	,	,	$,	_	_	9	-PUNCT-	_	_
+11	die	die	PRELS	_	_	16	SUBJ	_	(2)
+12	ebenfalls	ebenfalls	ADV	_	_	16	ADV	_	_
+13	für	für	APPR	_	_	16	PP	_	_
+14	den	der	ART	_	_	15	DET	_	_
+15	Vorsitz	Vorsitz	NN	_	_	13	PN	_	_
+16	kandidierte	kandidieren	VVFIN	_	_	9	REL	_	_
+17	,	,	$,	_	_	16	-PUNCT-	_	_
+18	bekam	bekommen	VVFIN	_	_	0	ROOT	_	_
+19	nur	nur	ADV	_	_	18	ADV	_	_
+20	131	131	CARD	_	_	21	ATTR	_	_
+21	Stimmen	Stimme	NN	_	_	18	OBJA	_	_
+22	.	.	$.	_	_	21	-PUNCT-	_	_
+
+1	Thöne	Thöne	NE	_	_	2	SUBJ	_	(0)
+2	löst	ab#lösen	VVFIN	_	_	0	ROOT	_	_
+3	damit	damit	PROP	_	_	2	PP	_	_
+4	Erhard	Erhard	NE	_	_	2	OBJA	_	(3
+5	Laube	Laube	NE	_	_	4	APP	_	3)
+6	ab	_	PTKVZ	_	_	2	AVZ	_	_
+7	,	,	$,	_	_	6	-PUNCT-	_	_
+8	der	der	PRELS	_	_	12	SUBJ	_	(3)
+9	zehn	zehn	CARD	_	_	10	ATTR	_	_
+10	Jahre	Jahr	NN	_	_	12	ZEIT	_	_
+11	GEW-Vorsitzender	GEW-Vorsitzender	NN	_	_	12	PRED	_	_
+12	war	sein	VAFIN	_	_	5	REL	_	_
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+
+1	Thöne	Thöne	NE	_	_	2	SUBJ	_	(0)
+2	ist	sein	VAFIN	_	_	0	ROOT	_	_
+3	Berufsschullehrer	Berufsschullehrer	NN	_	_	2	PRED	_	_
+4	und	und	KON	_	_	2	KON	_	_
+5	gilt	gelten	VVFIN	_	_	4	CJ	_	_
+6	als	als	KOKOM	_	_	5	KOM	_	_
+7	Finanzspezialist	Finanzspezialist	NN	_	_	6	CJ	_	_
+8	.	.	$.	_	_	7	-PUNCT-	_	_
+
+1	taz	taz	NE	_	_	0	ROOT	_	_
+

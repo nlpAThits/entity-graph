@@ -1,0 +1,42 @@
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	3	det	_	-
+2	brutale	brutal	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	3	attr	_	-
+3	Überfall	Überfall	N	NN	Masc|Nom|Sg	16	subj	_	-
+4	auf	auf	PREP	APPR	Acc	3	pp	_	-
+5	eine	eine	ART	ART	Indef|Fem|Acc|Sg	9	det	_	-
+6	83	83	CARD	CARD	_	7	attr	_	-
+7	Jahre	Jahr	N	NN	Neut|_|Pl	8	grad	_	-
+8	alte	alt	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	9	attr	_	-
+9	Rentnerin	Rentnerin	N	NN	Fem|Acc|Sg	4	pn	_	-
+10	vom	von	PREP	APPRART	Dat	9	pp	_	-
+11	vergangenen	vergangen	ADJA	ADJA	Pos|_|Dat|Sg|Wk|	12	attr	_	-
+12	Sonntag	Sonntag	N	NN	_|Dat|Sg	10	pn	_	-
+13	in	in	PREP	APPR	_	12	pp	_	-
+14	St.	St.	N	NE	Masc|_|Sg	13	pn	_	-
+15	Georg	Georg	N	NE	Masc|_|Sg	14	app	_	-
+16	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+17	aufgeklärt	aufklären	V	VVPP	_	16	aux	_	-
+18	.	.	$.	$.	_	0	root	_	-
+
+1	Wie	Wie	PWAV	PWAV	_	5	adv	_	-
+2	die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	-
+3	Polizei	Polizei	N	NN	Fem|Nom|Sg	5	subj	_	-
+4	gestern	gestern	ADV	ADV	_	5	adv	_	-
+5	mitteilte	mitteilen	V	VVFIN	3|Sg|Past|_	7	subjc	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	wurden	werden	V	VAFIN	_|Pl|Past|Ind	0	root	_	-
+8	zwei	zwei	CARD	CARD	_	14	attr	_	-
+9	17	17	CARD	CARD	_	14	attr	_	-
+10	und	und	KON	KON	_	9	kon	_	-
+11	18	18	CARD	CARD	_	10	cj	_	-
+12	Jahre	Jahr	N	NN	Neut|_|_	13	grad	_	-
+13	alte	alt	ADJA	ADJA	Pos|Neut|_|Pl|St|	14	attr	_	-
+14	Mädchen	Mädchen	N	NN	Neut|_|Pl	15	grad	_	-
+15	vorläufig	vorläufig	ADV	ADJD	Pos|	16	adv	_	-
+16	festgenommen	festnehmen	V	VVPP	_	7	aux	_	-
+17	.	.	$.	$.	_	0	root	_	-
+
+1	Beide	beide	PRO	PIS	_|Nom|Pl	2	subj	_	-
+2	seien	sein	V	VAFIN	3|Pl|Pres|Subj	0	root	_	-
+3	drogenabhängig	drogenabhängig	ADV	ADJD	Pos|	2	pred	_	-
+4	.	.	$.	$.	_	0	root	_	-
+

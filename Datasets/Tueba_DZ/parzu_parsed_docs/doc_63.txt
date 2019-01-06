@@ -1,0 +1,46 @@
+1	Berlin	Berlin	N	NE	_|_|Sg	0	root	_	-
+2	(	(	$(	$(	_	0	root	_	-
+3	taz	taz	N	NE	_	0	root	_	-
+4	)	)	$(	$(	_	0	root	_	-
+5	-	-	$(	$(	_	0	root	_	-
+6	Zu	zu	PREP	APPR	Dat	11	objp	_	-
+7	einem	eine	ART	ART	Indef|Neut|Dat|Sg	9	det	_	-
+8	dreitägigen	dreitägig	ADJA	ADJA	Pos|Neut|Dat|Sg|Wk|	9	attr	_	-
+9	Bundestreffen	Bundestreffen	N	NN	Neut|Dat|Sg	6	pn	_	-
+10	Mittelamerika	Mittelamerika	N	NE	Neut|Dat|Sg	9	app	_	-
+11	lädt	laden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	-
+12	das	die	ART	ART	Def|Neut|Nom|Sg	13	det	_	-
+13	Informationsbüro	Informationsbüro	N	NN	Neut|Nom|Sg	11	subj	_	-
+14	Nicaragua	Nicaragua	N	NE	Neut|Nom|Sg	13	app	_	-
+15	ab	ab	PREP	APPR	Dat	11	pp	_	-
+16	heute	heute	ADV	ADV	_	15	adv	_	-
+17	nach	nach	PREP	APPR	Dat	11	pp	_	-
+18	Frankfurt	Frankfurt	N	NE	Neut|Dat|Sg	17	pn	_	-
+19	/	/	$(	$(	_	0	root	_	-
+20	Main	Main	N	NE	Masc|_|Sg	11	kon	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
+1	Zu	zu	PREP	APPR	Dat	3	pp	_	-
+2	Gast	Gast	N	NN	Masc|Dat|Sg	1	pn	_	-
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+4	unter	unter	PREP	APPR	_	3	pp	_	-
+5	anderen	andere	PRO	PIS	_|_|_	4	pn	_	-
+6	Vilma	Vilma	N	NE	Fem|Nom|Sg	3	subj	_	-
+7	Nunez	Nunez	N	NE	Fem|Nom|Sg	6	app	_	-
+8	,	,	$,	$,	_	0	root	_	-
+9	Präsidentin	Präsidentin	N	NN	Fem|Nom|Sg	7	app	_	-
+10	der	die	ART	ART	Def|Fem|Gen|Sg	12	det	_	-
+11	nicaraguanischen	nicaraguanisch	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	12	attr	_	-
+12	Menschenrechtsorganisation	Menschenrechtsorganisation	N	NN	Fem|Gen|Sg	9	gmod	_	-
+13	CENIDH	CENIDH	N	NE	Fem|Gen|Sg	12	app	_	-
+14	.	.	$.	$.	_	0	root	_	-
+
+1	Ort	Ort	N	NN	_|_|Sg	0	root	_	-
+2	:	\:	$.	$.	_	0	root	_	-
+3	Haus	Haus	N	NN	Neut|_|Sg	0	root	_	-
+4	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	-
+5	Jugend	Jugend	N	NN	Fem|Gen|Sg	3	gmod	_	-
+6	,	,	$,	$,	_	0	root	_	-
+7	Deutschherrenufer	Deutschherrenufer	N	NN	Neut|_|_	0	root	_	-
+8	12.	12.	ADJA	ADJA	_|_|_|_|_|	0	root	_	-
+

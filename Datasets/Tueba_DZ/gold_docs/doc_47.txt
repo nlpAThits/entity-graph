@@ -1,0 +1,35 @@
+1	Verstärkung	Verstärkung	NN	_	_	0	ROOT	_	_
+2	für	für	APPR	_	_	1	PP	_	_
+3	St.	St.	NE	_	_	5	GMOD	_	(0
+4	Paulis	Pauli	NE	_	_	3	APP	_	0)
+5	Profis	Profi	NN	_	_	2	PN	_	_
+6	:	:	$.	_	_	5	-PUNCT-	_	_
+7	Der	der	ART	_	_	8	DET	_	(0
+8	Verein	Verein	NN	_	_	9	SUBJ	_	0)
+9	erweitert	erweitern	VVFIN	_	_	0	ROOT	_	_
+10	seinen	sein	PPOSAT	_	_	11	DET	_	(0)
+11	Zweitliga-Kader	Zweitliga-Kader	NN	_	_	9	OBJA	_	_
+12	in	in	APPR	_	_	9	PP	_	_
+13	der	die	ART	_	_	15	DET	_	_
+14	nächsten	nächst	ADJA	_	_	15	ATTR	_	_
+15	Saison	Saison	NN	_	_	12	PN	_	_
+16	um	um	APPR	_	_	9	PP	_	_
+17	Vertragsamateur	Vertragsamateur	NN	_	_	16	PN	_	(1
+18	Piotr	Piotr	NE	_	_	17	APP	_	_
+19	Staczek	Staczek	NE	_	_	18	APP	_	1)
+20	.	.	$.	_	_	19	-PUNCT-	_	_
+
+1	Bislang	bislang	ADV	_	_	2	ADV	_	_
+2	spielt	spielen	VVFIN	_	_	0	ROOT	_	_
+3	der	der	ART	_	_	7	DET	_	(1
+4	20	20	CARD	_	_	5	ATTR	_	_
+5	Jahre	Jahr	NN	_	_	6	GRAD	_	_
+6	alte	alt	ADJA	_	_	7	ATTR	_	_
+7	Verteidiger	Verteidiger	NN	_	_	2	SUBJ	_	1)
+8	in	in	APPR	_	_	2	PP	_	_
+9	der	die	ART	_	_	10	DET	_	_
+10	Amateur-Mannschaft	Amateur-Mannschaft	NN	_	_	8	PN	_	_
+11	des	der	ART	_	_	12	DET	_	(0
+12	Vereins	Verein	NN	_	_	10	GMOD	_	0)
+13	.	.	$.	_	_	12	-PUNCT-	_	_
+

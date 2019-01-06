@@ -1,0 +1,40 @@
+1	Daß	daß	KOUS	KOUS	_	15	konj	_	-
+2	die	die	ART	ART	Def|Fem|Nom|Sg	3	det	_	-
+3	Buchmesse-Empfehlung	Buchmesse-Empfehlung	N	NN	Fem|Nom|Sg	15	subj	_	-
+4	Julian	Julian	N	NE	Masc|Gen|Sg	3	gmod	_	-
+5	Barnes	Barne	N	NE	Masc|Gen|Sg	4	app	_	-
+6	'	'	$(	$(	_	0	root	_	-
+7	am	an	PREP	APPRART	Dat	14	pp	_	-
+8	Samstag	Samstag	N	NN	_|Dat|Sg	7	pn	_	-
+9	aus	aus	PREP	APPR	Dat	14	pp	_	-
+10	Gründen	Grund	N	NN	_|Dat|_	9	pn	_	-
+11	des	die	ART	ART	Def|Masc|Gen|Sg	12	det	_	-
+12	Jugendschutzes	Jugendschutz	N	NN	Masc|Gen|Sg	10	gmod	_	-
+13	nicht	nicht	PTKNEG	PTKNEG	_	14	adv	_	-
+14	übersetzt	übersetzen	V	VVPP	_	15	aux	_	-
+15	wurde	werden	V	VAFIN	3|Sg|Past|Ind	17	subjc	_	-
+16	,	,	$,	$,	_	0	root	_	-
+17	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	-
+18	in	in	PREP	APPR	_	17	pp	_	-
+19	Ordnung	Ordnung	N	NN	Fem|_|Sg	18	pn	_	-
+20	.	.	$.	$.	_	0	root	_	-
+
+1	Doch	doch	KON	KON	_	0	root	_	-
+2	das	die	PRO	PDS	Neut|Nom|Sg	3	subj	_	-
+3	schützt	schützen	V	VVFIN	3|Sg|Pres|Ind	1	cj	_	-
+4	natürlich	natürlich	ADV	ADJD	Pos|	3	adv	_	-
+5	nicht	nicht	PTKNEG	PTKNEG	_	3	adv	_	-
+6	vorm	vor	PREP	APPRART	Dat	3	pp	_	-
+7	Fehlerteufel	Fehlerteufel	N	NN	Masc|Dat|Sg	6	pn	_	-
+8	.	.	$.	$.	_	0	root	_	-
+
+1	Oder	oder	KON	KON	_	0	root	_	-
+2	was	was	PRO	PWS	Neut|Nom|Sg	8	pred	_	-
+3	sollen	sollen	V	VMFIN	3|Pl|Pres|_	1	cj	_	-
+4	"	"	$(	$(	_	0	root	_	-
+5	convenig	convenig	FM	FM	_|Nom|Pl	3	subj	_	-
+6	professions	professions	FM	FM	_|Nom|Pl	5	app	_	-
+7	"	"	$(	$(	_	0	root	_	-
+8	sein	sein	V	VAINF	_	3	aux	_	-
+9	?	?	$.	$.	_	0	root	_	-
+

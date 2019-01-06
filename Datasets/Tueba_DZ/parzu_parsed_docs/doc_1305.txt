@@ -1,0 +1,34 @@
+1	Einen	ein	ART	ART	Indef|Masc|Acc|Sg	3	det	_	-
+2	einträglichen	einträglich	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	3	attr	_	-
+3	Ferienjob	Ferienjob	N	NN	Masc|Acc|Sg	10	obja	_	-
+4	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	-
+5	zwei	zwei	CARD	CARD	_	6	attr	_	-
+6	Jugendliche	Jugendliche	N	NN	_|Nom|Pl	4	subj	_	-
+7	im	in	PREP	APPRART	Dat	10	pp	_	-
+8	kanadischen	kanadisch	ADJA	ADJA	Pos|_|Dat|_|_|	9	attr	_	-
+9	Winnipeg	Winnipeg	N	NN	_|Dat|_	7	pn	_	-
+10	entdeckt	entdecken	V	VVPP	_	4	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+
+1	Von	von	PREP	APPR	_	8	pp	_	-
+2	sechs	sechs	CARD	CARD	_	3	attr	_	-
+3	Uhr	Uhr	N	NN	Fem|_|Sg	1	pn	_	-
+4	abends	abends	ADV	ADV	_	3	adv	_	-
+5	bis	bis	PREP	APPR	Acc	1	kon	_	-
+6	zum	zu	PREP	APPRART	Dat	5	pp	_	-
+7	Morgengrauen	Morgengrauen	N	NN	_|Dat|_	6	pn	_	-
+8	liefern	lieferen	V	VVFIN	_|Pl|Pres|_	0	root	_	-
+9	der	die	ART	ART	Def|Masc|Nom|Sg	11	det	_	(0
+10	16jährige	16jährig	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	11	attr	_	-
+11	Tibi	Tibi	N	NN	Masc|Nom|Sg	8	subj	_	-
+12	Fofor	Fofor	N	NE	Fem|Nom|Sg	11	app	_	0)
+13	und	und	KON	KON	_	12	kon	_	-
+14	seine	seine	ART	PPOSAT	Fem|Nom|Sg	16	det	_	(0)
+15	17jährige	17jährig	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	16	attr	_	-
+16	Schwester	Schwester	N	NN	Fem|Nom|Sg	13	cj	_	-
+17	Susan	Susan	N	NE	_|Nom|Pl	16	app	_	-
+18	Kondome	Kondom	N	NN	_|Nom|Pl	17	app	_	-
+19	frei	frei	ADV	ADJD	Pos|	8	adv	_	-
+20	Haus	Haus	N	NN	Neut|_|Sg	8	obja	_	-
+21	.	.	$.	$.	_	0	root	_	-
+
