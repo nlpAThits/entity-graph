@@ -91,7 +91,7 @@ reduce_weihts = False
 
 Adjusted version
 ```
-possession_modifiers = Tru
+possession_modifiers = True
 reduce_weights = True
 ```
 
