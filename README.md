@@ -3,6 +3,7 @@
 The entity-graph repository provides an implementation for computing, analyzing and visualizing German texts using the entity graph. 
 
 ![](images/SCHN_erbschft_1.png)
+
 *Entity graph for first 50 sentences of Die Erbschaft by Arthur Schnitzler.*
 
 
@@ -86,7 +87,7 @@ You can also activate or deactivate the possession modifiers and weight reductio
 Original version
 ```
 possession_modifiers = False
-reduce_weihts = False
+reduce_weights = False
 ```
 
 Adjusted version
