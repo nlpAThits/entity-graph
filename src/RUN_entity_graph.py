@@ -128,7 +128,7 @@ def get_sentences(filename, is_parsed=True, save_in_dir=None):
     return sentences
 
 def draw_graph(entity_graph, filename=None, edge_weights_factor=20):
-    """Draw and save entity graph"""
+    """Draw and save entity graph."""
        
     # Add a zero row/column to end of array (for empty node in circle to indicate end of text)
     entity_graph_zero = np.zeros((entity_graph.shape[0]+1, entity_graph.shape[1]+1))
@@ -167,7 +167,7 @@ def draw_graph(entity_graph, filename=None, edge_weights_factor=20):
 #    # Draw rainbow nodes
 #    nx.draw_networkx_nodes(D,pos,cmap=plt.get_cmap('gist_rainbow'), node_color=integer_list, node_size=400, nodelist = range(0,entity_graph_zero.shape[0]-1))
 #    
-#    # Draw graw nodes    
+#    # Draw gray nodes    
 #    nx.draw_networkx_nodes(D,pos, node_color='gray', edge_color='k', node_size=400, nodelist = range(0,entity_graph_zero.shape[0]-1))
     
     # Draw orange nodes
@@ -191,7 +191,7 @@ def draw_graph(entity_graph, filename=None, edge_weights_factor=20):
         plt.savefig('entity_graphs/'+filename+'.svg', format='svg')
              
 
-#    plt.show()
+    plt.show()
     plt.close()
 
 
@@ -380,25 +380,25 @@ def parse_texts_in_dir(directory, save_dir, nested=False):
 def test_driver(filename, is_parsed=False, to_be_evaluated=False, draw_single_graph=True):
     """Read file and compute entity graph and coherence measure."""
 
-    # catch if file does not exist
+    # Catch if file does not exist
     if not os.path.isfile(filename):        
         raise IOError('File %s does not exist'  % filename)
             
-    # check if file is parsed
+    # Check if file is parsed
     with open(filename,'r') as infile:
         infile = infile.read()     
         if infile.startswith('1\t'):   
             is_parsed = True   
             
-    # get parsed sentences
+    # Get parsed sentences
     sentences = get_sentences(filename, is_parsed)
        
-    # get average out degree
+    # Get average out degree
     original_avg_out_degree = get_coherence_measure(sentences, draw_single_graph=draw_single_graph)
     print('Original: {:f}'.format(original_avg_out_degree))
     
 
-    # evaluation
+    # Evaluation
     if to_be_evaluated or settings.evaluation:
         evaluation.insertion(sentences)
         evaluation.discrimination(sentences,100)
@@ -407,10 +407,10 @@ def test_driver(filename, is_parsed=False, to_be_evaluated=False, draw_single_gr
 # main function
 if __name__ == '__main__':
         
-    # if no file is given
+    # If no file is given use default
     if len(sys.argv)==1:
 
-        # set filename and version
+        # sSt filename and version
         filename = './documents/single_docs/KAFKA_Tuersteher.txt'    
         test_driver(filename, draw_single_graph=True)
 
@@ -419,16 +419,8 @@ if __name__ == '__main__':
         # Get filename
         filename = sys.argv[1]
         
-        # is text pre-parsed
+        # Is text pre-parsed?
         is_parsed = True if len(sys.argv)>2 and sys.argv[2].startswith('-p') else False
         
-        # call test driver
-        test_driver(filename, is_parsed=is_parsed, draw_single_graph=True)
-        
-        
-        
-    
-    
-    
-    
-    
+        # Call test driver
+        test_driver(filename, is_parsed=is_parsed, draw_single_graph=True)  
