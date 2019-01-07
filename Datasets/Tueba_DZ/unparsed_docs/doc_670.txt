@@ -1,3 +1,0 @@
-Washington (AP) - Gegen den Software-Konzern Microsoft sind neue Vorwürfe laut geworden.
-Der Software-Hersteller Caldera veröffentlichte jetzt eine E-Mail, die belegen soll, daß Microsoft Ende der 80er Jahre in eine sehr frühe Version von Windows absichtlich eine Fehlermeldung einbaute, die vortäuschen sollte, daß Windows nur mit dem Betriebssystem MS-DOS laufe und nicht mit dem Konkurrenzprodukt DR-DOS.
-Die Unterlagen sind Teil einer Klage von Caldera gegen Microsoft.
