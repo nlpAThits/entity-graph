@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sun Mar 13 13:46:35 2016
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 
@@ -27,7 +25,7 @@ class Sentence(object):
             self.data = data
     
     def subj(self):
-        """Returns (first) subject head of Sentence"""
+        """Return (first) subject head of Sentence."""
         try:
             subj = [k for k in self.data if k.function == 'subj']
             return subj
@@ -35,66 +33,57 @@ class Sentence(object):
             return None 
             
     def predicate(self):
-        """Returns (first) predicate of Sentence"""
+        """Return (first) predicate of Sentence."""
         try:
             # Predicate is finite verb
             pred = [k for k in self.data if k.full_pos.startswith('V') and k.full_pos.endswith('FIN')]
-            return pred
-    
+            return pred    
         except StopIteration:
             return None 
 
     def agens(self, participle):
-        """Returns agens of Sentence"""
+        """Return agens of Sentence."""
         pp_heads = [k for k in self.data if k.function == 'pn']
         for pn in pp_heads:
             for k in self.data:
                 if (k.position == pn.dependency and (k.lemma == 'von') and (k.function == 'pp') and (k.dependency == participle.position)):
                     return pn
 
-
     def pass_verb(self,verb_pos):
-        """Returns passive verb (action verb) Sentence"""      
+        """Return passive verb (action verb) Sentence."""      
         try:
             # The passive verb (action verb) is the past participle with function "aux" (or "cj")
             verb = next(k for k in self.data if ((k.function == 'aux' or k.function == 'cj') and (k.full_pos == 'VVPP') and (k.dependency == verb_pos)))
             return verb
         except StopIteration:
             return None
-    
             
     def obj(self):
-        """Returns direct object's head of Sentence"""
+        """Return direct object's head of Sentence."""
         try:
             obj = [k for k in self.data if (k.function == 'obja' or k.function == 'objd')]
             
             if settings.all_obj_on:
                 obj = [k for k in self.data if (k.function == 'objd' or k.function == 'obja' or k.function == 'objp' or k.function == 'objg')]
-                
-                
             return obj
         except StopIteration:
             return None   
-            
             
     def obj_d(self):
-        """Returns direct object's head of Sentence"""
+        """Return direct object's head of Sentence."""
         try:
             obj = [k for k in self.data if (k.function == 'objd')]
-            
-                            
             return obj
         except StopIteration:
             return None   
             
-        
     def genitive(self):
-        """Returns all genitive attributes of Sentence"""
+        """Return all genitive attributes of Sentence."""
         genitives = [k for k in self.data if (k.function() == 'gmod')]
         return genitives
         
     def prep_phrase(self):
-        """Returns all prepositiona phrases of Sentence"""
+        """Return all prepositiona phrases of Sentence."""
         prepositional_phrases = [k for k in self.data if k.function == 'pp']
         return prepositional_phrases
         
@@ -116,8 +105,7 @@ class Token(object):
             self.full_pos = token_data[4]
             if self.full_pos == '_':
                 self.full_pos = token_data[3]
-                
-                
+            
             self.mo = token_data[5]
             
             if self.full_pos in ['ADJD', 'ADJA']:
@@ -133,27 +121,26 @@ class Token(object):
             self.part = False
             self.red_degree = 0
             
-    
+
     def reduce_tag(self):
         """Increase the reduction degree and thus reduce the weight."""
         
         self.red_degree += 1
-                
-       
+        
     def morph(self):
-        """Returns morphological information of Token in sentence.
+        """Return morphological information of Token in sentence.
         Depending on part-of-speech, morphology is safed in different class"""        
                 
         if self.sim_pos == 'V':
             return Verb_Morphology(self.mo)
      
     def change_word(self,new_word):
-        """Changes word of Token to new_word"""
+        """Change word of Token to new_word."""
         self.word = new_word
         
         
 class Noun_Morphology(object):
-    """Class for morphology of nouns"""
+    """Class for morphology of nouns."""
     
     def __init__(self, morphdata):        
                 
@@ -164,7 +151,7 @@ class Noun_Morphology(object):
         
          
 class Adj_Morphology(object):
-    """Class for morphology of adjectives"""
+    """Class for morphology of adjectives."""
     
     def __init__(self, morphdata):
         
@@ -172,6 +159,7 @@ class Adj_Morphology(object):
         self.comp = '_' if self.morphdata == '_' else self.morphdata.split('|')[0]
         self.part = '_' if (self.morphdata == '_' or len(self.morphdata.split('|'))<=1)  else self.morphdata.split('|')[1]   
  
+    
 class Verb_Morphology(object):    
     """Class for Morphology information for Verbs as given by ParZu.
     Offers many methods for returning morphological information"""
@@ -181,26 +169,26 @@ class Verb_Morphology(object):
         self.morphdata = morphdata 
      
     def person(self):
-        """Returns person"""
+        """Return person."""
         return int(self.morphdata.split('|')[0])
         
     def numerus(self):
-        """Returns number"""
+        """Return number."""
         return self.morphdata.split('|')[1]
     
     def temp(self):
-        """Returns tense"""
+        """Return tense."""
         return self.morphdata.split('|')[2]
     
     def mod(self):
-        "Returns mode"""
+        "Return mode."""
         if self.morphdata == '_':
             return '_'
         else:
             return self.morphdata.split('|')[3]
 
 def adjust_passive(tokens):
-    """Change subject and agent to object and logical subject if there is passive construction"""
+    """Change subject and agent to object and logical subject if there is passive construction."""
     
     passive_found = False
     
@@ -237,8 +225,6 @@ def adjust_passive(tokens):
  
     return passive_found
     
-
-
 def toString(t):
     """Put all token information into one string."""
     
@@ -274,7 +260,6 @@ def coref_cleaning(t, new_coref_np, current_coref):
             if t.full_pos == 'PRELS':
                 new_coref_np = False
            
-        
         # if value is - , get last found integer
         elif new_coref_np and t.coref.startswith('-'):
             t.coref = current_coref
@@ -326,7 +311,6 @@ def adjust_coref(tokens):
             new_coref_np, current_coref = coref_cleaning(t,new_coref_np, current_coref)
         
 
-
 def get_all_tokens(phrase, tokens):
     """Get first and last token of phrase and return all tokens in between.
     Useful to catch full relative and subjunctive clauses. """
@@ -344,19 +328,15 @@ def get_all_tokens(phrase, tokens):
     
 
 def get_dependent_tokens(sent,head,already_processed = []):
-    """ Returns all words in sentence that are dependent on head
-    
+    """ Return all words in sentence that are dependent on head.
     Args:       sent (list), head (Token)
     Returns:    dependent_tokens (list of Tokens)
     """
-        
+    
     for k in sent:
-            dependent_tokens = [k for k in sent if (k.dependency == head.position) and k not in already_processed] # and k.lemma not in ['(',')','-]]
-
-            
+            dependent_tokens = [k for k in sent if (k.dependency == head.position) and k not in already_processed] 
     if len(dependent_tokens)<1:
-        return []
-        
+        return []        
     #   for all dependent tokens, get their dependent tokens (recursion)
     else:
         for k in dependent_tokens:             
@@ -368,8 +348,7 @@ def get_dependent_tokens(sent,head,already_processed = []):
            
 def get_full_phrase(sent,head):
 
-    """ Returns the full phrase for a given head (usually for noun phrases)
-    
+    """ Return the full phrase for a given head (usually for noun phrases).
     Args:       sent (list), head (Token)
     Returns:    phrase (list of Tokens)
     """
@@ -382,9 +361,8 @@ def get_full_phrase(sent,head):
 
 def print_current_sent(sent):
     
-    """ Prints sentence at current processing step
+    """ Print sentence at current processing step.
     Only used for implementing and debugging.
-    
     Args: sent (list)
     """
 

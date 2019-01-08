@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sun Mar 13 13:46:35 2016
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 
@@ -10,9 +8,14 @@ Created on Sun Mar 13 13:46:35 2016
 # Set paths, weights and other entity graph settings
 """
 
+## Import statements
+# ------------------
 import os 
 from warnings import warn
 
+
+## Path settings
+# ------------------
 
 PARSER_PATH = '/home/jsuter/repositories/'
     
@@ -23,8 +26,7 @@ PARSE_RESULTS_PATH = './CorZu_results'
 if not os.path.exists(PARSE_RESULTS_PATH):        
     os.makedirs(PARSE_RESULTS_PATH)
 
-
-# TueBa/DZ files
+# TueBa/DZ dataset path
 
 VERSION_TAG = ''
 
@@ -33,12 +35,15 @@ unparsed_eval_docs_path = 'documents/01_Tueba_DZ/unparsed_docs'+VERSION_TAG
 preparsed_unparsed_eval_docs_path = 'documents/01_Tueba_DZ/parzu_parsed_docs'+VERSION_TAG
 
 
-# Entity graph version:
-    # pu = P unweighted
-    # pw = P weighted
-    # pacc/full = P accumulated
+# Settings for entity graph
+# ------------------
 
+# Entity graph version:
 version = 'pacc' 
+
+# pu = P unweighted
+# pw = P weighted
+# pacc/full = P accumulated
 
 ### syntacic roles for P and G
 cat_p_on = True
@@ -59,7 +64,6 @@ if possession_modifiers != None:
 # parsed or unparsed eval
 parsed_eval_files = True
 preparsed = True
-
    
 # execute evaluation in main entity graph script
 evaluation = False
@@ -70,10 +74,10 @@ coref_on = True
 dist_on = True
 normalized = True
 
-
 ## Syntactic roles
 # ------------------
 
+# Weights for syntactic roles
 synt_role_dict = {'S':3,
                   'O':2,
                   'P':3,
@@ -81,13 +85,12 @@ synt_role_dict = {'S':3,
                   'X':1,
                   '_':0 }
 
+# Reduction degree
 REDUCTION = 0.75
-
 
 # True =  acc obj, dat obj, gen obj, prep obj
 # False = acc obj only 
 all_obj_on = True
-
 
 ## Other settings dependent 
 # --------------------
@@ -100,7 +103,6 @@ merge_p_and_g = False if not (cat_p_on and cat_g_on) else merge_p_and_g
 
 # redirect from "pacc" to "full"
 version = 'full' if version == 'pacc' else version
- 
 
 ## Writing out and graph drawing settings
 # --------------- 
@@ -109,7 +111,6 @@ write_out = False
 
 # do not write single entities into entity grid to increase readability
 reduced_entity_grid = False
-
 
 ## Drawing Graph with Care:
 # For safety reasons...

@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 13 13:46:35 2016
-
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 
@@ -12,7 +9,6 @@ Evaluate the entity graph on the sentence reordering task.
 """
 
 from __future__ import division
-
 
 import numpy as np
 import pandas as pd
@@ -43,7 +39,6 @@ GLOBALLOCK = multiprocessing.Lock()
 with open('documents/texttype_dict.pkl','rb') as infile:
     texttype_dict = pickle.load(infile)
     
-
 # author abbreviations    
 author_dict = {'Kafka':'KA','Kleist':'KL', 'Keller':'KEL','Schnitzler':'SCHN',
                'Twain':'TWA','Eichendorff':'EICH','Hoffmann':'HOFF','Spyri':'SPY',
@@ -60,8 +55,6 @@ author_dict = {'Kafka':'KA','Kleist':'KL', 'Keller':'KEL','Schnitzler':'SCHN',
                'Zweig':'ZW'         }
     
 inv_author_dict = {v: k for k, v in author_dict.items()}       
-
-
 
 def discrimination(sentences,n, verbose=True):
     """Return accuracy of discrimination evaluation given parsed sentences."""
@@ -91,10 +84,9 @@ def discrimination(sentences,n, verbose=True):
     if verbose:
         print('Coherence measure:  {:.4f}'.format(original_avg_out_degree))
         print('Disc Accuracy:      {:.4f}'.format(accuracy))
-
+        
     return accuracy
     
-
     
 def insertion(sentences, verbose=True, baseline=False):
     """Return insertion score and accuracy of insertion evaluation given parsed sentences."""
@@ -222,7 +214,7 @@ def single_file_evaluation(arguments):
 def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_entities=False, 
                     intersection=False, is_parsed=None, max_n_docs=None, only_first_part=False, baseline=False, 
                     tag='', texttype=None, normal_test=False):
-    """Evaluation of all documents.
+    """Evaluate all documents found in directory.
     Filter option for documents with less than 10 sentences and/or less than 5 entities."""  
     
     # print settings
@@ -239,18 +231,14 @@ def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_ent
     print('P and G merged\t', 'ON' if settings.merge_p_and_g else 'OFF')
     print('\nReduced weights\t', 'ON' if settings.reduce_weights else 'OFF')
     print('Reduction:\t', settings.REDUCTION)
-
-
     print('\n********************\n\n') 
 
-  
     # result lists
     dis_accuracies = []
     ins_scores = []
     ins_accuracies = []
     
     lengths = []   
-
     
     # get directories from settiings file
     if directory==None:
@@ -277,7 +265,7 @@ def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_ent
         # total number of documents in dataset
         total = range(0,len(pickle.load(open("documents/filenames"+settings.VERSION_TAG+".txt","rb"))))
          
-#        # IDs for docs with few ents and sents (including those filtered in "create_corpus_parsed")
+        # IDs for docs with few ents and sents (including those filtered in "create_corpus_parsed")
         few_sents = pickle.load(open("documents/filter_IDs/few_sent_doc_IDs_all"+settings.VERSION_TAG+".txt", "rb" ))
         few_ents =  pickle.load(open("documents/filter_IDs/few_ent_doc_IDs_all"+settings.VERSION_TAG+".txt","rb"))
             
@@ -393,7 +381,6 @@ def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_ent
     ins_scores     = [r[1] for r in results if r != None]
     ins_accuracies = [r[2] for r in results if r != None]
     lengths        = [r[3] for r in results if r != None]
-    
         
     # Save results from sentence ordering tasks 
     np.save('sent_reordering_results/disc_accs'+tag+'.npy', dis_accuracies)
@@ -426,7 +413,6 @@ def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_ent
         print('Average Insertion Score:    {:.4f}'.format(sum(ins_scores)/n_docs))
         print('Average Insertion Acc:      {:.4f}'.format(sum(ins_accuracies)/n_docs))
     
-    
     # create dataframe and fill with results
     df = pd.DataFrame()
     
@@ -446,23 +432,20 @@ def full_evaluation(verbose=False, directory=None, min_10_sents=False, min_5_ent
         print('\n\n'+50*'*')        
         print('Average Discrimination Acc: {:.4f}'.format(table_results[0][1]))
         print('Average Insertion Score:    {:.4f}'.format(table_results[1][1]))
-        print('Average Insertion Acc:      {:.4f}'.format(table_results[2][1]))
-        
+        print('Average Insertion Acc:      {:.4f}'.format(table_results[2][1]))     
     
     return table_results, df
         
-    
-
 
 def evaluation_for_paper():
+    """Call function for recreating results from paper Suter and Strube (2018)."""
     
      # settings: pu, pw, full
      full_evaluation(verbose=False, min_10_sents=True, is_parsed=True)
      
      
     
-if __name__ == '__main__': 
-        
+if __name__ == '__main__':         
     if settings.draw_graph:
         raise IOError('You cannot evaluate while draw_graph is set to True. Set to False in setting.py and try again.')
     

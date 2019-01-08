@@ -1,15 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 13 13:46:35 2016
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 
 # Entity graph module:
 # Compute entity graph based on entity grid and return coherence measure
 """
-
-
 
 # -----------  Import Statements -----------
 
@@ -32,11 +28,9 @@ def safe_division_by_zero(term_a, term_b):
             result = np.nan_to_num(result)
                         
     return result
-
     
 def get_entity_graph(grid_array):
-    """Compute entity graph given grid array"""
-    
+    """Compute entity graph given grid array."""
       
     # NORMALIZATION of the entity graph (does not affect pu version)     
     if settings.normalized and settings.version != 'pu':
@@ -66,9 +60,7 @@ def get_entity_graph(grid_array):
         grid_array_new = np.triu(grid_array_new,k=1)  
         
         grid_array = grid_array_new
-              
-       
-     
+
     else:    
         # dot product grid array 
         grid_array = np.dot(grid_array,grid_array.T)
@@ -112,5 +104,4 @@ def get_avg_out_degree(entity_graph,num_of_sents):
 if __name__ == '__main__':       
  
      grid_array = np.load('documents/example_array.npy')
-     get_entity_graph(grid_array)
-   
+     get_entity_graph(grid_array)  

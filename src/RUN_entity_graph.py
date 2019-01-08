@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sun Mar 13 13:46:35 2016
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 

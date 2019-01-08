@@ -1,16 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 13 13:46:35 2016
-
-
 # Entity Graph for German
 # Author: Julia Suter, 2018
 
 # Entity grid module:
 Compute entity grid based on parsed text. Save and write out entity grid.
 """
-
-
 # -----------  Import Statements -----------
 
 from __future__ import division
@@ -23,13 +18,11 @@ from collections import defaultdict
 import numpy as np
 
 import parse_information as parse_info
-
 import settings
 
 
-
 def get_sentence_token_information(sentences):
-    """Return parsed sentence as nested sentence-token-information list"""
+    """Return parsed sentence as nested sentence-token-information list."""
     
     parsed_text = []
     
@@ -49,10 +42,9 @@ def get_sentence_token_information(sentences):
     return parsed_text
     
     
-    
 def rewrite_coref_tags(sentences):
     """Adjust the coreference tags given by CorZu. 
-    E.g. remove brackets, resolved nested/multile coreference tags..."""
+    E.g. remove brackets, resolved nested/multile coreference tags."""
     
     parsed_text = get_sentence_token_information(sentences)   
     new_sentences = []
@@ -71,7 +63,6 @@ def rewrite_coref_tags(sentences):
     return new_sentences
     
     
-
 def get_entities_with_roles(parsed_text):
     """Get entities with syntactic role S,O,X,P or G.
     If required, reduce weights for embedded entities."""
@@ -119,14 +110,12 @@ def get_entities_with_roles(parsed_text):
         # get prepositions
         preps = [t for t in tokens if t.function == 'pp']
                        
-               
         # if genitive cat is on, remove genitives from 'others'
         if settings.cat_g_on:
             others = [t for t in others if t.function != 'gmod']
             
             # assign cat G to genitive modifiers; or merge with category P into X
             for g in genitive_mods:
-               
                 if not settings.merge_p_and_g:                    
                     g.tag = 'G'
                 
@@ -145,21 +134,18 @@ def get_entities_with_roles(parsed_text):
         for x in others:
             x.tag = 'X'   
             
-              
         # if possessive category is on,
         if settings.cat_p_on:
             
             # assign cat G to possessive pronouns, or merge with category G
-            for p in poss_pronouns:
-    
+            for p in poss_pronouns:    
                 if not settings.merge_p_and_g:                    
                     p.tag = 'P'
                     
                 # if category P and G are merged into one (X)
                 else:
                     if p in full_subjs:
-                        subjs_lemma.append(p)
-                    
+                        subjs_lemma.append(p)                    
                     elif p in full_objs:
                         objs_lemma.append(p)
                     else:
@@ -173,7 +159,6 @@ def get_entities_with_roles(parsed_text):
         # Assign tag S to subjects
         for s in subjs_lemma:
             s.tag = 'S'
-                
 
         # get prepositional phrases   
         prep_phrase = [(p_ent) for (p_ent, prep, ent) in itertools.product(tokens, preps, tokens)  
@@ -183,7 +168,6 @@ def get_entities_with_roles(parsed_text):
                          prep.dependency == ent.position and
                          (ent.function == 'pn')] 
                          
-                        
         # get rel pronouns
         rel_prons = [t for t in tokens if t.full_pos == 'PRELS']
         
@@ -215,7 +199,6 @@ def get_entities_with_roles(parsed_text):
                 if t.position >= k.position and t.position <= j.position:
                     t.subj = True
                     
-                    
         # get part presense and past
         part_pres = [t for t in tokens if t.full_pos == 'ADJD' and t.morph.part == '<PPRES' and t.function in  ['root','pn']]
         part_praet = [t for t in tokens if t.full_pos == 'VVPP' and t.function == 'neb']
@@ -246,26 +229,20 @@ def get_entities_with_roles(parsed_text):
             # mark token in participle construction
             for token in part_con:
                 token.part = True
-        
-                        
                    
         # Reduce weights for tokes in prepositional phrases, relative and 
         # subjunctive clauses and participle constructions
         if settings.reduce_weights:  
                             
-            for p in prep_phrase:
-                
+            for p in prep_phrase:                
                 if p.tag!= '':                    
                     p.reduce_tag()
                 
             for t in tokens:
-                
                 if t.rel and t.tag != '':
-                    t.reduce_tag()
-          
+                    t.reduce_tag()          
                 if t.part and t.tag != '':
-                    t.reduce_tag()
-                             
+                    t.reduce_tag()                             
                 if t.subj and t.tag != '':
                     t.reduce_tag()
             
@@ -274,7 +251,6 @@ def get_entities_with_roles(parsed_text):
         all_entities  = subjs_lemma + objs_lemma + others 
         
         if not settings.merge_p_and_g:
-       
             # append cat p and g entities
             if settings.cat_p_on:
                 all_entities = all_entities + poss_pronouns
@@ -317,15 +293,13 @@ def get_entity_collection_and_counter(entities_with_roles):
                 if entity.coref not in coref_dict.keys() and entity.sim_pos == 'N':
                     
                     coref_dict[entity.coref] = entity.lemma
-                    entity_set.append(entity.lemma)
-                
+                    entity_set.append(entity.lemma)                
                     entity_info.append((entity.lemma,synt_role,reduct_deg))
                     
                 # if seen and coreference feature is on, get corresponding lemma from coref_dict 
                 # save entity information
                 if entity.coref in coref_dict.keys() and settings.coref_on:
-                    entity_name = coref_dict[entity.coref]
-                    
+                    entity_name = coref_dict[entity.coref]                    
                     entity_info.append((entity_name,synt_role, reduct_deg))
                     entity_set.append(entity_name)
              
@@ -348,6 +322,7 @@ def get_entity_collection_and_counter(entities_with_roles):
 
 
 def get_weight(role, degree):
+    """Compute weight based on category and reduction degree."""
     
     if settings.synt_roles_on:
         weight = settings.synt_role_dict[role]                    
@@ -361,14 +336,13 @@ def get_weight(role, degree):
     return 0
 
 def get_entity_grid(clean_entities_by_sent, entity_counter):
-    """Returns the entity grid and entity list
-    Filters duplicates in sentences, assigns highest level syntactic role 
-    and filters out entities that occur only in one sentence"""
+    """Return the entity grid and entity list.
+    Filter duplicates in sentences, assign highest level syntactic role 
+    and filter out entities that occur only in one sentence."""
     
     # Initialize result lists
     entity_grid = []
     entity_list = []
-    
 
     # Iterate over sentences
     for sent in clean_entities_by_sent:
@@ -383,8 +357,7 @@ def get_entity_grid(clean_entities_by_sent, entity_counter):
             if entity[0] in proc_entities:
                 continue
             proc_entities.append(entity[0])
-            
-    
+        
             # if entity occurs more than once in sentence (with different syntactic roles)    
             # select the "highest level" syntactic role: S > 0 > (X|P)
             if all_ents_in_sent.count(entity[0])>1:            
@@ -396,13 +369,11 @@ def get_entity_grid(clean_entities_by_sent, entity_counter):
                 
                 highest_role = ents_with_weights[0]
                 entity = highest_role[0]
-                
                     
-            # only consider entity if it occurs in more than one sentence
+#            # only consider entity if it occurs in more than one sentence
 #            if entity_counter[entity[0]]>1:       
 #                entity_infos.append(entity)
-#                entity_list.append(entity[0])
-         
+#                entity_list.append(entity[0])         
 
             # Append entity
             entity_infos.append(entity)
@@ -410,16 +381,14 @@ def get_entity_grid(clean_entities_by_sent, entity_counter):
 
         entity_grid.append(entity_infos)
         
-    
     # list with all entities (first row of entity grid)
     entity_list = sorted(set(entity_list), key=entity_list.index)
        
     return entity_grid, entity_list
       
-    
-    
+
 def write_to_outfile(entity_grid, entity_list, entity_counter):
-    """Writes entity grid to csv file"""
+    """Write entity grid to csv file."""
 
     # create outfile
     with open(settings.ENTITY_GRID_FILE,'w') as outfile:
@@ -457,10 +426,8 @@ def write_to_outfile(entity_grid, entity_list, entity_counter):
                     role = next(e[1] for e in sent if e[0] == entity)
                     outfile.write(','+role)
                     
-                    
                     if settings.reduce_weights:
-                        degree = next(e[2] for e in sent if e[0] == entity)
-            
+                        degree = next(e[2] for e in sent if e[0] == entity)            
                         if degree>0:
                             outfile.write('-'+str(degree))
                         
@@ -468,16 +435,14 @@ def write_to_outfile(entity_grid, entity_list, entity_counter):
      
 
 def get_grid_array(entity_grid, entity_list):
-    """Creates array from entity grid with integer values for syntactic roles"""
+    """Create array from entity grid with integer values for syntactic roles."""
    
     entity_array = []
     
     # for each sentence
-    for sent in entity_grid:
-        
+    for sent in entity_grid:        
         array_row = []       
         all_ent_in_sent = [e[0] for e in sent]
-    
         
         # if entity is not in sentence, take 0 as syntactic role value
         for entity in entity_list:
@@ -508,5 +473,3 @@ def get_grid_array(entity_grid, entity_list):
         grid_array[i:,] = entity_array[i]
 
     return grid_array
-
-
