@@ -74,8 +74,7 @@ Per default, the test driver function will create the entity graph with networkx
 
 The evaluation script will evaluate the entity graph on the sentence reordering paper as described in the paper. Simply run the script with python. 
 
-In the `settings.py`, you can select the one-mode projection:
-Set *version* to:
+In the `settings.py`, you can select the one-mode projection. Set *version* to:
 
 - *pu* for P unweighted
 - *pw* for P weighted
