@@ -30,9 +30,9 @@ if not os.path.exists(PARSE_RESULTS_PATH):
 
 VERSION_TAG = ''
 
-parsed_eval_docs_path = 'documents/01_Tueba_DZ/gold_docs'+VERSION_TAG
-unparsed_eval_docs_path = 'documents/01_Tueba_DZ/unparsed_docs'+VERSION_TAG
-preparsed_unparsed_eval_docs_path = 'documents/01_Tueba_DZ/parzu_parsed_docs'+VERSION_TAG
+parsed_eval_docs_path = 'datasets/Tueba_DZ/gold_docs'+VERSION_TAG
+unparsed_eval_docs_path = 'datasets/Tueba_DZ/unparsed_docs'+VERSION_TAG
+preparsed_unparsed_eval_docs_path = 'datasets/Tueba_DZ/parzu_parsed_docs'+VERSION_TAG
 
 
 # Settings for entity graph
